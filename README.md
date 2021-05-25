@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/12"/>
+    <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:26:33"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:50:32"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -19,6 +19,18 @@
 
 ## 置顶 :thumbsup: 
 ## 最新 :new: 
+
+#### [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:50:03
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+设置组件scroll-top或scroll-left 需要在数据渲染完成之后，否则设置无效
+相同scroll-view组件复用两组不同数据时，滚动位置不会因数据的更新而变更，需要手动将滚动位置归0
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/10)
+
+---
+
 
 #### [封面图](https://github.com/smileyby/notes-copy/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:10:43
 
@@ -57,70 +69,141 @@
 </details>
 
 <details>
-<summary>bug	<sup>0:newspaper:</sup></summary>
+<summary>Bug :beetle:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>documentation	<sup>0:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>duplicate	<sup>0:newspaper:</sup></summary>
+<summary>Element-UI :mushroom:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>enhancement	<sup>0:newspaper:</sup></summary>
+<summary>HTML :palm_tree:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>good first issue	<sup>0:newspaper:</sup></summary>
+<summary>Node.js :turtle:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>help wanted	<sup>0:newspaper:</sup></summary>
+<summary>React :globe_with_meridians:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>invalid	<sup>0:newspaper:</sup></summary>
+<summary>TypeScript :rabbit:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>question	<sup>0:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>wontfix	<sup>0:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>webpack :leaves:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>兼容 :six_pointed_star:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>小程序 :cyclone:	<sup>1:newspaper:</sup></summary>
+
+- [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
 <summary>开源	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>插件 :sun_with_face:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>摸鱼 :tropical_fish:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>每日任务 :bell:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>浏览器 :broken_heart:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>网络 :sparkles:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>设计相关:blossom:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>面试 :umbrella:	<sup>0:newspaper:</sup></summary>
 
 
 
