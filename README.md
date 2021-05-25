@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:13:18"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:14:00"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,28 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:56
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+https://blog.csdn.net/zgh0711/article/details/78270555?utm_source=blogxgwz9
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/54)
+
+---
+
+
+#### [CSS：炫酷的CSS效果](https://github.com/smileyby/notes-copy/issues/53) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:33
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+https://juejin.im/post/5efab10ff265da22e610d2d0
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/53)
+
+---
+
 
 #### [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:09
 
@@ -60,30 +82,6 @@ font-weight: bold;
 ---
 
 
-#### [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:08:43
-
-:label: : [html2canvas](https://github.com/smileyby/ghiblog/labels/html2canvas)
-
-1. 生成的图片有白边：api配置宽高即可
-2. 文字设置css省略号，多行省略号，html2canvas一律不支持；可采用JS截取解决
-3. 页面不止一屏渲染图片不完整或空白，设置 `document.documentElement.scrollTop = 0` 即可（需要在调用 html2c
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/49)
-
----
-
-
-#### [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes-copy/issues/48) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:07:45
-
-:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
-
-需要使用.native修饰符 @click.native="events"
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/48)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -117,8 +115,10 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>3:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>5:newspaper:</sup></summary>
 
+- [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54)  <sup>0 :speech_balloon:</sup>  	 
+- [CSS：炫酷的CSS效果](https://github.com/smileyby/notes-copy/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes-copy/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50)  <sup>0 :speech_balloon:</sup>  	 
