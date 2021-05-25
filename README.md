@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:50:32"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:51:37"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -19,6 +19,19 @@
 
 ## 置顶 :thumbsup: 
 ## 最新 :new: 
+
+#### [小程序：video组件层级问题](https://github.com/smileyby/notes-copy/issues/11) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:51:06
+
+:label: : 
+
+> 在小程序中video默认层级最高
+> 如果需要在视频组件上覆盖 内容 可使用cover-view或cover-image组件
+> 存在问题，在swiper中放入视频，使用cover-view覆盖图片上去，在轮播切换的时候，cover-view覆盖的图标会一直在原位置（如果cover-view
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/11)
+
+---
+
 
 #### [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:50:03
 
