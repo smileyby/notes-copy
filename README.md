@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:30:17"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:31:07"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -199,8 +199,9 @@ touchEnd(e) {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>7:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>8:newspaper:</sup></summary>
 
+- [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15)  <sup>0 :speech_balloon:</sup>  	 
