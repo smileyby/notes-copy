@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:51:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:52:42"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -19,6 +19,26 @@
 
 ## 置顶 :thumbsup: 
 ## 最新 :new: 
+
+#### [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:52:10
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+本次报错原因，组件Component properties 属性 多类型配置错误导致
+```javascript
+// 错误配置如下：
+properties: {
+  lastLeaf: String|Number
+}
+
+// 正确配置
+properties: {
+  lastLe
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/12)
+
+---
+
 
 #### [小程序：video组件层级问题](https://github.com/smileyby/notes-copy/issues/11) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:51:06
 
@@ -159,8 +179,9 @@
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>1:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>2:newspaper:</sup></summary>
 
+- [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 
 
