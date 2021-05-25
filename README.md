@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:12:30"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:13:18"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,32 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:09
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+/* 原本以为这是加粗效果，但在部分浏览器中并不是加粗 */
+font-weight: 700;
+
+/* 如果想要加粗效果, 靠谱写法如下 */
+font-weight: bold;
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/52)
+
+---
+
+
+#### [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes-copy/issues/51) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:12:45
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+参考链接：https://www.zhangxinxu.com/study/202010/image-error-show-alt-demo.php
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/51)
+
+---
+
 
 #### [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:12:02
 
@@ -58,35 +84,6 @@
 ---
 
 
-#### [Elementui-cascader级联选择组件](https://github.com/smileyby/notes-copy/issues/47) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:06:56
-
-:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
-
-> **动态加载次级数据问题**: 
-```js
-var Main = {
-    data() {
-        return {
-            options2: [{
-                label: '江苏',
-                citie
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/47)
-
----
-
-
-#### [Element： ref 被重新赋值](https://github.com/smileyby/notes-copy/issues/46) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:05:53
-
-:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
-
-elementui中，如果想要在表单弹窗关闭或者切换时，清空验证信息，一定要注意表单不要用v-if来判断显示和隐藏，使用v-if来判断会导致表单的ref重新赋值，导致清除验证无效
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/46)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -120,8 +117,10 @@ elementui中，如果想要在表单弹窗关闭或者切换时，清空验证�
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>1:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>3:newspaper:</sup></summary>
 
+- [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52)  <sup>0 :speech_balloon:</sup>  	 
+- [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes-copy/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 
 
