@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:08:01"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:11:28"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -17,6 +17,21 @@
 </p>
 
 
+
+<p align='center'>
+<a href='https://github.com/smileyby/ghiblog/issues/1#issuecomment-847653254'>
+<img src='https://user-images.githubusercontent.com/16968442/119462781-b033b700-bd73-11eb-8858-68792e9dda2f.jpg' width='50%' alt='
+[皮卡丘]
+'>
+</a>
+</p>
+<p align='center'>
+<span>
+[皮卡丘]
+</span>
+</p>
+
+    
 ## 置顶 :thumbsup: 
 - [置顶](https://github.com/smileyby/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
@@ -96,7 +111,7 @@ wtf
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面图](https://github.com/smileyby/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [封面图](https://github.com/smileyby/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
