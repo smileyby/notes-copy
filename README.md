@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:15:32"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:16:26"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,28 +34,6 @@
     
 ## 置顶 :thumbsup: 
 ## 最新 :new: 
-
-#### [wtf](https://github.com/smileyby/notes-copy/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:55:57
-
-:label: : [documentation](https://github.com/smileyby/ghiblog/labels/documentation)
-
-wtf
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/9)
-
----
-
-
-#### [006](https://github.com/smileyby/notes-copy/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:52:27
-
-:label: : [bug](https://github.com/smileyby/ghiblog/labels/bug)
-
-测试
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/8)
-
----
-
 
 #### [封面图](https://github.com/smileyby/notes-copy/issues/1) <sup>1 :speech_balloon:</sup> 	 2021-05-25 07:10:43
 
@@ -101,9 +79,8 @@ wtf
 </details>
 
 <details>
-<summary>documentation	<sup>1:newspaper:</sup></summary>
+<summary>documentation	<sup>0:newspaper:</sup></summary>
 
-- [wtf](https://github.com/smileyby/notes-copy/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
