@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:11:28"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:15:32"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -19,7 +19,7 @@
 
 
 <p align='center'>
-<a href='https://github.com/smileyby/ghiblog/issues/1#issuecomment-847653254'>
+<a href='https://github.com/smileyby/notes-copy/issues/1#issuecomment-847653254'>
 <img src='https://user-images.githubusercontent.com/16968442/119462781-b033b700-bd73-11eb-8858-68792e9dda2f.jpg' width='50%' alt='
 [皮卡丘]
 '>
@@ -33,60 +33,38 @@
 
     
 ## 置顶 :thumbsup: 
-- [置顶](https://github.com/smileyby/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [wtf](https://github.com/smileyby/ghiblog/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:55:57
+#### [wtf](https://github.com/smileyby/notes-copy/issues/9) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:55:57
 
 :label: : [documentation](https://github.com/smileyby/ghiblog/labels/documentation)
 
 wtf
 
-[更多>>>](https://github.com/smileyby/ghiblog/issues/9)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/9)
 
 ---
 
 
-#### [006](https://github.com/smileyby/ghiblog/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:52:27
+#### [006](https://github.com/smileyby/notes-copy/issues/8) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:52:27
 
 :label: : [bug](https://github.com/smileyby/ghiblog/labels/bug)
 
 测试
 
-[更多>>>](https://github.com/smileyby/ghiblog/issues/8)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/8)
 
 ---
 
 
-#### [测试-005](https://github.com/smileyby/ghiblog/issues/7) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:47:30
+#### [封面图](https://github.com/smileyby/notes-copy/issues/1) <sup>1 :speech_balloon:</sup> 	 2021-05-25 07:10:43
 
-:label: : [duplicate](https://github.com/smileyby/ghiblog/labels/duplicate)
+:label: : [:framed_picture:封面](https://github.com/smileyby/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
-测试-005
-
-[更多>>>](https://github.com/smileyby/ghiblog/issues/7)
-
----
+![稻城亚丁](https://user-images.githubusercontent.com/16968442/119454599-49aa9b00-bd6b-11eb-8573-f6fcae939734.jpg)
 
 
-#### [测试-0045](https://github.com/smileyby/ghiblog/issues/6) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:41:30
-
-:label: : [enhancement](https://github.com/smileyby/ghiblog/labels/enhancement)
-
-测试-0045
-
-[更多>>>](https://github.com/smileyby/ghiblog/issues/6)
-
----
-
-
-#### [测试-003](https://github.com/smileyby/ghiblog/issues/5) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:34:13
-
-:label: : [enhancement](https://github.com/smileyby/ghiblog/labels/enhancement)
-
-测试-003，TMD有毒
-
-[更多>>>](https://github.com/smileyby/ghiblog/issues/5)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/1)
 
 ---
 
@@ -101,9 +79,8 @@ wtf
 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>0:newspaper:</sup></summary>
 
-- [置顶](https://github.com/smileyby/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -111,41 +88,36 @@ wtf
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面图](https://github.com/smileyby/ghiblog/issues/1)  <sup>1 :speech_balloon:</sup>  	 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>bug	<sup>1:newspaper:</sup></summary>
+<summary>bug	<sup>0:newspaper:</sup></summary>
 
-- [006](https://github.com/smileyby/ghiblog/issues/8)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>documentation	<sup>2:newspaper:</sup></summary>
-
-- [wtf](https://github.com/smileyby/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
-- [测试-001](https://github.com/smileyby/ghiblog/issues/3)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>duplicate	<sup>1:newspaper:</sup></summary>
+<summary>documentation	<sup>1:newspaper:</sup></summary>
 
-- [测试-005](https://github.com/smileyby/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 
+- [wtf](https://github.com/smileyby/notes-copy/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>enhancement	<sup>2:newspaper:</sup></summary>
+<summary>duplicate	<sup>0:newspaper:</sup></summary>
 
-- [测试-0045](https://github.com/smileyby/ghiblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
-- [测试-003](https://github.com/smileyby/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>enhancement	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
@@ -172,9 +144,8 @@ wtf
 </details>
 
 <details>
-<summary>question	<sup>1:newspaper:</sup></summary>
+<summary>question	<sup>0:newspaper:</sup></summary>
 
-- [测试-002](https://github.com/smileyby/ghiblog/issues/4)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
