@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:31:07"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:33:10"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,31 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:32:42
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+https://developers.weixin.qq.com/community/develop/doc/0006ac8c628d508af4a9970985ec00
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/19)
+
+---
+
+
+#### [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:31:12
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+云开发：
+小程序开通云服务
+创建数据库-数据集合（基础版本，集合最多100个）
+集合创建完成，在小程序端按照文档获取数据库数据时，需要先给database集合设置权限；（数据库的权限默认是创建者可读写）
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/18)
+
+---
+
 
 #### [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:12:22
 
@@ -62,36 +87,6 @@ module.exports = {
 小程序拿到后decodeURIComponent 转码后才可以解析
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/15)
-
----
-
-
-#### [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:10:09
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-解决方法：多绑定 touchstart 和touchend 事件记录点击的时间，如果小于 350ms即为点击否则为长按
-
-touchStart(e) {
-   this.startTime = e.timeStamp;
-},
-touchEnd(e) {
-  this.endTime = 
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/14)
-
----
-
-
-#### [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:08:44
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-之前没仔细看，今天用的时候发现给setStorageSync传递对象参数会报错
-
-带Sync，接受的参数是字符串以逗号分隔，不带Sync的接受一个对象作为参数，可以写回调函数
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/13)
 
 ---
 
@@ -199,8 +194,10 @@ touchEnd(e) {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>8:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>10:newspaper:</sup></summary>
 
+- [小程序：请求接口报错：-202::NET::ERR_CERT_AUTHORITY_INVALID](https://github.com/smileyby/notes-copy/issues/20)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
