@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 07:11:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 07:16:01"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -18,7 +18,19 @@
 
 
 ## 置顶 :thumbsup: 
+- [置顶](https://github.com/smileyby/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [置顶](https://github.com/smileyby/ghiblog/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:15:31
+
+:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+
+发自肺腑的一段话
+
+[更多>>>](https://github.com/smileyby/ghiblog/issues/2)
+
+---
+
 
 #### [封面图](https://github.com/smileyby/ghiblog/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:10:43
 
@@ -42,8 +54,9 @@
 
 
 <details>
-<summary>:+1:置顶	<sup>0:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
+- [置顶](https://github.com/smileyby/ghiblog/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
