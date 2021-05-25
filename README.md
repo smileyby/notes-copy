@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:14:00"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:14:50"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS：主题快捷切换](https://github.com/smileyby/notes-copy/issues/55) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:14:21
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+https://uglyduck.ca/quick-dirty-theme-switcher/
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/55)
+
+---
+
 
 #### [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:56
 
@@ -69,19 +80,6 @@ font-weight: bold;
 ---
 
 
-#### [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:12:02
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-导致问题的原因是内联元素，对齐方式是基于 baseline （基线）
-解决办法，给inline-block 元素设置 vertical-align 属性，调整元素至居中位置
-[参考链接](https://segmentfault.com/a/1190000006808606)
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/50)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -115,8 +113,10 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>5:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>7:newspaper:</sup></summary>
 
+- [CSS：各大网站实现灰度的方法](https://github.com/smileyby/notes-copy/issues/56)  <sup>0 :speech_balloon:</sup>  	 
+- [CSS：主题快捷切换](https://github.com/smileyby/notes-copy/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：炫酷的CSS效果](https://github.com/smileyby/notes-copy/issues/53)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52)  <sup>0 :speech_balloon:</sup>  	 
