@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:11:44"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:12:59"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,26 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:12:22
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+// 创建wxs文件
+```js
+function indexOf(arr, value){
+  if (arr.indexOf(value) < 0) {
+    return false;
+  } else {
+    return true;
+  }
+}
+module.exp
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/17)
+
+---
+
 
 #### [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:11:44
 
@@ -73,26 +93,6 @@ touchEnd(e) {
 带Sync，接受的参数是字符串以逗号分隔，不带Sync的接受一个对象作为参数，可以写回调函数
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/13)
-
----
-
-
-#### [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:52:10
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-本次报错原因，组件Component properties 属性 多类型配置错误导致
-```javascript
-// 错误配置如下：
-properties: {
-  lastLeaf: String|Number
-}
-
-// 正确配置
-properties: {
-  lastLe
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/12)
 
 ---
 
@@ -200,8 +200,9 @@ properties: {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>6:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>7:newspaper:</sup></summary>
 
+- [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14)  <sup>0 :speech_balloon:</sup>  	 
