@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/22"/>
+    <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:33:10"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:12:30"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -21,72 +21,68 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:32:42
+#### [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:12:02
 
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
 
-https://developers.weixin.qq.com/community/develop/doc/0006ac8c628d508af4a9970985ec00
+导致问题的原因是内联元素，对齐方式是基于 baseline （基线）
+解决办法，给inline-block 元素设置 vertical-align 属性，调整元素至居中位置
+[参考链接](https://segmentfault.com/a/1190000006808606)
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/19)
-
----
-
-
-#### [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:31:12
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-云开发：
-小程序开通云服务
-创建数据库-数据集合（基础版本，集合最多100个）
-集合创建完成，在小程序端按照文档获取数据库数据时，需要先给database集合设置权限；（数据库的权限默认是创建者可读写）
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/18)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/50)
 
 ---
 
 
-#### [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:12:22
+#### [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:08:43
 
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+:label: : [html2canvas](https://github.com/smileyby/ghiblog/labels/html2canvas)
 
-1.创建wxs文件
-function indexOf(arr, value){
-  if (arr.indexOf(value) < 0) {
-    return false;
-  } else {
-    return true;
-  }
-}
-module.exports = {
+1. 生成的图片有白边：api配置宽高即可
+2. 文字设置css省略号，多行省略号，html2canvas一律不支持；可采用JS截取解决
+3. 页面不止一屏渲染图片不完整或空白，设置 `document.documentElement.scrollTop = 0` 即可（需要在调用 html2c
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/17)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/49)
 
 ---
 
 
-#### [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:11:44
+#### [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes-copy/issues/48) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:07:45
 
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
 
+需要使用.native修饰符 @click.native="events"
 
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/16)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/48)
 
 ---
 
 
-#### [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:11:15
+#### [Elementui-cascader级联选择组件](https://github.com/smileyby/notes-copy/issues/47) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:06:56
 
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
 
-掉小程序接口：https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=ACCESS_TOKEN
+> **动态加载次级数据问题**: 
+```js
+var Main = {
+    data() {
+        return {
+            options2: [{
+                label: '江苏',
+                citie
 
-通过scene传参，格式为 '?scene=xxxxx'
+[更多>>>](https://github.com/smileyby/notes-copy/issues/47)
 
-小程序拿到后decodeURIComponent 转码后才可以解析
+---
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/15)
+
+#### [Element： ref 被重新赋值](https://github.com/smileyby/notes-copy/issues/46) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:05:53
+
+:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
+
+elementui中，如果想要在表单弹窗关闭或者切换时，清空验证信息，一定要注意表单不要用v-if来判断显示和隐藏，使用v-if来判断会导致表单的ref重新赋值，导致清除验证无效
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/46)
 
 ---
 
@@ -124,15 +120,25 @@ module.exports = {
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>0:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>1:newspaper:</sup></summary>
 
+- [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes-copy/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>Element-UI :mushroom:	<sup>0:newspaper:</sup></summary>
+<summary>Element-UI :mushroom:	<sup>9:newspaper:</sup></summary>
 
+- [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes-copy/issues/48)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui-cascader级联选择组件](https://github.com/smileyby/notes-copy/issues/47)  <sup>0 :speech_balloon:</sup>  	 
+- [Element： ref 被重新赋值](https://github.com/smileyby/notes-copy/issues/46)  <sup>0 :speech_balloon:</sup>  	 
+- [Element: el-date-picker 点击 × 清除数据，会将model绑定值重置为 null](https://github.com/smileyby/notes-copy/issues/45)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：el-date-picker,value值要传字符串](https://github.com/smileyby/notes-copy/issues/44)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：树结构，默认会将节点值转成字符串](https://github.com/smileyby/notes-copy/issues/43)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：自定义表单效验规则要保证 callback必然会被执行](https://github.com/smileyby/notes-copy/issues/42)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui：table summary-method 方法动态更新](https://github.com/smileyby/notes-copy/issues/38)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui：elementui 滚动条组件](https://github.com/smileyby/notes-copy/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -140,6 +146,15 @@ module.exports = {
 <details>
 <summary>HTML :palm_tree:	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>JavaScript	<sup>2:newspaper:</sup></summary>
+
+- [JavaScript：URLSearchParams 解析地址栏参数](https://github.com/smileyby/notes-copy/issues/32)  <sup>0 :speech_balloon:</sup>  	 
+- [JavaScript：可迭代对象的两个必要条件](https://github.com/smileyby/notes-copy/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -159,6 +174,14 @@ module.exports = {
 </details>
 
 <details>
+<summary>Todo	<sup>1:newspaper:</sup></summary>
+
+- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>TypeScript :rabbit:	<sup>0:newspaper:</sup></summary>
 
 
@@ -173,29 +196,49 @@ module.exports = {
 </details>
 
 <details>
-<summary>git :monkey_face:	<sup>0:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>2:newspaper:</sup></summary>
 
-
-
-</details>
-
-<details>
-<summary>webpack :leaves:	<sup>0:newspaper:</sup></summary>
-
+- [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes-copy/issues/41)  <sup>0 :speech_balloon:</sup>  	 
+- [Git：常用命令汇总 ](https://github.com/smileyby/notes-copy/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>兼容 :six_pointed_star:	<sup>0:newspaper:</sup></summary>
+<summary>html2canvas	<sup>1:newspaper:</sup></summary>
 
+- [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>10:newspaper:</sup></summary>
+<summary>webpack :leaves:	<sup>1:newspaper:</sup></summary>
 
+- [Webpack：TypeError: Cannot destructure property 'compile' of 'undefined' or 'null'](https://github.com/smileyby/notes-copy/issues/30)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>兼容 :six_pointed_star:	<sup>2:newspaper:</sup></summary>
+
+- [PC端：IE表格边框消失](https://github.com/smileyby/notes-copy/issues/29)  <sup>0 :speech_balloon:</sup>  	 
+- [移动端：IOS，getTime(),getFullYear()等返回显示NaN](https://github.com/smileyby/notes-copy/issues/28)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>小程序 :cyclone:	<sup>17:newspaper:</sup></summary>
+
+- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：TEXT标签还能嵌套text标签，其他标签无效 ](https://github.com/smileyby/notes-copy/issues/26)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：组件内【boundingClientRect】方法获取元素高度时，返回null](https://github.com/smileyby/notes-copy/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：scroll-view组件内部元素直接添加阴影会被截断 ](https://github.com/smileyby/notes-copy/issues/24)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：Some selectors are not allowed in component wxss, including tag name](https://github.com/smileyby/notes-copy/issues/23)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：使用定位，在ios中可能会导致横向滚动](https://github.com/smileyby/notes-copy/issues/22)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：wx.request:fail ssl hand shake error](https://github.com/smileyby/notes-copy/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：请求接口报错：-202::NET::ERR_CERT_AUTHORITY_INVALID](https://github.com/smileyby/notes-copy/issues/20)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18)  <sup>0 :speech_balloon:</sup>  	 
@@ -225,8 +268,11 @@ module.exports = {
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>0:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>3:newspaper:</sup></summary>
 
+- [摸鱼：神兽](https://github.com/smileyby/notes-copy/issues/35)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：漫画-我要摆地摊](https://github.com/smileyby/notes-copy/issues/34)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：推荐电影](https://github.com/smileyby/notes-copy/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -239,15 +285,17 @@ module.exports = {
 </details>
 
 <details>
-<summary>浏览器 :broken_heart:	<sup>0:newspaper:</sup></summary>
+<summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
 
+- [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>网络 :sparkles:	<sup>0:newspaper:</sup></summary>
+<summary>网络 :sparkles:	<sup>1:newspaper:</sup></summary>
 
+- [TCP 三次/四次握手](https://github.com/smileyby/notes-copy/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
