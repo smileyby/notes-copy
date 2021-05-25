@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 08:52:42"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:07:59"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -18,6 +18,7 @@
 
 
 ## 置顶 :thumbsup: 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
 #### [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:52:10
@@ -67,7 +68,7 @@ properties: {
 
 #### [封面图](https://github.com/smileyby/notes-copy/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:10:43
 
-:label: : [:framed_picture:封面](https://github.com/smileyby/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
+:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [:framed_picture:封面](https://github.com/smileyby/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
 ![稻城亚丁](https://user-images.githubusercontent.com/16968442/119454599-49aa9b00-bd6b-11eb-8573-f6fcae939734.jpg)
 
@@ -87,8 +88,9 @@ properties: {
 
 
 <details>
-<summary>:+1:置顶	<sup>0:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
