@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:12:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:30:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -25,8 +25,7 @@
 
 :label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
 
-// 创建wxs文件
-```js
+1.创建wxs文件
 function indexOf(arr, value){
   if (arr.indexOf(value) < 0) {
     return false;
@@ -34,7 +33,7 @@ function indexOf(arr, value){
     return true;
   }
 }
-module.exp
+module.exports = {
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/17)
 
