@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:09:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:11:44"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,49 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:11:44
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/16)
+
+---
+
+
+#### [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:11:15
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+掉小程序接口：https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=ACCESS_TOKEN
+
+通过scene传参，格式为 '?scene=xxxxx'
+
+小程序拿到后decodeURIComponent 转码后才可以解析
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/15)
+
+---
+
+
+#### [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:10:09
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+解决方法：多绑定 touchstart 和touchend 事件记录点击的时间，如果小于 350ms即为点击否则为长按
+
+touchStart(e) {
+   this.startTime = e.timeStamp;
+},
+touchEnd(e) {
+  this.endTime = 
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/14)
+
+---
+
 
 #### [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:08:44
 
@@ -50,43 +93,6 @@ properties: {
   lastLe
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/12)
-
----
-
-
-#### [小程序：video组件层级问题](https://github.com/smileyby/notes-copy/issues/11) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:51:06
-
-:label: : 
-
-> 在小程序中video默认层级最高
-> 如果需要在视频组件上覆盖 内容 可使用cover-view或cover-image组件
-> 存在问题，在swiper中放入视频，使用cover-view覆盖图片上去，在轮播切换的时候，cover-view覆盖的图标会一直在原位置（如果cover-view
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/11)
-
----
-
-
-#### [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:50:03
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-设置组件scroll-top或scroll-left 需要在数据渲染完成之后，否则设置无效
-相同scroll-view组件复用两组不同数据时，滚动位置不会因数据的更新而变更，需要手动将滚动位置归0
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/10)
-
----
-
-
-#### [封面图](https://github.com/smileyby/notes-copy/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-05-25 07:10:43
-
-:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [:framed_picture:封面](https://github.com/smileyby/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
-
-![稻城亚丁](https://user-images.githubusercontent.com/16968442/119454599-49aa9b00-bd6b-11eb-8573-f6fcae939734.jpg)
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/1)
 
 ---
 
@@ -194,8 +200,11 @@ properties: {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>3:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>6:newspaper:</sup></summary>
 
+- [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
