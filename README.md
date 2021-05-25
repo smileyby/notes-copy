@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:07:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-25 09:09:14"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -20,6 +20,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13) <sup>0 :speech_balloon:</sup> 	 2021-05-25 09:08:44
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+之前没仔细看，今天用的时候发现给setStorageSync传递对象参数会报错
+
+带Sync，接受的参数是字符串以逗号分隔，不带Sync的接受一个对象作为参数，可以写回调函数
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/13)
+
+---
+
 
 #### [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:52:10
 
@@ -181,8 +194,9 @@ properties: {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>2:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>3:newspaper:</sup></summary>
 
+- [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
 
