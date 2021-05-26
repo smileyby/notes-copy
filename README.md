@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/25"/>
+    <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-25 10:14:50"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-26 01:34:14"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -17,65 +17,92 @@
 </p>
 
 
+
+<p align='center'>
+<a href='https://github.com/smileyby/notes-copy/issues/1#issuecomment-848390534'>
+<img src='https://user-images.githubusercontent.com/16968442/119589467-6e535100-be05-11eb-8847-0131eb266158.png' width='50%' alt='
+[ Shine]'>
+</a>
+</p>
+<p align='center'>
+<span>
+[ Shine]</span>
+</p>
+
+    
 ## 置顶 :thumbsup: 
-- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [CSS：主题快捷切换](https://github.com/smileyby/notes-copy/issues/55) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:14:21
+#### [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:41:11
 
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+:label: : [网络 :sparkles:](https://github.com/smileyby/ghiblog/labels/%E7%BD%91%E7%BB%9C%20%3Asparkles%3A)
 
-https://uglyduck.ca/quick-dirty-theme-switcher/
+## HTTP状态码（HTTP STATUS CODE）
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/55)
+> HTTP状态码：是用以表示网页服务器超文本传输协议响应状态的3位数字代码。它是由RFC2616规范定义的，并得到REC2518、RFC2817、RFC2295、RFC2774与RFC4918等规范扩展。所有状态码的第一个数字代表响应
 
----
-
-
-#### [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:56
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-https://blog.csdn.net/zgh0711/article/details/78270555?utm_source=blogxgwz9
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/54)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/88)
 
 ---
 
 
-#### [CSS：炫酷的CSS效果](https://github.com/smileyby/notes-copy/issues/53) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:33
+#### [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:40:14
 
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-https://juejin.im/post/5efab10ff265da22e610d2d0
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/53)
-
----
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
 
 
-#### [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes-copy/issues/52) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:13:09
+class Chameleon {
+    static colorChange(newColor) {
+        this.newColor = newColor
+        return this.newColor
+    }
+    constructor({newCo
 
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-/* 原本以为这是加粗效果，但在部分浏览器中并不是加粗 */
-font-weight: 700;
-
-/* 如果想要加粗效果, 靠谱写法如下 */
-font-weight: bold;
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/52)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/87)
 
 ---
 
 
-#### [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes-copy/issues/51) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:12:45
+#### [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:39:31
 
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
 
-参考链接：https://www.zhangxinxu.com/study/202010/image-error-show-alt-demo.php
+function getPersonInfo(one, two, three) {
+  console.log(one);
+  console.log(two);
+  console.log(three);
+}
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/51)
+const person = 'Lydia';
+const age = 
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/86)
+
+---
+
+
+#### [JS：localStorage 分域名存储](https://github.com/smileyby/notes-copy/issues/85) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:37:15
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+localStorage 存储的值，是根据域名进行隔离的，不同域名下不会互相影响
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/85)
+
+---
+
+
+#### [JS：canvas动态获取绘制文字的宽度 CanvasRenderingContext2D.measureText()](https://github.com/smileyby/notes-copy/issues/84) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:36:47
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+场景：项目海报生成的同一行文字，字体大小不同，根据设计稿给定位置绘制后会发生重叠
+需要检测前一串文字的长度，动态计算后面文字的位置
+方案：CanvasRenderingContext2D.measureText() 这个方法完美解决，而且兼容性还棒棒哒
+参考：https://developer
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/84)
 
 ---
 
@@ -92,7 +119,7 @@ font-weight: bold;
 <details>
 <summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
-- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -100,7 +127,7 @@ font-weight: bold;
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>0 :speech_balloon:</sup>  	 
+- [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -113,8 +140,10 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>7:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>9:newspaper:</sup></summary>
 
+- [CSS：object-fit](https://github.com/smileyby/notes-copy/issues/58)  <sup>0 :speech_balloon:</sup>  	 
+- [CSS：border绘制不同的图形](https://github.com/smileyby/notes-copy/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：各大网站实现灰度的方法](https://github.com/smileyby/notes-copy/issues/56)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：主题快捷切换](https://github.com/smileyby/notes-copy/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：flex两栏布局，不设置父元素宽度，内部子元素会超出](https://github.com/smileyby/notes-copy/issues/54)  <sup>0 :speech_balloon:</sup>  	 
@@ -143,15 +172,36 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>HTML :palm_tree:	<sup>0:newspaper:</sup></summary>
+<summary>HTML :palm_tree:	<sup>2:newspaper:</sup></summary>
 
+- [HTML：Unicode 编码的用途](https://github.com/smileyby/notes-copy/issues/77)  <sup>0 :speech_balloon:</sup>  	 
+- [HTML：实现a元素href URL链接自动刷新或新窗口打开](https://github.com/smileyby/notes-copy/issues/69)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>JavaScript	<sup>2:newspaper:</sup></summary>
+<summary>JavaScript	<sup>21:newspaper:</sup></summary>
 
+- [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：localStorage 分域名存储](https://github.com/smileyby/notes-copy/issues/85)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：canvas动态获取绘制文字的宽度 CanvasRenderingContext2D.measureText()](https://github.com/smileyby/notes-copy/issues/84)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：safari浏览器禁止多指操作默认事件，并解决图片长按放大问题](https://github.com/smileyby/notes-copy/issues/83)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：判断一个对象会否存在循环引用，直接使用JSON.stringify](https://github.com/smileyby/notes-copy/issues/82)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：获取月份最后一天](https://github.com/smileyby/notes-copy/issues/81)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：Number 最大值 Math.pow(2, 53) ](https://github.com/smileyby/notes-copy/issues/80)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：关于websocket的心跳检测](https://github.com/smileyby/notes-copy/issues/79)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：eval() 替代方法](https://github.com/smileyby/notes-copy/issues/78)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：计算精度问题](https://github.com/smileyby/notes-copy/issues/68)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：import命令是编译阶段执行的，在代码运行之前](https://github.com/smileyby/notes-copy/issues/67)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：padStart](https://github.com/smileyby/notes-copy/issues/66)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：用includes方法替代或判断，替代indexOf方法](https://github.com/smileyby/notes-copy/issues/65)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：String与new String](https://github.com/smileyby/notes-copy/issues/64)  <sup>0 :speech_balloon:</sup>  	 
+- [JS：获取某一天的前三天和后三天的日期](https://github.com/smileyby/notes-copy/issues/63)  <sup>0 :speech_balloon:</sup>  	 
+- [JavaScript：window.history](https://github.com/smileyby/notes-copy/issues/61)  <sup>0 :speech_balloon:</sup>  	 
+- [ES6：Set:](https://github.com/smileyby/notes-copy/issues/60)  <sup>0 :speech_balloon:</sup>  	 
+- [ES7：?? 空值合并操作符](https://github.com/smileyby/notes-copy/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：URLSearchParams 解析地址栏参数](https://github.com/smileyby/notes-copy/issues/32)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：可迭代对象的两个必要条件](https://github.com/smileyby/notes-copy/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -166,8 +216,9 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>React :globe_with_meridians:	<sup>0:newspaper:</sup></summary>
+<summary>React :globe_with_meridians:	<sup>1:newspaper:</sup></summary>
 
+- [React 项目配置less](https://github.com/smileyby/notes-copy/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -181,15 +232,20 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>TypeScript :rabbit:	<sup>0:newspaper:</sup></summary>
+<summary>TypeScript :rabbit:	<sup>1:newspaper:</sup></summary>
 
+- [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes-copy/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>0:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>4:newspaper:</sup></summary>
 
+- [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes-copy/issues/73)  <sup>0 :speech_balloon:</sup>  	 
+- [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes-copy/issues/72)  <sup>0 :speech_balloon:</sup>  	 
+- [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes-copy/issues/71)  <sup>0 :speech_balloon:</sup>  	 
+- [VUE：vue-cli · Failed to download repo vuejs-templates/webpack: getaddrinfo ENOTFOUND github.com github.com:443](https://github.com/smileyby/notes-copy/issues/70)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -267,8 +323,9 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>3:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>4:newspaper:</sup></summary>
 
+- [摸鱼：1024-js代码排行](https://github.com/smileyby/notes-copy/issues/62)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：神兽](https://github.com/smileyby/notes-copy/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：漫画-我要摆地摊](https://github.com/smileyby/notes-copy/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：推荐电影](https://github.com/smileyby/notes-copy/issues/33)  <sup>0 :speech_balloon:</sup>  	 
@@ -284,6 +341,13 @@ font-weight: bold;
 </details>
 
 <details>
+<summary>每日趣闻	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
 <summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
 
 - [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
@@ -292,8 +356,23 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>网络 :sparkles:	<sup>1:newspaper:</sup></summary>
+<summary>程序员段子	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>程序员表情包	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>网络 :sparkles:	<sup>2:newspaper:</sup></summary>
+
+- [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [TCP 三次/四次握手](https://github.com/smileyby/notes-copy/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -307,8 +386,9 @@ font-weight: bold;
 </details>
 
 <details>
-<summary>面试 :umbrella:	<sup>0:newspaper:</sup></summary>
+<summary>面试 :umbrella:	<sup>1:newspaper:</sup></summary>
 
+- [面试：作用域](https://github.com/smileyby/notes-copy/issues/76)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
