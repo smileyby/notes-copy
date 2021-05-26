@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-26 01:34:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-26 02:39:13"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,26 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89) <sup>0 :speech_balloon:</sup> 	 2021-05-26 02:38:44
+
+:label: : [网络 :sparkles:](https://github.com/smileyby/ghiblog/labels/%E7%BD%91%E7%BB%9C%20%3Asparkles%3A)
+
+关于OPTIONS请求
+==============
+
+看到OPTIONS请求很久了，一直不知道为啥会有这个请求。写个笔记记录下
+
+## 1、为什么会发送options请求？
+
+### 1.1 名词解释
+
+在了解为什么会发送options请求之前，需要对几个名词作简单的了解。如果已
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/89)
+
+---
+
 
 #### [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:41:11
 
@@ -89,20 +109,6 @@ const age =
 localStorage 存储的值，是根据域名进行隔离的，不同域名下不会互相影响
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/85)
-
----
-
-
-#### [JS：canvas动态获取绘制文字的宽度 CanvasRenderingContext2D.measureText()](https://github.com/smileyby/notes-copy/issues/84) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:36:47
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-场景：项目海报生成的同一行文字，字体大小不同，根据设计稿给定位置绘制后会发生重叠
-需要检测前一串文字的长度，动态计算后面文字的位置
-方案：CanvasRenderingContext2D.measureText() 这个方法完美解决，而且兼容性还棒棒哒
-参考：https://developer
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/84)
 
 ---
 
@@ -370,8 +376,9 @@ localStorage 存储的值，是根据域名进行隔离的，不同域名下不�
 </details>
 
 <details>
-<summary>网络 :sparkles:	<sup>2:newspaper:</sup></summary>
+<summary>网络 :sparkles:	<sup>3:newspaper:</sup></summary>
 
+- [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [TCP 三次/四次握手](https://github.com/smileyby/notes-copy/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 
