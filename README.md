@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-26 02:39:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-26 03:02:37"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,23 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:02:06
+
+:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
+
+## 前言
+
+最近再提交项目代码的时候，遇到了一些没见过的报错信息，发现自己对git命令依然停留在会用的阶段，对于其命令之间的区别和具体作用并不清楚，所以在这写一篇关于git命令的文章来加深自己对git的认识。
+
+## Git 历史
+
+> 同生活中的许多伟大事件一样，Git 诞生于一个极
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/90)
+
+---
+
 
 #### [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89) <sup>0 :speech_balloon:</sup> 	 2021-05-26 02:38:44
 
@@ -98,17 +115,6 @@ const person = 'Lydia';
 const age = 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/86)
-
----
-
-
-#### [JS：localStorage 分域名存储](https://github.com/smileyby/notes-copy/issues/85) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:37:15
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-localStorage 存储的值，是根据域名进行隔离的，不同域名下不会互相影响
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/85)
 
 ---
 
@@ -257,8 +263,9 @@ localStorage 存储的值，是根据域名进行隔离的，不同域名下不�
 </details>
 
 <details>
-<summary>git :monkey_face:	<sup>2:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>3:newspaper:</sup></summary>
 
+- [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes-copy/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：常用命令汇总 ](https://github.com/smileyby/notes-copy/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 
