@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/28"/>
+    <img src="https://badgen.net/badge/labels/29"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-26 03:02:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-26 03:16:19"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,22 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:15:53
+
+:label: : [移动端](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF)
+
+# 安卓手机获取app缓存文件
+
+1. 安装**re文件管理器**
+2. 获取手机root权限，一般使用**kingroot**获取root权限
+3. 获取root权限后，打开re文件管理器找到**data**文件夹，找到子**data**文件夹
+4. 找到与app对应的包名文件夹例如**
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/91)
+
+---
+
 
 #### [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:02:06
 
@@ -97,24 +113,6 @@ class Chameleon {
     constructor({newCo
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/87)
-
----
-
-
-#### [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:39:31
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-function getPersonInfo(one, two, three) {
-  console.log(one);
-  console.log(two);
-  console.log(three);
-}
-
-const person = 'Lydia';
-const age = 
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/86)
 
 ---
 
@@ -364,6 +362,14 @@ const age =
 <summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
 
 - [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>移动端	<sup>1:newspaper:</sup></summary>
+
+- [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
