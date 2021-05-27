@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/29"/>
+    <img src="https://badgen.net/badge/labels/32"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-26 03:16:19"/>
+    <img src="https://badgen.net/badge/last-commit/2021-05-27 03:05:21"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [创意：网站](https://github.com/smileyby/notes-copy/issues/92) <sup>0 :speech_balloon:</sup> 	 2021-05-27 03:04:55
+
+:label: : [创意](https://github.com/smileyby/ghiblog/labels/%E5%88%9B%E6%84%8F)
+
+https://lifeinvogue.vogue.it/
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/92)
+
+---
+
 
 #### [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:15:53
 
@@ -96,23 +107,6 @@
 > HTTP状态码：是用以表示网页服务器超文本传输协议响应状态的3位数字代码。它是由RFC2616规范定义的，并得到REC2518、RFC2817、RFC2295、RFC2774与RFC4918等规范扩展。所有状态码的第一个数字代表响应
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/88)
-
----
-
-
-#### [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87) <sup>0 :speech_balloon:</sup> 	 2021-05-25 10:40:14
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-
-class Chameleon {
-    static colorChange(newColor) {
-        this.newColor = newColor
-        return this.newColor
-    }
-    constructor({newCo
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/87)
 
 ---
 
@@ -296,6 +290,14 @@ class Chameleon {
 </details>
 
 <details>
+<summary>创意	<sup>1:newspaper:</sup></summary>
+
+- [创意：网站](https://github.com/smileyby/notes-copy/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>小程序 :cyclone:	<sup>17:newspaper:</sup></summary>
 
 - [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
@@ -399,7 +401,21 @@ class Chameleon {
 </details>
 
 <details>
+<summary>英语	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
 <summary>设计相关:blossom:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>随记	<sup>0:newspaper:</sup></summary>
 
 
 
