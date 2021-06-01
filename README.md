@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/33"/>
+    <img src="https://badgen.net/badge/labels/34"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-05-28 08:18:35"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-01 02:40:03"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94) <sup>0 :speech_balloon:</sup> 	 2021-06-01 02:39:33
+
+:label: : [npm](https://github.com/smileyby/ghiblog/labels/npm)
+
+报错是由于，网络原因，再下载一些外部资源的时候失败导致的
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/94)
+
+---
+
 
 #### [登高后·唐·孟郊](https://github.com/smileyby/notes-copy/issues/93) <sup>0 :speech_balloon:</sup> 	 2021-05-28 08:18:05
 
@@ -87,26 +98,6 @@ https://lifeinvogue.vogue.it/
 > 同生活中的许多伟大事件一样，Git 诞生于一个极
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/90)
-
----
-
-
-#### [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89) <sup>0 :speech_balloon:</sup> 	 2021-05-26 02:38:44
-
-:label: : [网络 :sparkles:](https://github.com/smileyby/ghiblog/labels/%E7%BD%91%E7%BB%9C%20%3Asparkles%3A)
-
-关于OPTIONS请求
-==============
-
-看到OPTIONS请求很久了，一直不知道为啥会有这个请求。写个笔记记录下
-
-## 1、为什么会发送options请求？
-
-### 1.1 名词解释
-
-在了解为什么会发送options请求之前，需要对几个名词作简单的了解。如果已
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/89)
 
 ---
 
@@ -268,6 +259,14 @@ https://lifeinvogue.vogue.it/
 <summary>html2canvas	<sup>1:newspaper:</sup></summary>
 
 - [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>npm	<sup>1:newspaper:</sup></summary>
+
+- [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
