@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/34"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-01 02:40:03"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-05 02:05:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes-copy/issues/95) <sup>0 :speech_balloon:</sup> 	 2021-06-05 02:04:43
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+白苎新袍入嫩凉。春蚕食叶响回廊，禹门已准桃花浪，月殿先收桂子香。
+鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云去，却笑人间举子忙。
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/95)
+
+---
+
 
 #### [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94) <sup>0 :speech_balloon:</sup> 	 2021-06-01 02:39:33
 
@@ -81,23 +93,6 @@ https://lifeinvogue.vogue.it/
 4. 找到与app对应的包名文件夹例如**
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/91)
-
----
-
-
-#### [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:02:06
-
-:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
-
-## 前言
-
-最近再提交项目代码的时候，遇到了一些没见过的报错信息，发现自己对git命令依然停留在会用的阶段，对于其命令之间的区别和具体作用并不清楚，所以在这写一篇关于git命令的文章来加深自己对git的认识。
-
-## Git 历史
-
-> 同生活中的许多伟大事件一样，Git 诞生于一个极
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/90)
 
 ---
 
@@ -414,8 +409,9 @@ https://lifeinvogue.vogue.it/
 </details>
 
 <details>
-<summary>诗歌	<sup>1:newspaper:</sup></summary>
+<summary>诗歌	<sup>2:newspaper:</sup></summary>
 
+- [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes-copy/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [登高后·唐·孟郊](https://github.com/smileyby/notes-copy/issues/93)  <sup>0 :speech_balloon:</sup>  	 
 
 
