@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/34"/>
+    <img src="https://badgen.net/badge/labels/35"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-05 02:05:08"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-07 05:57:55"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96) <sup>0 :speech_balloon:</sup> 	 2021-06-07 05:57:26
+
+:label: : [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
+
+![carbon](https://user-images.githubusercontent.com/16968442/120965984-284ca480-c798-11eb-9454-57c078589214.png)
+![carbon (1)](https://user-images.gi
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/96)
+
+---
+
 
 #### [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes-copy/issues/95) <sup>0 :speech_balloon:</sup> 	 2021-06-05 02:04:43
 
@@ -77,22 +89,6 @@
 https://lifeinvogue.vogue.it/
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/92)
-
----
-
-
-#### [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91) <sup>0 :speech_balloon:</sup> 	 2021-05-26 03:15:53
-
-:label: : [移动端](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF)
-
-# 安卓手机获取app缓存文件
-
-1. 安装**re文件管理器**
-2. 获取手机root权限，一般使用**kingroot**获取root权限
-3. 获取root权限后，打开re文件管理器找到**data**文件夹，找到子**data**文件夹
-4. 找到与app对应的包名文件夹例如**
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/91)
 
 ---
 
@@ -350,6 +346,14 @@ https://lifeinvogue.vogue.it/
 <details>
 <summary>每日趣闻	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>测试题	<sup>1:newspaper:</sup></summary>
+
+- [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
