@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-09 03:47:35"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-09 08:38:14"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101) <sup>0 :speech_balloon:</sup> 	 2021-06-09 08:37:43
+
+:label: : [npm](https://github.com/smileyby/ghiblog/labels/npm)
+
+1. vscode 命令行，不识别 VUE命令
+   get-ExecutionPolicy 查看状态 非RemoteSigned，则执行下面命令
+   set-ExecutionPolicy RemoteSigned  选A即可，然后重启vscode
+2. powerShell 不识别VUE
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/101)
+
+---
+
 
 #### [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100) <sup>0 :speech_balloon:</sup> 	 2021-06-09 03:47:06
 
@@ -77,18 +91,6 @@ ing...
 To tell you the truth, trying to speak English to twenty other people is giving me real butterflies in my stomach right now. 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/97)
-
----
-
-
-#### [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96) <sup>0 :speech_balloon:</sup> 	 2021-06-07 05:57:26
-
-:label: : [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
-
-![carbon](https://user-images.githubusercontent.com/16968442/120965984-284ca480-c798-11eb-9454-57c078589214.png)
-![carbon (1)](https://user-images.gi
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/96)
 
 ---
 
@@ -256,8 +258,9 @@ To tell you the truth, trying to speak English to twenty other people is giving 
 </details>
 
 <details>
-<summary>npm	<sup>1:newspaper:</sup></summary>
+<summary>npm	<sup>2:newspaper:</sup></summary>
 
+- [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94)  <sup>0 :speech_balloon:</sup>  	 
 
 
