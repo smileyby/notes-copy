@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-09 08:38:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-09 10:51:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes-copy/issues/102) <sup>0 :speech_balloon:</sup> 	 2021-06-09 10:50:42
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/102)
+
+---
+
 
 #### [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101) <sup>0 :speech_balloon:</sup> 	 2021-06-09 08:37:43
 
@@ -80,17 +91,6 @@
 ing...
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/98)
-
----
-
-
-#### [EN:butterflies in my stomach](https://github.com/smileyby/notes-copy/issues/97) <sup>0 :speech_balloon:</sup> 	 2021-06-07 07:18:07
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-To tell you the truth, trying to speak English to twenty other people is giving me real butterflies in my stomach right now. 
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/97)
 
 ---
 
@@ -229,8 +229,9 @@ To tell you the truth, trying to speak English to twenty other people is giving 
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>4:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>5:newspaper:</sup></summary>
 
+- [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes-copy/issues/102)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes-copy/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes-copy/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes-copy/issues/71)  <sup>0 :speech_balloon:</sup>  	 
