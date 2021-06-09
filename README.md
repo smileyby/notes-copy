@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/35"/>
+    <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-08 03:13:00"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-09 02:08:49"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99) <sup>0 :speech_balloon:</sup> 	 2021-06-09 02:08:19
+
+:label: : [名次解释](https://github.com/smileyby/ghiblog/labels/%E5%90%8D%E6%AC%A1%E8%A7%A3%E9%87%8A)
+
+> PV(page view)：页面访问量，指页面被浏览的次数
+> UV(unipue visitor)：独立访客数，指一天内访问某站点的人数
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/99)
+
+---
+
 
 #### [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98) <sup>0 :speech_balloon:</sup> 	 2021-06-08 03:12:29
 
@@ -76,17 +88,6 @@ To tell you the truth, trying to speak English to twenty other people is giving 
 鹏北海，凤朝阳。又携书剑路茫茫。明年此日青云去，却笑人间举子忙。
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/95)
-
----
-
-
-#### [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94) <sup>0 :speech_balloon:</sup> 	 2021-06-01 02:39:33
-
-:label: : [npm](https://github.com/smileyby/ghiblog/labels/npm)
-
-报错是由于，网络原因，再下载一些外部资源的时候失败导致的
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/94)
 
 ---
 
@@ -282,6 +283,14 @@ To tell you the truth, trying to speak English to twenty other people is giving 
 <summary>创意	<sup>1:newspaper:</sup></summary>
 
 - [创意：网站](https://github.com/smileyby/notes-copy/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>名次解释	<sup>1:newspaper:</sup></summary>
+
+- [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
