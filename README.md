@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-09 10:52:40"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-10 03:01:22"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -84,7 +84,7 @@
 ---
 
 
-#### [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98) <sup>1 :speech_balloon:</sup> 	 2021-06-08 03:12:29
+#### [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98) <sup>2 :speech_balloon:</sup> 	 2021-06-08 03:12:29
 
 :label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
 
@@ -214,7 +214,7 @@ ing...
 <details>
 <summary>Todo	<sup>2:newspaper:</sup></summary>
 
-- [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98)  <sup>1 :speech_balloon:</sup>  	 
+- [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98)  <sup>2 :speech_balloon:</sup>  	 
 - [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 
 
