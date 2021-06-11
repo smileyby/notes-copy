@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-10 05:50:53"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-11 06:42:24"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,21 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN:想得美](https://github.com/smileyby/notes-copy/issues/104) <sup>0 :speech_balloon:</sup> 	 2021-06-11 06:41:51
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+come around，意思是：想通了，这是比较美式的表达，英式英语一般说：come round。
+例：She will eventually come round. 她最终会想通的。
+
+
+A. When pigs fly. 表示不切实际，不可能发生的事，或者字面意思和实际意思相差甚远。引申
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/104)
+
+---
+
 
 #### [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103) <sup>0 :speech_balloon:</sup> 	 2021-06-10 05:50:25
 
@@ -79,18 +94,6 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 1. 成员访问/带参数new/函数调用（优先
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/100)
-
----
-
-
-#### [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99) <sup>0 :speech_balloon:</sup> 	 2021-06-09 02:08:19
-
-:label: : [名次解释](https://github.com/smileyby/ghiblog/labels/%E5%90%8D%E6%AC%A1%E8%A7%A3%E9%87%8A)
-
-> PV(page view)：页面访问量，指页面被浏览的次数
-> UV(unipue visitor)：独立访客数，指一天内访问某站点的人数
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/99)
 
 ---
 
@@ -414,8 +417,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>英语	<sup>1:newspaper:</sup></summary>
+<summary>英语	<sup>2:newspaper:</sup></summary>
 
+- [EN:想得美](https://github.com/smileyby/notes-copy/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:butterflies in my stomach](https://github.com/smileyby/notes-copy/issues/97)  <sup>0 :speech_balloon:</sup>  	 
 
 
