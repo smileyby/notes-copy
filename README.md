@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-11 06:42:24"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-15 03:10:02"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105) <sup>0 :speech_balloon:</sup> 	 2021-06-15 03:09:31
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/105)
+
+---
+
 
 #### [EN:想得美](https://github.com/smileyby/notes-copy/issues/104) <sup>0 :speech_balloon:</sup> 	 2021-06-11 06:41:51
 
@@ -81,19 +92,6 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 2. powerShell 不识别VUE
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/101)
-
----
-
-
-#### [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100) <sup>0 :speech_balloon:</sup> 	 2021-06-09 03:47:06
-
-:label: : [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
-
-![carbon (2)](https://user-images.githubusercontent.com/16968442/121289905-53f69880-c918-11eb-9fae-add31ab879c3.png)
-> 运算符优先级
-1. 成员访问/带参数new/函数调用（优先
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/100)
 
 ---
 
@@ -172,8 +170,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>JavaScript	<sup>21:newspaper:</sup></summary>
+<summary>JavaScript	<sup>22:newspaper:</sup></summary>
 
+- [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：localStorage 分域名存储](https://github.com/smileyby/notes-copy/issues/85)  <sup>0 :speech_balloon:</sup>  	 
