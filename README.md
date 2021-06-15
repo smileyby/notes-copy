@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-15 03:10:02"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-15 08:34:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,7 +38,10 @@
 
 :label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
 
+> TypeError：标识值的类型非预期类型时发生的错误
+> ReferError：当一个不存在的变量被引用时发生的错误
 
+![example](https://user-images.githubusercontent.com/16968442/122020439-59ac1c80-cdf
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/105)
 
