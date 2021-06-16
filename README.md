@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-15 08:34:08"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-16 10:31:54"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106) <sup>0 :speech_balloon:</sup> 	 2021-06-16 10:31:29
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/106)
+
+---
+
 
 #### [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105) <sup>0 :speech_balloon:</sup> 	 2021-06-15 03:09:31
 
@@ -81,20 +92,6 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/102)
-
----
-
-
-#### [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101) <sup>0 :speech_balloon:</sup> 	 2021-06-09 08:37:43
-
-:label: : [npm](https://github.com/smileyby/ghiblog/labels/npm)
-
-1. vscode 命令行，不识别 VUE命令
-   get-ExecutionPolicy 查看状态 非RemoteSigned，则执行下面命令
-   set-ExecutionPolicy RemoteSigned  选A即可，然后重启vscode
-2. powerShell 不识别VUE
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/101)
 
 ---
 
@@ -419,8 +416,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>英语	<sup>2:newspaper:</sup></summary>
+<summary>英语	<sup>3:newspaper:</sup></summary>
 
+- [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:想得美](https://github.com/smileyby/notes-copy/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:butterflies in my stomach](https://github.com/smileyby/notes-copy/issues/97)  <sup>0 :speech_balloon:</sup>  	 
 
