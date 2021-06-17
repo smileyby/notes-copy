@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-17 08:48:44"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-17 09:05:31"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,7 +34,7 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107) <sup>0 :speech_balloon:</sup> 	 2021-06-17 08:48:14
+#### [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107) <sup>1 :speech_balloon:</sup> 	 2021-06-17 08:48:14
 
 :label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
 
@@ -175,7 +175,7 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 <details>
 <summary>JavaScript	<sup>23:newspaper:</sup></summary>
 
-- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>0 :speech_balloon:</sup>  	 
+- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>1 :speech_balloon:</sup>  	 
 - [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86)  <sup>0 :speech_balloon:</sup>  	 
@@ -373,7 +373,7 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 <details>
 <summary>测试题	<sup>3:newspaper:</sup></summary>
 
-- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>0 :speech_balloon:</sup>  	 
+- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>1 :speech_balloon:</sup>  	 
 - [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 
