@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-16 10:31:54"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-17 08:48:44"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107) <sup>0 :speech_balloon:</sup> 	 2021-06-17 08:48:14
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
+
+![作用域测试题](https://user-images.githubusercontent.com/16968442/122359871-85aad780-cf88-11eb-9d51-3e8f4f7b213d.png)
+
+1. 变量提升 函数foo（声明+定义）
+2. function 
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/107)
+
+---
+
 
 #### [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106) <sup>0 :speech_balloon:</sup> 	 2021-06-16 10:31:29
 
@@ -81,17 +95,6 @@ A. When pigs fly. 表示不切实际，不可能发生的事，或者字面意�
 http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/103)
-
----
-
-
-#### [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes-copy/issues/102) <sup>0 :speech_balloon:</sup> 	 2021-06-09 10:50:42
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/102)
 
 ---
 
@@ -170,8 +173,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>JavaScript	<sup>22:newspaper:</sup></summary>
+<summary>JavaScript	<sup>23:newspaper:</sup></summary>
 
+- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：模板字符串的扩展功能-实现函数调用](https://github.com/smileyby/notes-copy/issues/86)  <sup>0 :speech_balloon:</sup>  	 
@@ -367,8 +371,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>测试题	<sup>2:newspaper:</sup></summary>
+<summary>测试题	<sup>3:newspaper:</sup></summary>
 
+- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>0 :speech_balloon:</sup>  	 
 - [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 
