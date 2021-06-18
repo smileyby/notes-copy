@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-18 08:20:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-18 08:27:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110) <sup>0 :speech_balloon:</sup> 	 2021-06-18 08:26:39
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
+
+![函数形参](https://user-images.githubusercontent.com/16968442/122531140-ccb0cf80-d051-11eb-8464-d480d8bf57f1.png)
+
+> 给超出数组长度的下标位赋值，中间空出的位置默认会用 empty 来填
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/110)
+
+---
+
 
 #### [input 修改光标颜色 caret-color](https://github.com/smileyby/notes-copy/issues/109) <sup>0 :speech_balloon:</sup> 	 2021-06-18 06:35:27
 
@@ -82,20 +95,6 @@ I brought my daughter to the police station so she could
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/106)
-
----
-
-
-#### [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105) <sup>0 :speech_balloon:</sup> 	 2021-06-15 03:09:31
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-> TypeError：标识值的类型非预期类型时发生的错误
-> ReferError：当一个不存在的变量被引用时发生的错误
-
-![example](https://user-images.githubusercontent.com/16968442/122020439-59ac1c80-cdf
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/105)
 
 ---
 
@@ -175,8 +174,9 @@ I brought my daughter to the police station so she could
 </details>
 
 <details>
-<summary>JavaScript	<sup>23:newspaper:</sup></summary>
+<summary>JavaScript	<sup>24:newspaper:</sup></summary>
 
+- [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
 - [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [JS：class类声明的静态方法只能内部使用](https://github.com/smileyby/notes-copy/issues/87)  <sup>0 :speech_balloon:</sup>  	 
@@ -373,8 +373,9 @@ I brought my daughter to the police station so she could
 </details>
 
 <details>
-<summary>测试题	<sup>3:newspaper:</sup></summary>
+<summary>测试题	<sup>4:newspaper:</sup></summary>
 
+- [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
 - [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
