@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-18 05:52:17"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-18 06:35:54"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [input 修改光标颜色 caret-color](https://github.com/smileyby/notes-copy/issues/109) <sup>0 :speech_balloon:</sup> 	 2021-06-18 06:35:27
+
+:label: : [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
+
+input { caret-colot: red; }
+颜色值支持：关键词（red/blue...），rga，hsla，#ff6700
+兼容性：IE和部分safari浏览器不支持，其他浏览器都支持
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/109)
+
+---
+
 
 #### [girls in blue](https://github.com/smileyby/notes-copy/issues/108) <sup>0 :speech_balloon:</sup> 	 2021-06-18 05:51:50
 
@@ -83,21 +96,6 @@ I brought my daughter to the police station so she could
 ![example](https://user-images.githubusercontent.com/16968442/122020439-59ac1c80-cdf
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/105)
-
----
-
-
-#### [EN:想得美](https://github.com/smileyby/notes-copy/issues/104) <sup>0 :speech_balloon:</sup> 	 2021-06-11 06:41:51
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-come around，意思是：想通了，这是比较美式的表达，英式英语一般说：come round。
-例：She will eventually come round. 她最终会想通的。
-
-
-A. When pigs fly. 表示不切实际，不可能发生的事，或者字面意思和实际意思相差甚远。引申
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/104)
 
 ---
 
@@ -167,8 +165,9 @@ A. When pigs fly. 表示不切实际，不可能发生的事，或者字面意�
 </details>
 
 <details>
-<summary>HTML :palm_tree:	<sup>2:newspaper:</sup></summary>
+<summary>HTML :palm_tree:	<sup>3:newspaper:</sup></summary>
 
+- [input 修改光标颜色 caret-color](https://github.com/smileyby/notes-copy/issues/109)  <sup>0 :speech_balloon:</sup>  	 
 - [HTML：Unicode 编码的用途](https://github.com/smileyby/notes-copy/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 - [HTML：实现a元素href URL链接自动刷新或新窗口打开](https://github.com/smileyby/notes-copy/issues/69)  <sup>0 :speech_balloon:</sup>  	 
 
