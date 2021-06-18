@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-17 09:05:31"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-18 05:52:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [girls in blue](https://github.com/smileyby/notes-copy/issues/108) <sup>0 :speech_balloon:</sup> 	 2021-06-18 05:51:50
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+girls in blue这个短语乍一看是穿蓝色衣服的女孩们，然而真实意思一般多指女警察female police officers，这是由她们的警察制服延伸而来的表达~
+
+例句：
+I brought my daughter to the police station so she could
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/108)
+
+---
+
 
 #### [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107) <sup>1 :speech_balloon:</sup> 	 2021-06-17 08:48:14
 
@@ -84,17 +98,6 @@ come around，意思是：想通了，这是比较美式的表达，英式英语
 A. When pigs fly. 表示不切实际，不可能发生的事，或者字面意思和实际意思相差甚远。引申
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/104)
-
----
-
-
-#### [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103) <sup>0 :speech_balloon:</sup> 	 2021-06-10 05:50:25
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/103)
 
 ---
 
@@ -421,8 +424,9 @@ http://music.163.com/video?id=930CBFF2476D410CB4B6CC8BEC5EC94B&userid=282414339
 </details>
 
 <details>
-<summary>英语	<sup>3:newspaper:</sup></summary>
+<summary>英语	<sup>4:newspaper:</sup></summary>
 
+- [girls in blue](https://github.com/smileyby/notes-copy/issues/108)  <sup>0 :speech_balloon:</sup>  	 
 - [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:想得美](https://github.com/smileyby/notes-copy/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:butterflies in my stomach](https://github.com/smileyby/notes-copy/issues/97)  <sup>0 :speech_balloon:</sup>  	 
