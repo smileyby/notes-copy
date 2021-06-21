@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-21 09:50:17"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-21 09:51:10"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,7 +34,7 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113) <sup>0 :speech_balloon:</sup> 	 2021-06-21 09:49:49
+#### [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113) <sup>1 :speech_balloon:</sup> 	 2021-06-21 09:49:49
 
 :label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
 
@@ -423,7 +423,7 @@ input { caret-colot: red; }
 <details>
 <summary>英语	<sup>5:newspaper:</sup></summary>
 
-- [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>0 :speech_balloon:</sup>  	 
+- [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>1 :speech_balloon:</sup>  	 
 - [girls in blue](https://github.com/smileyby/notes-copy/issues/108)  <sup>0 :speech_balloon:</sup>  	 
 - [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:想得美](https://github.com/smileyby/notes-copy/issues/104)  <sup>0 :speech_balloon:</sup>  	 
