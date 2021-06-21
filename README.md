@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-21 08:26:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-21 09:50:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113) <sup>0 :speech_balloon:</sup> 	 2021-06-21 09:49:49
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+![毕业致辞](https://user-images.githubusercontent.com/16968442/122742905-05061700-d2b9-11eb-8f56-c07d2f6e18d2.png)
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/113)
+
+---
+
 
 #### [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112) <sup>0 :speech_balloon:</sup> 	 2021-06-21 08:25:48
 
@@ -78,20 +90,6 @@ input { caret-colot: red; }
 兼容性：IE和部分safari浏览器不支持，其他浏览器都支持
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/109)
-
----
-
-
-#### [girls in blue](https://github.com/smileyby/notes-copy/issues/108) <sup>0 :speech_balloon:</sup> 	 2021-06-18 05:51:50
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-girls in blue这个短语乍一看是穿蓝色衣服的女孩们，然而真实意思一般多指女警察female police officers，这是由她们的警察制服延伸而来的表达~
-
-例句：
-I brought my daughter to the police station so she could
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/108)
 
 ---
 
@@ -423,8 +421,9 @@ I brought my daughter to the police station so she could
 </details>
 
 <details>
-<summary>英语	<sup>4:newspaper:</sup></summary>
+<summary>英语	<sup>5:newspaper:</sup></summary>
 
+- [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>0 :speech_balloon:</sup>  	 
 - [girls in blue](https://github.com/smileyby/notes-copy/issues/108)  <sup>0 :speech_balloon:</sup>  	 
 - [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:想得美](https://github.com/smileyby/notes-copy/issues/104)  <sup>0 :speech_balloon:</sup>  	 
