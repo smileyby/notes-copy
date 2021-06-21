@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-21 03:16:44"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-21 08:26:13"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112) <sup>0 :speech_balloon:</sup> 	 2021-06-21 08:25:48
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+官方答疑帖：https://developers.weixin.qq.com/community/develop/doc/000e2ebb6f8f98183a5889f3e56400
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/112)
+
+---
+
 
 #### [Todo：框架：vue和react回顾，JS基础回顾](https://github.com/smileyby/notes-copy/issues/111) <sup>0 :speech_balloon:</sup> 	 2021-06-21 03:16:11
 
@@ -81,20 +92,6 @@ girls in blue这个短语乍一看是穿蓝色衣服的女孩们，然而真实�
 I brought my daughter to the police station so she could
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/108)
-
----
-
-
-#### [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107) <sup>2 :speech_balloon:</sup> 	 2021-06-17 08:48:14
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
-
-![作用域测试题](https://user-images.githubusercontent.com/16968442/122359871-85aad780-cf88-11eb-9d51-3e8f4f7b213d.png)
-
-1. 变量提升 函数foo（声明+定义）
-2. function 
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/107)
 
 ---
 
@@ -310,8 +307,9 @@ I brought my daughter to the police station so she could
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>17:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>18:newspaper:</sup></summary>
 
+- [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：TEXT标签还能嵌套text标签，其他标签无效 ](https://github.com/smileyby/notes-copy/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：组件内【boundingClientRect】方法获取元素高度时，返回null](https://github.com/smileyby/notes-copy/issues/25)  <sup>0 :speech_balloon:</sup>  	 
