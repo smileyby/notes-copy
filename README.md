@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-21 09:51:10"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-22 10:01:15"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114) <sup>0 :speech_balloon:</sup> 	 2021-06-22 10:00:45
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/114)
+
+---
+
 
 #### [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113) <sup>1 :speech_balloon:</sup> 	 2021-06-21 09:49:49
 
@@ -77,19 +88,6 @@
 > 给超出数组长度的下标位赋值，中间空出的位置默认会用 empty 来填
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/110)
-
----
-
-
-#### [input 修改光标颜色 caret-color](https://github.com/smileyby/notes-copy/issues/109) <sup>0 :speech_balloon:</sup> 	 2021-06-18 06:35:27
-
-:label: : [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
-
-input { caret-colot: red; }
-颜色值支持：关键词（red/blue...），rga，hsla，#ff6700
-兼容性：IE和部分safari浏览器不支持，其他浏览器都支持
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/109)
 
 ---
 
@@ -169,8 +167,9 @@ input { caret-colot: red; }
 </details>
 
 <details>
-<summary>JavaScript	<sup>24:newspaper:</sup></summary>
+<summary>JavaScript	<sup>25:newspaper:</sup></summary>
 
+- [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
 - [JavaScript中的ReferenceError和TypeError两种错误的区别](https://github.com/smileyby/notes-copy/issues/105)  <sup>0 :speech_balloon:</sup>  	 
