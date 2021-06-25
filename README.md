@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-22 10:01:15"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-25 02:08:10"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115) <sup>0 :speech_balloon:</sup> 	 2021-06-25 02:07:40
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/115)
+
+---
+
 
 #### [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114) <sup>0 :speech_balloon:</sup> 	 2021-06-22 10:00:45
 
@@ -75,19 +86,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/111)
-
----
-
-
-#### [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110) <sup>0 :speech_balloon:</sup> 	 2021-06-18 08:26:39
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [测试题](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98)
-
-![函数形参](https://user-images.githubusercontent.com/16968442/122531140-ccb0cf80-d051-11eb-8464-d480d8bf57f1.png)
-
-> 给超出数组长度的下标位赋值，中间空出的位置默认会用 empty 来填
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/110)
 
 ---
 
@@ -167,8 +165,9 @@
 </details>
 
 <details>
-<summary>JavaScript	<sup>25:newspaper:</sup></summary>
+<summary>JavaScript	<sup>26:newspaper:</sup></summary>
 
+- [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
@@ -420,8 +419,9 @@
 </details>
 
 <details>
-<summary>英语	<sup>5:newspaper:</sup></summary>
+<summary>英语	<sup>6:newspaper:</sup></summary>
 
+- [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>1 :speech_balloon:</sup>  	 
 - [girls in blue](https://github.com/smileyby/notes-copy/issues/108)  <sup>0 :speech_balloon:</sup>  	 
 - [Nothing worthwhile is easy. 有价值的事物得之不易](https://github.com/smileyby/notes-copy/issues/106)  <sup>0 :speech_balloon:</sup>  	 
