@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-25 02:08:10"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-28 06:36:03"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116) <sup>0 :speech_balloon:</sup> 	 2021-06-28 06:35:32
+
+:label: : [每日趣闻](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E8%B6%A3%E9%97%BB)
+
+【转自：https://mp.weixin.qq.com/s/s_QacAHM9ELc9_jkrxL2cw】
+（1）职业发展的最好方法是换公司。
+（2）技术栈不重要。技术领域有大约 10-20 条核心原则，重要的是这些原则，技术栈只是落实它们的方法。你如果不熟悉某个技术栈，不需要过度担心。
+（
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/116)
+
+---
+
 
 #### [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115) <sup>0 :speech_balloon:</sup> 	 2021-06-25 02:07:40
 
@@ -75,17 +89,6 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 官方答疑帖：https://developers.weixin.qq.com/community/develop/doc/000e2ebb6f8f98183a5889f3e56400
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/112)
-
----
-
-
-#### [Todo：框架：vue和react回顾，JS基础回顾](https://github.com/smileyby/notes-copy/issues/111) <sup>0 :speech_balloon:</sup> 	 2021-06-21 03:16:11
-
-:label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/111)
 
 ---
 
@@ -361,8 +364,9 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 </details>
 
 <details>
-<summary>每日趣闻	<sup>0:newspaper:</sup></summary>
+<summary>每日趣闻	<sup>1:newspaper:</sup></summary>
 
+- [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
