@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-28 06:36:03"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-29 02:50:27"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117) <sup>0 :speech_balloon:</sup> 	 2021-06-29 02:49:57
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .
+开拓视
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/117)
+
+---
+
 
 #### [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116) <sup>0 :speech_balloon:</sup> 	 2021-06-28 06:35:32
 
@@ -78,17 +90,6 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/113)
-
----
-
-
-#### [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112) <sup>0 :speech_balloon:</sup> 	 2021-06-21 08:25:48
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-官方答疑帖：https://developers.weixin.qq.com/community/develop/doc/000e2ebb6f8f98183a5889f3e56400
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/112)
 
 ---
 
@@ -423,8 +424,9 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 </details>
 
 <details>
-<summary>英语	<sup>6:newspaper:</sup></summary>
+<summary>英语	<sup>7:newspaper:</sup></summary>
 
+- [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>1 :speech_balloon:</sup>  	 
 - [girls in blue](https://github.com/smileyby/notes-copy/issues/108)  <sup>0 :speech_balloon:</sup>  	 
