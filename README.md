@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-29 02:50:27"/>
+    <img src="https://badgen.net/badge/last-commit/2021-06-30 03:29:29"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118) <sup>0 :speech_balloon:</sup> 	 2021-06-30 03:29:01
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+the proof is in the pudding：“布丁好不好，吃了才知道”，只有通过体验才能判断事物的好坏，也就是我们常说的“实践是真正的检验，空谈不如实证”。
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/118)
+
+---
+
 
 #### [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117) <sup>0 :speech_balloon:</sup> 	 2021-06-29 02:49:57
 
@@ -78,18 +89,6 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/114)
-
----
-
-
-#### [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113) <sup>1 :speech_balloon:</sup> 	 2021-06-21 09:49:49
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-![毕业致辞](https://user-images.githubusercontent.com/16968442/122742905-05061700-d2b9-11eb-8f56-c07d2f6e18d2.png)
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/113)
 
 ---
 
@@ -424,8 +423,9 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 </details>
 
 <details>
-<summary>英语	<sup>7:newspaper:</sup></summary>
+<summary>英语	<sup>8:newspaper:</sup></summary>
 
+- [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118)  <sup>0 :speech_balloon:</sup>  	 
 - [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：碧昂丝 2020毕业生致辞节选](https://github.com/smileyby/notes-copy/issues/113)  <sup>1 :speech_balloon:</sup>  	 
