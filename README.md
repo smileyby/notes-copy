@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-06-30 03:29:29"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-02 08:59:31"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119) <sup>0 :speech_balloon:</sup> 	 2021-07-02 08:59:03
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+Whatever you do， do it hundred percent. When you work, work. When you laugh,laugh. When you eat, eat like it's your last meal.
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/119)
+
+---
+
 
 #### [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118) <sup>0 :speech_balloon:</sup> 	 2021-06-30 03:29:01
 
@@ -78,17 +89,6 @@ To see the world, things dangerous to come to ,to see behind walls ,to draw clos
 https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/115)
-
----
-
-
-#### [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114) <sup>0 :speech_balloon:</sup> 	 2021-06-22 10:00:45
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/114)
 
 ---
 
@@ -423,8 +423,9 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 </details>
 
 <details>
-<summary>英语	<sup>8:newspaper:</sup></summary>
+<summary>英语	<sup>9:newspaper:</sup></summary>
 
+- [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118)  <sup>0 :speech_balloon:</sup>  	 
 - [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
