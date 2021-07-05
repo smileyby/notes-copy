@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-02 08:59:31"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-05 09:39:48"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120) <sup>0 :speech_balloon:</sup> 	 2021-07-05 09:39:18
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/120)
+
+---
+
 
 #### [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119) <sup>0 :speech_balloon:</sup> 	 2021-07-02 08:59:03
 
@@ -78,17 +89,6 @@ To see the world, things dangerous to come to ,to see behind walls ,to draw clos
 （
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/116)
-
----
-
-
-#### [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115) <sup>0 :speech_balloon:</sup> 	 2021-06-25 02:07:40
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript), [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/115)
 
 ---
 
@@ -168,8 +168,9 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 </details>
 
 <details>
-<summary>JavaScript	<sup>26:newspaper:</sup></summary>
+<summary>JavaScript	<sup>27:newspaper:</sup></summary>
 
+- [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
