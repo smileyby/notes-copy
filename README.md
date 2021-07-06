@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-05 09:39:48"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-06 09:44:43"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：Nothing ventured, nothing gained.](https://github.com/smileyby/notes-copy/issues/121) <sup>0 :speech_balloon:</sup> 	 2021-07-06 09:44:16
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+Nothing ventured, nothing gained.
+不入虎穴焉得虎子
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/121)
+
+---
+
 
 #### [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120) <sup>0 :speech_balloon:</sup> 	 2021-07-05 09:39:18
 
@@ -75,20 +87,6 @@ To see the world, things dangerous to come to ,to see behind walls ,to draw clos
 开拓视
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/117)
-
----
-
-
-#### [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116) <sup>0 :speech_balloon:</sup> 	 2021-06-28 06:35:32
-
-:label: : [每日趣闻](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E8%B6%A3%E9%97%BB)
-
-【转自：https://mp.weixin.qq.com/s/s_QacAHM9ELc9_jkrxL2cw】
-（1）职业发展的最好方法是换公司。
-（2）技术栈不重要。技术领域有大约 10-20 条核心原则，重要的是这些原则，技术栈只是落实它们的方法。你如果不熟悉某个技术栈，不需要过度担心。
-（
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/116)
 
 ---
 
@@ -424,8 +422,9 @@ To see the world, things dangerous to come to ,to see behind walls ,to draw clos
 </details>
 
 <details>
-<summary>英语	<sup>9:newspaper:</sup></summary>
+<summary>英语	<sup>10:newspaper:</sup></summary>
 
+- [EN：Nothing ventured, nothing gained.](https://github.com/smileyby/notes-copy/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118)  <sup>0 :speech_balloon:</sup>  	 
 - [To see the world, things dangerous to come to ,to see behind walls ,to draw closer ,to find each other and to feel .That is the purpose of life .](https://github.com/smileyby/notes-copy/issues/117)  <sup>0 :speech_balloon:</sup>  	 
