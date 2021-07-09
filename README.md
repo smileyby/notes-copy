@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-07 03:39:33"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-09 02:20:54"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123) <sup>0 :speech_balloon:</sup> 	 2021-07-09 02:20:24
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+[有趣的js](https://jsisweird.com/)
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/123)
+
+---
+
 
 #### [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122) <sup>0 :speech_balloon:</sup> 	 2021-07-07 03:39:06
 
@@ -75,17 +86,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
 Whatever you do， do it hundred percent. When you work, work. When you laugh,laugh. When you eat, eat like it's your last meal.
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/119)
-
----
-
-
-#### [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118) <sup>0 :speech_balloon:</sup> 	 2021-06-30 03:29:01
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-the proof is in the pudding：“布丁好不好，吃了才知道”，只有通过体验才能判断事物的好坏，也就是我们常说的“实践是真正的检验，空谈不如实证”。
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/118)
 
 ---
 
@@ -165,8 +165,9 @@ the proof is in the pudding：“布丁好不好，吃了才知道”，只有�
 </details>
 
 <details>
-<summary>JavaScript	<sup>27:newspaper:</sup></summary>
+<summary>JavaScript	<sup>28:newspaper:</sup></summary>
 
+- [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123)  <sup>1 :speech_balloon:</sup>  	 
 - [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [Javascript：match 方法获取捕获分组，要去掉正则修饰符 g](https://github.com/smileyby/notes-copy/issues/114)  <sup>0 :speech_balloon:</sup>  	 
