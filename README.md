@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/36"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-09 02:20:54"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-09 02:24:25"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,7 +34,18 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123) <sup>0 :speech_balloon:</sup> 	 2021-07-09 02:20:24
+#### [一起来画画](https://github.com/smileyby/notes-copy/issues/124) <sup>0 :speech_balloon:</sup> 	 2021-07-09 02:23:55
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A), [设计相关:blossom:](https://github.com/smileyby/ghiblog/labels/%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3%3Ablossom%3A)
+
+[花花画画画花花](https://david.li/paint/)
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/124)
+
+---
+
+
+#### [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123) <sup>1 :speech_balloon:</sup> 	 2021-07-09 02:20:24
 
 :label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
 
@@ -75,17 +86,6 @@ Nothing ventured, nothing gained.
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/120)
-
----
-
-
-#### [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119) <sup>0 :speech_balloon:</sup> 	 2021-07-02 08:59:03
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-Whatever you do， do it hundred percent. When you work, work. When you laugh,laugh. When you eat, eat like it's your last meal.
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/119)
 
 ---
 
@@ -344,8 +344,9 @@ Whatever you do， do it hundred percent. When you work, work. When you laugh,la
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>6:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>7:newspaper:</sup></summary>
 
+- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122)  <sup>0 :speech_balloon:</sup>  	 
 - [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：1024-js代码排行](https://github.com/smileyby/notes-copy/issues/62)  <sup>0 :speech_balloon:</sup>  	 
@@ -440,8 +441,9 @@ Whatever you do， do it hundred percent. When you work, work. When you laugh,la
 </details>
 
 <details>
-<summary>设计相关:blossom:	<sup>0:newspaper:</sup></summary>
+<summary>设计相关:blossom:	<sup>1:newspaper:</sup></summary>
 
+- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
