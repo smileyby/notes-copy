@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/36"/>
+    <img src="https://badgen.net/badge/labels/37"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-09 02:24:25"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-09 05:28:43"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125) <sup>0 :speech_balloon:</sup> 	 2021-07-09 05:28:13
+
+:label: : [电影](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E5%BD%B1)
+
+《给我翅膀》
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/125)
+
+---
+
 
 #### [一起来画画](https://github.com/smileyby/notes-copy/issues/124) <sup>0 :speech_balloon:</sup> 	 2021-07-09 02:23:55
 
@@ -75,17 +87,6 @@ Nothing ventured, nothing gained.
 不入虎穴焉得虎子
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/121)
-
----
-
-
-#### [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120) <sup>0 :speech_balloon:</sup> 	 2021-07-05 09:39:18
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/120)
 
 ---
 
@@ -387,6 +388,14 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
 <summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
 
 - [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>电影	<sup>1:newspaper:</sup></summary>
+
+- [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
