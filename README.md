@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/37"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-09 05:28:43"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-13 05:52:00"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126) <sup>0 :speech_balloon:</sup> 	 2021-07-13 05:51:34
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+to get control of your emotions or actions after being very upset
+Just pull yourself together. There's no point crying about it.
+打起精神/振作起来，哭也没用。
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/126)
+
+---
+
 
 #### [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125) <sup>0 :speech_balloon:</sup> 	 2021-07-09 05:28:13
 
@@ -75,18 +88,6 @@
 Minor Heat  小暑
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/122)
-
----
-
-
-#### [EN：Nothing ventured, nothing gained.](https://github.com/smileyby/notes-copy/issues/121) <sup>0 :speech_balloon:</sup> 	 2021-07-06 09:44:16
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-Nothing ventured, nothing gained.
-不入虎穴焉得虎子
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/121)
 
 ---
 
@@ -433,8 +434,9 @@ Nothing ventured, nothing gained.
 </details>
 
 <details>
-<summary>英语	<sup>10:newspaper:</sup></summary>
+<summary>英语	<sup>11:newspaper:</sup></summary>
 
+- [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Nothing ventured, nothing gained.](https://github.com/smileyby/notes-copy/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：the proof is in the pudding](https://github.com/smileyby/notes-copy/issues/118)  <sup>0 :speech_balloon:</sup>  	 
