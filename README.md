@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/37"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-13 05:52:00"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-15 08:42:21"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [webpack编译时遇到的问题“Error: Cannot find module ‘webpack-cli/bin/config-yargs‘.....“](https://github.com/smileyby/notes-copy/issues/127) <sup>0 :speech_balloon:</sup> 	 2021-07-15 08:41:50
+
+:label: : [webpack :leaves:](https://github.com/smileyby/ghiblog/labels/webpack%20%3Aleaves%3A)
+
+![run-dev-error](https://user-images.githubusercontent.com/16968442/125757313-d5368f89-8667-4706-b847-5a13dfb4076e.png)
+run dev 启动 dev-server 的时候报如上错
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/127)
+
+---
+
 
 #### [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126) <sup>0 :speech_balloon:</sup> 	 2021-07-13 05:51:34
 
@@ -77,17 +89,6 @@ Just pull yourself together. There's no point crying about it.
 [有趣的js](https://jsisweird.com/)
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/123)
-
----
-
-
-#### [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122) <sup>0 :speech_balloon:</sup> 	 2021-07-07 03:39:06
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-Minor Heat  小暑
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/122)
 
 ---
 
@@ -274,8 +275,9 @@ Minor Heat  小暑
 </details>
 
 <details>
-<summary>webpack :leaves:	<sup>1:newspaper:</sup></summary>
+<summary>webpack :leaves:	<sup>2:newspaper:</sup></summary>
 
+- [webpack编译时遇到的问题“Error: Cannot find module ‘webpack-cli/bin/config-yargs‘.....“](https://github.com/smileyby/notes-copy/issues/127)  <sup>0 :speech_balloon:</sup>  	 
 - [Webpack：TypeError: Cannot destructure property 'compile' of 'undefined' or 'null'](https://github.com/smileyby/notes-copy/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 
 
