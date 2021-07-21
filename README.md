@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/37"/>
+    <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-19 03:03:15"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-21 02:50:20"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129) <sup>0 :speech_balloon:</sup> 	 2021-07-21 02:49:53
+
+:label: : [chrome](https://github.com/smileyby/ghiblog/labels/chrome), [移动端](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF), [调试](https://github.com/smileyby/ghiblog/labels/%E8%B0%83%E8%AF%95)
+
+## 安卓
+1. 手机端：关于手机 => 点击版本号(多次) => 开启开发者模式 => 进入开发者模式 => 开启 “USB调试” 和 “仅在充电模式下允许ADB调试”  
+2. 开发手机默认浏览器（系统浏览器），打开需要调试的移动端网址
+3. chrome浏览器打开 [chrome://i
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/129)
+
+---
+
 
 #### [Todo：递归](https://github.com/smileyby/notes-copy/issues/128) <sup>0 :speech_balloon:</sup> 	 2021-07-19 03:02:43
 
@@ -78,17 +92,6 @@ Just pull yourself together. There's no point crying about it.
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/125)
-
----
-
-
-#### [一起来画画](https://github.com/smileyby/notes-copy/issues/124) <sup>0 :speech_balloon:</sup> 	 2021-07-09 02:23:55
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A), [设计相关:blossom:](https://github.com/smileyby/ghiblog/labels/%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3%3Ablossom%3A)
-
-[花花画画画花花](https://david.li/paint/)
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/124)
 
 ---
 
@@ -244,6 +247,14 @@ Just pull yourself together. There's no point crying about it.
 - [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes-copy/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes-copy/issues/71)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：vue-cli · Failed to download repo vuejs-templates/webpack: getaddrinfo ENOTFOUND github.com github.com:443](https://github.com/smileyby/notes-copy/issues/70)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>chrome	<sup>1:newspaper:</sup></summary>
+
+- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -405,8 +416,9 @@ Just pull yourself together. There's no point crying about it.
 </details>
 
 <details>
-<summary>移动端	<sup>1:newspaper:</sup></summary>
+<summary>移动端	<sup>2:newspaper:</sup></summary>
 
+- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -467,6 +479,14 @@ Just pull yourself together. There's no point crying about it.
 
 - [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes-copy/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [登高后·唐·孟郊](https://github.com/smileyby/notes-copy/issues/93)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>调试	<sup>1:newspaper:</sup></summary>
+
+- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
