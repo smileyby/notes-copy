@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-21 02:50:20"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-21 06:38:41"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,20 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130) <sup>0 :speech_balloon:</sup> 	 2021-07-21 06:38:13
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+Tell me about it 字面意思是“告诉我吧”或“展开说说吧”，在美国俚语中这句话常常表示赞成对方的话，要理解为“那当然”，“可不是嘛”，我理解你！
+🌰 【例句】
+A：His attitude is driving me crazy.  他的态度真的快让我疯掉了。
+B：Tell me
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/130)
+
+---
+
 
 #### [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129) <sup>0 :speech_balloon:</sup> 	 2021-07-21 02:49:53
 
@@ -80,18 +94,6 @@ Just pull yourself together. There's no point crying about it.
 打起精神/振作起来，哭也没用。
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/126)
-
----
-
-
-#### [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125) <sup>0 :speech_balloon:</sup> 	 2021-07-09 05:28:13
-
-:label: : [电影](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E5%BD%B1)
-
-《给我翅膀》
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/125)
 
 ---
 
@@ -449,8 +451,9 @@ Just pull yourself together. There's no point crying about it.
 </details>
 
 <details>
-<summary>英语	<sup>11:newspaper:</sup></summary>
+<summary>英语	<sup>12:newspaper:</sup></summary>
 
+- [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Nothing ventured, nothing gained.](https://github.com/smileyby/notes-copy/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Whatever you do](https://github.com/smileyby/notes-copy/issues/119)  <sup>0 :speech_balloon:</sup>  	 
