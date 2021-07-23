@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/39"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-21 06:38:41"/>
+    <img src="https://badgen.net/badge/last-commit/2021-07-23 02:11:59"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,24 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131) <sup>0 :speech_balloon:</sup> 	 2021-07-23 02:11:25
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+> 需要字体本身支持 简体和繁体才可
+```css
+body {
+    font-variant-east-asian: traditional;
+}
+```
+
+参考：[一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/202
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/131)
+
+---
+
 
 #### [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130) <sup>0 :speech_balloon:</sup> 	 2021-07-21 06:38:13
 
@@ -85,19 +103,6 @@ run dev 启动 dev-server 的时候报如上错
 ---
 
 
-#### [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126) <sup>0 :speech_balloon:</sup> 	 2021-07-13 05:51:34
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-to get control of your emotions or actions after being very upset
-Just pull yourself together. There's no point crying about it.
-打起精神/振作起来，哭也没用。
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/126)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -131,8 +136,9 @@ Just pull yourself together. There's no point crying about it.
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>9:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>10:newspaper:</sup></summary>
 
+- [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：object-fit](https://github.com/smileyby/notes-copy/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：border绘制不同的图形](https://github.com/smileyby/notes-copy/issues/57)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：各大网站实现灰度的方法](https://github.com/smileyby/notes-copy/issues/56)  <sup>0 :speech_balloon:</sup>  	 
