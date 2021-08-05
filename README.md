@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/39"/>
+    <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-07-26 09:28:10"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-05 10:10:37"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,30 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135) <sup>0 :speech_balloon:</sup> 	 2021-08-05 10:10:07
+
+:label: : [今天学到了](https://github.com/smileyby/ghiblog/labels/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E5%88%B0%E4%BA%86), [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+1. 官方组件 [official-account](https://developers.weixin.qq.com/miniprogram/dev/component/official-account.html)
+   1. 只有固定的场景才会展示组件，具体参考文档
+   2. 组件未提供用
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/135)
+
+---
+
+
+#### [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134) <sup>0 :speech_balloon:</sup> 	 2021-07-26 09:28:19
+
+:label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/134)
+
+---
+
 
 #### [Todo：node](https://github.com/smileyby/notes-copy/issues/133) <sup>0 :speech_balloon:</sup> 	 2021-07-26 09:27:21
 
@@ -76,34 +100,6 @@ body {
 参考：[一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/202
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/131)
-
----
-
-
-#### [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130) <sup>0 :speech_balloon:</sup> 	 2021-07-21 06:38:13
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-Tell me about it 字面意思是“告诉我吧”或“展开说说吧”，在美国俚语中这句话常常表示赞成对方的话，要理解为“那当然”，“可不是嘛”，我理解你！
-🌰 【例句】
-A：His attitude is driving me crazy.  他的态度真的快让我疯掉了。
-B：Tell me
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/130)
-
----
-
-
-#### [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129) <sup>0 :speech_balloon:</sup> 	 2021-07-21 02:49:53
-
-:label: : [chrome](https://github.com/smileyby/ghiblog/labels/chrome), [移动端](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF), [调试](https://github.com/smileyby/ghiblog/labels/%E8%B0%83%E8%AF%95)
-
-## 安卓
-1. 手机端：关于手机 => 点击版本号(多次) => 开启开发者模式 => 进入开发者模式 => 开启 “USB调试” 和 “仅在充电模式下允许ADB调试”  
-2. 开发手机默认浏览器（系统浏览器），打开需要调试的移动端网址
-3. chrome浏览器打开 [chrome://i
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/129)
 
 ---
 
@@ -162,8 +158,9 @@ B：Tell me
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>18:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>19:newspaper:</sup></summary>
 
+- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：TEXT标签还能嵌套text标签，其他标签无效 ](https://github.com/smileyby/notes-copy/issues/26)  <sup>0 :speech_balloon:</sup>  	 
@@ -519,6 +516,14 @@ B：Tell me
 <summary>chrome	<sup>1:newspaper:</sup></summary>
 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>今天学到了	<sup>1:newspaper:</sup></summary>
+
+- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
