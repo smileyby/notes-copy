@@ -113,7 +113,7 @@ def format_issue_with_labels(issue: Issue):
     else:
         body_summary = issue.body[:150]
 
-    return ''
+    return '''
 #### [{0}]({1}) {2} \t {3}
 
 :label: : {4}
