@@ -108,10 +108,13 @@ def format_issue_with_labels(issue: Issue):
         labels_str += '[%s](https://github.com/%s/ghiblog/labels/%s), ' % (
             label.name, username, urllib.parse.quote(label.name))
     print(issue.body)
-    if '---' in issue.body:
-        body_summary = issue.body[:issue.body.index('---')]
-    else:
-        body_summary = issue.body[:150]
+    if issue.body:
+        if '---' in issue.body:
+            body_summary = issue.body[:issue.body.index('---')]
+        else:
+            body_summary = issue.body[:150]
+    else：
+       body_summary = '' 
 
     return '''
 #### [{0}]({1}) {2} \t {3}
