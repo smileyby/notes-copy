@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-08-05 10:10:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-19 03:24:20"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,72 +34,65 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139) <sup>1 :speech_balloon:</sup> 	 2021-08-18 07:07:39
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A), [电影](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E5%BD%B1)
+
+![image](https://user-images.githubusercontent.com/16968442/129853515-71abb118-df2d-4893-b256-528f4fdb15a7.png)
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/139)
+
+---
+
+
+#### [TODO：TypeScript](https://github.com/smileyby/notes-copy/issues/138) <sup>0 :speech_balloon:</sup> 	 2021-08-13 10:42:35
+
+:label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/138)
+
+---
+
+
+#### [小程序组件内 引用父组件样式](https://github.com/smileyby/notes-copy/issues/137) <sup>0 :speech_balloon:</sup> 	 2021-08-11 10:52:59
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+```html
+<view class="~blue-text"> 这段文本是蓝色的 </view>
+<view class="^red-text"> 这段文本是红色的 </view>
+```
+
+[文档](https://developers.weixin.qq.com/miniprogr
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/137)
+
+---
+
+
+#### [获取图片 exif 信息](https://github.com/smileyby/notes-copy/issues/136) <sup>0 :speech_balloon:</sup> 	 2021-08-06 05:50:41
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/136)
+
+---
+
+
 #### [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135) <sup>0 :speech_balloon:</sup> 	 2021-08-05 10:10:07
 
-:label: : [今天学到了](https://github.com/smileyby/ghiblog/labels/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E5%88%B0%E4%BA%86), [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A), [今天学到了](https://github.com/smileyby/ghiblog/labels/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E5%88%B0%E4%BA%86)
 
 1. 官方组件 [official-account](https://developers.weixin.qq.com/miniprogram/dev/component/official-account.html)
    1. 只有固定的场景才会展示组件，具体参考文档
    2. 组件未提供用
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/135)
-
----
-
-
-#### [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134) <sup>0 :speech_balloon:</sup> 	 2021-07-26 09:28:19
-
-:label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/134)
-
----
-
-
-#### [Todo：node](https://github.com/smileyby/notes-copy/issues/133) <sup>0 :speech_balloon:</sup> 	 2021-07-26 09:27:21
-
-:label: : [Todo](https://github.com/smileyby/ghiblog/labels/Todo)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/133)
-
----
-
-
-#### [EN：形容词的高级替换](https://github.com/smileyby/notes-copy/issues/132) <sup>0 :speech_balloon:</sup> 	 2021-07-26 06:40:26
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-important => vital 重要的
-obvious => apparent 明显的
-bad => harmful 有害的
-helpful => beneficial 有益的
-common => universal 普遍的
-many => numerour 许多的
-differe
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/132)
-
----
-
-
-#### [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131) <sup>0 :speech_balloon:</sup> 	 2021-07-23 02:11:25
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-> 需要字体本身支持 简体和繁体才可
-```css
-body {
-    font-variant-east-asian: traditional;
-}
-```
-
-参考：[一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/202
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/131)
 
 ---
 
@@ -144,8 +137,9 @@ body {
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>7:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>8:newspaper:</sup></summary>
 
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>1 :speech_balloon:</sup>  	 
 - [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122)  <sup>0 :speech_balloon:</sup>  	 
 - [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103)  <sup>0 :speech_balloon:</sup>  	 
@@ -158,8 +152,9 @@ body {
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>19:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>20:newspaper:</sup></summary>
 
+- [小程序组件内 引用父组件样式](https://github.com/smileyby/notes-copy/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
@@ -338,8 +333,9 @@ body {
 </details>
 
 <details>
-<summary>Todo	<sup>6:newspaper:</sup></summary>
+<summary>Todo	<sup>7:newspaper:</sup></summary>
 
+- [TODO：TypeScript](https://github.com/smileyby/notes-copy/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：node](https://github.com/smileyby/notes-copy/issues/133)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：递归](https://github.com/smileyby/notes-copy/issues/128)  <sup>0 :speech_balloon:</sup>  	 
@@ -351,8 +347,9 @@ body {
 </details>
 
 <details>
-<summary>JavaScript	<sup>28:newspaper:</sup></summary>
+<summary>JavaScript	<sup>29:newspaper:</sup></summary>
 
+- [获取图片 exif 信息](https://github.com/smileyby/notes-copy/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123)  <sup>1 :speech_balloon:</sup>  	 
 - [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 - [An incomplete list of skills senior engineers need, beyond coding](https://github.com/smileyby/notes-copy/issues/115)  <sup>0 :speech_balloon:</sup>  	 
@@ -497,8 +494,9 @@ body {
 </details>
 
 <details>
-<summary>电影	<sup>1:newspaper:</sup></summary>
+<summary>电影	<sup>2:newspaper:</sup></summary>
 
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>1 :speech_balloon:</sup>  	 
 - [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
 
 
