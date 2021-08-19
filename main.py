@@ -113,7 +113,7 @@ def format_issue_with_labels(issue: Issue):
             body_summary = issue.body[:issue.body.index('---')]
         else:
             body_summary = issue.body[:150]
-    else：
+    else:
        body_summary = '' 
 
     return '''
