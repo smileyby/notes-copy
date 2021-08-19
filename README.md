@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-08-19 03:24:20"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-19 03:38:18"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,7 +34,7 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139) <sup>1 :speech_balloon:</sup> 	 2021-08-18 07:07:39
+#### [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139) <sup>0 :speech_balloon:</sup> 	 2021-08-18 07:07:39
 
 :label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A), [电影](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E5%BD%B1)
 
@@ -139,7 +139,7 @@
 <details>
 <summary>摸鱼 :tropical_fish:	<sup>8:newspaper:</sup></summary>
 
-- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>1 :speech_balloon:</sup>  	 
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122)  <sup>0 :speech_balloon:</sup>  	 
 - [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103)  <sup>0 :speech_balloon:</sup>  	 
@@ -496,7 +496,7 @@
 <details>
 <summary>电影	<sup>2:newspaper:</sup></summary>
 
-- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>1 :speech_balloon:</sup>  	 
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
 
 
