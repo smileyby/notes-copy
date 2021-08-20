@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-08-19 03:38:18"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-20 10:20:51"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：Home free => 胜利在望](https://github.com/smileyby/notes-copy/issues/140) <sup>0 :speech_balloon:</sup> 	 2021-08-20 10:20:26
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/140)
+
+---
+
 
 #### [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139) <sup>0 :speech_balloon:</sup> 	 2021-08-18 07:07:39
 
@@ -80,19 +91,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/136)
-
----
-
-
-#### [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135) <sup>0 :speech_balloon:</sup> 	 2021-08-05 10:10:07
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A), [今天学到了](https://github.com/smileyby/ghiblog/labels/%E4%BB%8A%E5%A4%A9%E5%AD%A6%E5%88%B0%E4%BA%86)
-
-1. 官方组件 [official-account](https://developers.weixin.qq.com/miniprogram/dev/component/official-account.html)
-   1. 只有固定的场景才会展示组件，具体参考文档
-   2. 组件未提供用
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/135)
 
 ---
 
@@ -429,8 +427,9 @@
 </details>
 
 <details>
-<summary>英语	<sup>13:newspaper:</sup></summary>
+<summary>英语	<sup>14:newspaper:</sup></summary>
 
+- [EN：Home free => 胜利在望](https://github.com/smileyby/notes-copy/issues/140)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：形容词的高级替换](https://github.com/smileyby/notes-copy/issues/132)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：pull yourself together](https://github.com/smileyby/notes-copy/issues/126)  <sup>0 :speech_balloon:</sup>  	 
