@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/40"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-08-20 10:20:51"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-27 03:10:14"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141) <sup>0 :speech_balloon:</sup> 	 2021-08-27 03:09:44
+
+:label: : [webpack :leaves:](https://github.com/smileyby/ghiblog/labels/webpack%20%3Aleaves%3A), [npm](https://github.com/smileyby/ghiblog/labels/npm)
+
+Todo
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/141)
+
+---
+
 
 #### [EN：Home free => 胜利在望](https://github.com/smileyby/notes-copy/issues/140) <sup>0 :speech_balloon:</sup> 	 2021-08-20 10:20:26
 
@@ -84,17 +95,6 @@
 ---
 
 
-#### [获取图片 exif 信息](https://github.com/smileyby/notes-copy/issues/136) <sup>0 :speech_balloon:</sup> 	 2021-08-06 05:50:41
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/136)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -121,82 +121,6 @@
 </details>
 
 <details>
-<summary>开源	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>Node.js :turtle:	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>摸鱼 :tropical_fish:	<sup>8:newspaper:</sup></summary>
-
-- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
-- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
-- [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122)  <sup>0 :speech_balloon:</sup>  	 
-- [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103)  <sup>0 :speech_balloon:</sup>  	 
-- [摸鱼：1024-js代码排行](https://github.com/smileyby/notes-copy/issues/62)  <sup>0 :speech_balloon:</sup>  	 
-- [摸鱼：神兽](https://github.com/smileyby/notes-copy/issues/35)  <sup>0 :speech_balloon:</sup>  	 
-- [摸鱼：漫画-我要摆地摊](https://github.com/smileyby/notes-copy/issues/34)  <sup>0 :speech_balloon:</sup>  	 
-- [摸鱼：推荐电影](https://github.com/smileyby/notes-copy/issues/33)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>小程序 :cyclone:	<sup>20:newspaper:</sup></summary>
-
-- [小程序组件内 引用父组件样式](https://github.com/smileyby/notes-copy/issues/137)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：TEXT标签还能嵌套text标签，其他标签无效 ](https://github.com/smileyby/notes-copy/issues/26)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：组件内【boundingClientRect】方法获取元素高度时，返回null](https://github.com/smileyby/notes-copy/issues/25)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：scroll-view组件内部元素直接添加阴影会被截断 ](https://github.com/smileyby/notes-copy/issues/24)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：Some selectors are not allowed in component wxss, including tag name](https://github.com/smileyby/notes-copy/issues/23)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：使用定位，在ios中可能会导致横向滚动](https://github.com/smileyby/notes-copy/issues/22)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：wx.request:fail ssl hand shake error](https://github.com/smileyby/notes-copy/issues/21)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：请求接口报错：-202::NET::ERR_CERT_AUTHORITY_INVALID](https://github.com/smileyby/notes-copy/issues/20)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>VUE :milky_way:	<sup>5:newspaper:</sup></summary>
-
-- [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes-copy/issues/102)  <sup>0 :speech_balloon:</sup>  	 
-- [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes-copy/issues/73)  <sup>0 :speech_balloon:</sup>  	 
-- [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes-copy/issues/72)  <sup>0 :speech_balloon:</sup>  	 
-- [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes-copy/issues/71)  <sup>0 :speech_balloon:</sup>  	 
-- [VUE：vue-cli · Failed to download repo vuejs-templates/webpack: getaddrinfo ENOTFOUND github.com github.com:443](https://github.com/smileyby/notes-copy/issues/70)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>React :globe_with_meridians:	<sup>1:newspaper:</sup></summary>
-
-- [React 项目配置less](https://github.com/smileyby/notes-copy/issues/74)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
 <summary>Bug :beetle:	<sup>0:newspaper:</sup></summary>
 
 
@@ -204,60 +128,9 @@
 </details>
 
 <details>
-<summary>每日任务 :bell:	<sup>0:newspaper:</sup></summary>
+<summary>chrome	<sup>1:newspaper:</sup></summary>
 
-
-
-</details>
-
-<details>
-<summary>设计相关:blossom:	<sup>1:newspaper:</sup></summary>
-
-- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>webpack :leaves:	<sup>2:newspaper:</sup></summary>
-
-- [webpack编译时遇到的问题“Error: Cannot find module ‘webpack-cli/bin/config-yargs‘.....“](https://github.com/smileyby/notes-copy/issues/127)  <sup>0 :speech_balloon:</sup>  	 
-- [Webpack：TypeError: Cannot destructure property 'compile' of 'undefined' or 'null'](https://github.com/smileyby/notes-copy/issues/30)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>git :monkey_face:	<sup>3:newspaper:</sup></summary>
-
-- [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90)  <sup>0 :speech_balloon:</sup>  	 
-- [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes-copy/issues/41)  <sup>0 :speech_balloon:</sup>  	 
-- [Git：常用命令汇总 ](https://github.com/smileyby/notes-copy/issues/40)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>Element-UI :mushroom:	<sup>9:newspaper:</sup></summary>
-
-- [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes-copy/issues/48)  <sup>0 :speech_balloon:</sup>  	 
-- [Elementui-cascader级联选择组件](https://github.com/smileyby/notes-copy/issues/47)  <sup>0 :speech_balloon:</sup>  	 
-- [Element： ref 被重新赋值](https://github.com/smileyby/notes-copy/issues/46)  <sup>0 :speech_balloon:</sup>  	 
-- [Element: el-date-picker 点击 × 清除数据，会将model绑定值重置为 null](https://github.com/smileyby/notes-copy/issues/45)  <sup>0 :speech_balloon:</sup>  	 
-- [Element：el-date-picker,value值要传字符串](https://github.com/smileyby/notes-copy/issues/44)  <sup>0 :speech_balloon:</sup>  	 
-- [Element：树结构，默认会将节点值转成字符串](https://github.com/smileyby/notes-copy/issues/43)  <sup>0 :speech_balloon:</sup>  	 
-- [Element：自定义表单效验规则要保证 callback必然会被执行](https://github.com/smileyby/notes-copy/issues/42)  <sup>0 :speech_balloon:</sup>  	 
-- [Elementui：table summary-method 方法动态更新](https://github.com/smileyby/notes-copy/issues/38)  <sup>0 :speech_balloon:</sup>  	 
-- [Elementui：elementui 滚动条组件](https://github.com/smileyby/notes-copy/issues/37)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>兼容 :six_pointed_star:	<sup>2:newspaper:</sup></summary>
-
-- [PC端：IE表格边框消失](https://github.com/smileyby/notes-copy/issues/29)  <sup>0 :speech_balloon:</sup>  	 
-- [移动端：IOS，getTime(),getFullYear()等返回显示NaN](https://github.com/smileyby/notes-copy/issues/28)  <sup>0 :speech_balloon:</sup>  	 
+- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -280,9 +153,27 @@
 </details>
 
 <details>
-<summary>TypeScript :rabbit:	<sup>1:newspaper:</sup></summary>
+<summary>Element-UI :mushroom:	<sup>9:newspaper:</sup></summary>
 
-- [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes-copy/issues/75)  <sup>0 :speech_balloon:</sup>  	 
+- [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes-copy/issues/48)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui-cascader级联选择组件](https://github.com/smileyby/notes-copy/issues/47)  <sup>0 :speech_balloon:</sup>  	 
+- [Element： ref 被重新赋值](https://github.com/smileyby/notes-copy/issues/46)  <sup>0 :speech_balloon:</sup>  	 
+- [Element: el-date-picker 点击 × 清除数据，会将model绑定值重置为 null](https://github.com/smileyby/notes-copy/issues/45)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：el-date-picker,value值要传字符串](https://github.com/smileyby/notes-copy/issues/44)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：树结构，默认会将节点值转成字符串](https://github.com/smileyby/notes-copy/issues/43)  <sup>0 :speech_balloon:</sup>  	 
+- [Element：自定义表单效验规则要保证 callback必然会被执行](https://github.com/smileyby/notes-copy/issues/42)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui：table summary-method 方法动态更新](https://github.com/smileyby/notes-copy/issues/38)  <sup>0 :speech_balloon:</sup>  	 
+- [Elementui：elementui 滚动条组件](https://github.com/smileyby/notes-copy/issues/37)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>git :monkey_face:	<sup>3:newspaper:</sup></summary>
+
+- [Git：常用命令](https://github.com/smileyby/notes-copy/issues/90)  <sup>0 :speech_balloon:</sup>  	 
+- [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes-copy/issues/41)  <sup>0 :speech_balloon:</sup>  	 
+- [Git：常用命令汇总 ](https://github.com/smileyby/notes-copy/issues/40)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -298,48 +189,9 @@
 </details>
 
 <details>
-<summary>面试 :umbrella:	<sup>1:newspaper:</sup></summary>
+<summary>html2canvas	<sup>1:newspaper:</sup></summary>
 
-- [面试：作用域](https://github.com/smileyby/notes-copy/issues/76)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
-
-- [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>插件 :sun_with_face:	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
-<summary>网络 :sparkles:	<sup>3:newspaper:</sup></summary>
-
-- [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89)  <sup>0 :speech_balloon:</sup>  	 
-- [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88)  <sup>0 :speech_balloon:</sup>  	 
-- [TCP 三次/四次握手](https://github.com/smileyby/notes-copy/issues/39)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>Todo	<sup>7:newspaper:</sup></summary>
-
-- [TODO：TypeScript](https://github.com/smileyby/notes-copy/issues/138)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：node](https://github.com/smileyby/notes-copy/issues/133)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：递归](https://github.com/smileyby/notes-copy/issues/128)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：框架：vue和react回顾，JS基础回顾](https://github.com/smileyby/notes-copy/issues/111)  <sup>1 :speech_balloon:</sup>  	 
-- [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98)  <sup>2 :speech_balloon:</sup>  	 
-- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+- [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -381,9 +233,211 @@
 </details>
 
 <details>
-<summary>html2canvas	<sup>1:newspaper:</sup></summary>
+<summary>Node.js :turtle:	<sup>0:newspaper:</sup></summary>
 
-- [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>npm	<sup>3:newspaper:</sup></summary>
+
+- [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141)  <sup>0 :speech_balloon:</sup>  	 
+- [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101)  <sup>0 :speech_balloon:</sup>  	 
+- [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>React :globe_with_meridians:	<sup>1:newspaper:</sup></summary>
+
+- [React 项目配置less](https://github.com/smileyby/notes-copy/issues/74)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Todo	<sup>7:newspaper:</sup></summary>
+
+- [TODO：TypeScript](https://github.com/smileyby/notes-copy/issues/138)  <sup>0 :speech_balloon:</sup>  	 
+- [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134)  <sup>0 :speech_balloon:</sup>  	 
+- [Todo：node](https://github.com/smileyby/notes-copy/issues/133)  <sup>0 :speech_balloon:</sup>  	 
+- [Todo：递归](https://github.com/smileyby/notes-copy/issues/128)  <sup>0 :speech_balloon:</sup>  	 
+- [Todo：框架：vue和react回顾，JS基础回顾](https://github.com/smileyby/notes-copy/issues/111)  <sup>1 :speech_balloon:</sup>  	 
+- [Vite：vite替换webpack](https://github.com/smileyby/notes-copy/issues/98)  <sup>2 :speech_balloon:</sup>  	 
+- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>TypeScript :rabbit:	<sup>1:newspaper:</sup></summary>
+
+- [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes-copy/issues/75)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>VUE :milky_way:	<sup>5:newspaper:</sup></summary>
+
+- [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes-copy/issues/102)  <sup>0 :speech_balloon:</sup>  	 
+- [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes-copy/issues/73)  <sup>0 :speech_balloon:</sup>  	 
+- [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes-copy/issues/72)  <sup>0 :speech_balloon:</sup>  	 
+- [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes-copy/issues/71)  <sup>0 :speech_balloon:</sup>  	 
+- [VUE：vue-cli · Failed to download repo vuejs-templates/webpack: getaddrinfo ENOTFOUND github.com github.com:443](https://github.com/smileyby/notes-copy/issues/70)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>webpack :leaves:	<sup>3:newspaper:</sup></summary>
+
+- [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141)  <sup>0 :speech_balloon:</sup>  	 
+- [webpack编译时遇到的问题“Error: Cannot find module ‘webpack-cli/bin/config-yargs‘.....“](https://github.com/smileyby/notes-copy/issues/127)  <sup>0 :speech_balloon:</sup>  	 
+- [Webpack：TypeError: Cannot destructure property 'compile' of 'undefined' or 'null'](https://github.com/smileyby/notes-copy/issues/30)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>今天学到了	<sup>1:newspaper:</sup></summary>
+
+- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>兼容 :six_pointed_star:	<sup>2:newspaper:</sup></summary>
+
+- [PC端：IE表格边框消失](https://github.com/smileyby/notes-copy/issues/29)  <sup>0 :speech_balloon:</sup>  	 
+- [移动端：IOS，getTime(),getFullYear()等返回显示NaN](https://github.com/smileyby/notes-copy/issues/28)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>创意	<sup>1:newspaper:</sup></summary>
+
+- [创意：网站](https://github.com/smileyby/notes-copy/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>名次解释	<sup>1:newspaper:</sup></summary>
+
+- [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>小程序 :cyclone:	<sup>20:newspaper:</sup></summary>
+
+- [小程序组件内 引用父组件样式](https://github.com/smileyby/notes-copy/issues/137)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes-copy/issues/112)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：todo-list](https://github.com/smileyby/notes-copy/issues/27)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：TEXT标签还能嵌套text标签，其他标签无效 ](https://github.com/smileyby/notes-copy/issues/26)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：组件内【boundingClientRect】方法获取元素高度时，返回null](https://github.com/smileyby/notes-copy/issues/25)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：scroll-view组件内部元素直接添加阴影会被截断 ](https://github.com/smileyby/notes-copy/issues/24)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：Some selectors are not allowed in component wxss, including tag name](https://github.com/smileyby/notes-copy/issues/23)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：使用定位，在ios中可能会导致横向滚动](https://github.com/smileyby/notes-copy/issues/22)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：wx.request:fail ssl hand shake error](https://github.com/smileyby/notes-copy/issues/21)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：请求接口报错：-202::NET::ERR_CERT_AUTHORITY_INVALID](https://github.com/smileyby/notes-copy/issues/20)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：微信更新7.0.10后，onShow 中 调用wx.hideLoading失效](https://github.com/smileyby/notes-copy/issues/19)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：云开发](https://github.com/smileyby/notes-copy/issues/18)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：{{}}取值运算符，不能运行indexOf方法的解决办法](https://github.com/smileyby/notes-copy/issues/17)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：video播放器设置opacity:0在ios设备上不能播放 ](https://github.com/smileyby/notes-copy/issues/16)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：扫码打开对应界面，接收的参数](https://github.com/smileyby/notes-copy/issues/15)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：同一个元素 绑定长按和点击事件，两个事件会同时执行](https://github.com/smileyby/notes-copy/issues/14)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes-copy/issues/13)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes-copy/issues/12)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes-copy/issues/10)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>开源	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>插件 :sun_with_face:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>摸鱼 :tropical_fish:	<sup>8:newspaper:</sup></summary>
+
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
+- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
+- [EN：Minor Heat ](https://github.com/smileyby/notes-copy/issues/122)  <sup>0 :speech_balloon:</sup>  	 
+- [网易云：一则广告](https://github.com/smileyby/notes-copy/issues/103)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：1024-js代码排行](https://github.com/smileyby/notes-copy/issues/62)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：神兽](https://github.com/smileyby/notes-copy/issues/35)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：漫画-我要摆地摊](https://github.com/smileyby/notes-copy/issues/34)  <sup>0 :speech_balloon:</sup>  	 
+- [摸鱼：推荐电影](https://github.com/smileyby/notes-copy/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>每日任务 :bell:	<sup>0:newspaper:</sup></summary>
+
+
+
+</details>
+
+<details>
+<summary>每日趣闻	<sup>1:newspaper:</sup></summary>
+
+- [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>测试题	<sup>4:newspaper:</sup></summary>
+
+- [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
+- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
+- [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
+- [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>浏览器 :broken_heart:	<sup>1:newspaper:</sup></summary>
+
+- [Chrome：Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代 ](https://github.com/smileyby/notes-copy/issues/36)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>电影	<sup>2:newspaper:</sup></summary>
+
+- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
+- [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>移动端	<sup>2:newspaper:</sup></summary>
+
+- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
+- [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -403,25 +457,11 @@
 </details>
 
 <details>
-<summary>每日趣闻	<sup>1:newspaper:</sup></summary>
+<summary>网络 :sparkles:	<sup>3:newspaper:</sup></summary>
 
-- [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>移动端	<sup>2:newspaper:</sup></summary>
-
-- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
-- [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>随记	<sup>0:newspaper:</sup></summary>
-
+- [网络：关于OPTIONS请求](https://github.com/smileyby/notes-copy/issues/89)  <sup>0 :speech_balloon:</sup>  	 
+- [网络：HTTP状态码](https://github.com/smileyby/notes-copy/issues/88)  <sup>0 :speech_balloon:</sup>  	 
+- [TCP 三次/四次握手](https://github.com/smileyby/notes-copy/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -448,9 +488,9 @@
 </details>
 
 <details>
-<summary>创意	<sup>1:newspaper:</sup></summary>
+<summary>设计相关:blossom:	<sup>1:newspaper:</sup></summary>
 
-- [创意：网站](https://github.com/smileyby/notes-copy/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+- [一起来画画](https://github.com/smileyby/notes-copy/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -465,43 +505,6 @@
 </details>
 
 <details>
-<summary>npm	<sup>2:newspaper:</sup></summary>
-
-- [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101)  <sup>0 :speech_balloon:</sup>  	 
-- [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>测试题	<sup>4:newspaper:</sup></summary>
-
-- [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
-- [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
-- [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
-- [测试题：原型原型链](https://github.com/smileyby/notes-copy/issues/96)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>名次解释	<sup>1:newspaper:</sup></summary>
-
-- [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
-<summary>电影	<sup>2:newspaper:</sup></summary>
-
-- [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
-- [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
-
-
-</details>
-
-<details>
 <summary>调试	<sup>1:newspaper:</sup></summary>
 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
@@ -510,17 +513,16 @@
 </details>
 
 <details>
-<summary>chrome	<sup>1:newspaper:</sup></summary>
+<summary>随记	<sup>0:newspaper:</sup></summary>
 
-- [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>今天学到了	<sup>1:newspaper:</sup></summary>
+<summary>面试 :umbrella:	<sup>1:newspaper:</sup></summary>
 
-- [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
+- [面试：作用域](https://github.com/smileyby/notes-copy/issues/76)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
