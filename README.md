@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/40"/>
+    <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-08-27 03:10:14"/>
+    <img src="https://badgen.net/badge/last-commit/2021-08-31 10:55:16"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [日常总结](https://github.com/smileyby/notes-copy/issues/142) <sup>0 :speech_balloon:</sup> 	 2021-08-31 10:54:50
+
+:label: : [经验](https://github.com/smileyby/ghiblog/labels/%E7%BB%8F%E9%AA%8C)
+
+1. 项目中提测问题不要急于修改，等堆积到一定数量再集中处理，提高效率
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/142)
+
+---
+
 
 #### [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141) <sup>0 :speech_balloon:</sup> 	 2021-08-27 03:09:44
 
@@ -75,22 +86,6 @@ Todo
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/138)
-
----
-
-
-#### [小程序组件内 引用父组件样式](https://github.com/smileyby/notes-copy/issues/137) <sup>0 :speech_balloon:</sup> 	 2021-08-11 10:52:59
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-```html
-<view class="~blue-text"> 这段文本是蓝色的 </view>
-<view class="^red-text"> 这段文本是红色的 </view>
-```
-
-[文档](https://developers.weixin.qq.com/miniprogr
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/137)
 
 ---
 
@@ -452,6 +447,14 @@ Todo
 <details>
 <summary>程序员表情包	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>经验	<sup>1:newspaper:</sup></summary>
+
+- [日常总结](https://github.com/smileyby/notes-copy/issues/142)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
