@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-02 03:05:21"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-02 08:30:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145) <sup>0 :speech_balloon:</sup> 	 2021-09-02 08:30:11
+
+:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm](https://github.com/smileyby/ghiblog/labels/npm)
+
+TODO
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/145)
+
+---
+
 
 #### [HTML draggable 属性实现拖拽](https://github.com/smileyby/notes-copy/issues/144) <sup>0 :speech_balloon:</sup> 	 2021-09-02 03:04:49
 
@@ -78,17 +89,6 @@ TODO
 Todo
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/141)
-
----
-
-
-#### [EN：Home free => 胜利在望](https://github.com/smileyby/notes-copy/issues/140) <sup>0 :speech_balloon:</sup> 	 2021-08-20 10:20:26
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/140)
 
 ---
 
@@ -233,15 +233,17 @@ Todo
 </details>
 
 <details>
-<summary>Node.js :turtle:	<sup>0:newspaper:</sup></summary>
+<summary>Node.js :turtle:	<sup>1:newspaper:</sup></summary>
 
+- [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>npm	<sup>3:newspaper:</sup></summary>
+<summary>npm	<sup>4:newspaper:</sup></summary>
 
+- [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141)  <sup>0 :speech_balloon:</sup>  	 
 - [命令行：VUE 不是内部命令](https://github.com/smileyby/notes-copy/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes-copy/issues/94)  <sup>0 :speech_balloon:</sup>  	 
