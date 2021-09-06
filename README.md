@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-02 08:30:40"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-06 02:41:24"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [下载文件请求头是啥样子的？](https://github.com/smileyby/notes-copy/issues/146) <sup>0 :speech_balloon:</sup> 	 2021-09-06 02:40:54
+
+:label: : [每日任务 :bell:](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%20%3Abell%3A)
+
+Todo
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/146)
+
+---
+
 
 #### [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145) <sup>0 :speech_balloon:</sup> 	 2021-09-02 08:30:11
 
@@ -78,17 +89,6 @@ TODO
 1. 项目中提测问题不要急于修改，等堆积到一定数量再集中处理，提高效率
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/142)
-
----
-
-
-#### [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141) <sup>0 :speech_balloon:</sup> 	 2021-08-27 03:09:44
-
-:label: : [webpack :leaves:](https://github.com/smileyby/ghiblog/labels/webpack%20%3Aleaves%3A), [npm](https://github.com/smileyby/ghiblog/labels/npm)
-
-Todo
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/141)
 
 ---
 
@@ -393,8 +393,9 @@ Todo
 </details>
 
 <details>
-<summary>每日任务 :bell:	<sup>0:newspaper:</sup></summary>
+<summary>每日任务 :bell:	<sup>1:newspaper:</sup></summary>
 
+- [下载文件请求头是啥样子的？](https://github.com/smileyby/notes-copy/issues/146)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
