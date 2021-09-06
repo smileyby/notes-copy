@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-06 10:36:53"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-06 10:58:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -63,7 +63,13 @@ TODO
 
 :label: : [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
 
-TODO
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="v
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/144)
 
