@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-06 02:41:24"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-06 10:36:53"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,7 +38,10 @@
 
 :label: : [每日任务 :bell:](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%20%3Abell%3A)
 
-Todo
+### 请求头 content-type
+1. application/octet-stream：二进制流，不知道下载文件类型
+2. application/vnd.android.package-archive：安卓apk
+3. application/x-bittorrent：种子
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/146)
 
