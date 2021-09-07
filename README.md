@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-06 11:02:50"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-07 03:28:51"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147) <sup>0 :speech_balloon:</sup> 	 2021-09-07 03:28:21
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+
+![html](https://user-images.githubusercontent.com/16968442/132279654-cf54e4f9-6ba8-45dd-ad2a-d7083fa92140.png)
+![css](https://user-images.githubuse
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/147)
+
+---
+
 
 #### [下载文件请求头是啥样子的？](https://github.com/smileyby/notes-copy/issues/146) <sup>0 :speech_balloon:</sup> 	 2021-09-06 02:40:54
 
@@ -86,17 +99,6 @@ TODO
 ---
 
 
-#### [日常总结](https://github.com/smileyby/notes-copy/issues/142) <sup>0 :speech_balloon:</sup> 	 2021-08-31 10:54:50
-
-:label: : [经验](https://github.com/smileyby/ghiblog/labels/%E7%BB%8F%E9%AA%8C)
-
-1. 项目中提测问题不要急于修改，等堆积到一定数量再集中处理，提高效率
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/142)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -139,8 +141,9 @@ TODO
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>10:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>11:newspaper:</sup></summary>
 
+- [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：object-fit](https://github.com/smileyby/notes-copy/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：border绘制不同的图形](https://github.com/smileyby/notes-copy/issues/57)  <sup>0 :speech_balloon:</sup>  	 
