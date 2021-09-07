@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-07 03:28:51"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-07 06:40:38"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [module.exports 与 export 区别 ](https://github.com/smileyby/notes-copy/issues/148) <sup>0 :speech_balloon:</sup> 	 2021-09-07 06:40:07
+
+:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
+
+todo
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/148)
+
+---
+
 
 #### [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147) <sup>0 :speech_balloon:</sup> 	 2021-09-07 03:28:21
 
@@ -80,21 +91,6 @@ TODO
 
 
 [更多>>>](https://github.com/smileyby/notes-copy/issues/144)
-
----
-
-
-#### [分页加载数据，动态计算高度不准确bug](https://github.com/smileyby/notes-copy/issues/143) <sup>0 :speech_balloon:</sup> 	 2021-09-01 06:01:36
-
-:label: : [Bug :beetle:](https://github.com/smileyby/ghiblog/labels/Bug%20%3Abeetle%3A)
-
-场景：一个分页列表，内容超出三行显示省略号，并展示查看更多按钮
-实现：使用getComputedStyle 获取内容盒子高度 来与 lineHieght 比较
-实际：实际场景中 首次加载的数据计算无误，加载第二页时，第一页的数据计算出现错误，满脑子问号？这是为什么？
-
-后续跟进....
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/143)
 
 ---
 
@@ -204,8 +200,9 @@ TODO
 </details>
 
 <details>
-<summary>JavaScript	<sup>29:newspaper:</sup></summary>
+<summary>JavaScript	<sup>30:newspaper:</sup></summary>
 
+- [module.exports 与 export 区别 ](https://github.com/smileyby/notes-copy/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 - [获取图片 exif 信息](https://github.com/smileyby/notes-copy/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123)  <sup>1 :speech_balloon:</sup>  	 
 - [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120)  <sup>0 :speech_balloon:</sup>  	 
