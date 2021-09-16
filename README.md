@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-07 06:40:38"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-16 02:03:45"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,63 +34,68 @@
 - [封面图](https://github.com/smileyby/notes-copy/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [module.exports 与 export 区别 ](https://github.com/smileyby/notes-copy/issues/148) <sup>0 :speech_balloon:</sup> 	 2021-09-07 06:40:07
-
-:label: : [JavaScript](https://github.com/smileyby/ghiblog/labels/JavaScript)
-
-todo
-
-[更多>>>](https://github.com/smileyby/notes-copy/issues/148)
-
----
-
-
-#### [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147) <sup>0 :speech_balloon:</sup> 	 2021-09-07 03:28:21
+#### [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes-copy/issues/154) <sup>0 :speech_balloon:</sup> 	 2021-09-15 03:49:28
 
 :label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
 
 
-![html](https://user-images.githubusercontent.com/16968442/132279654-cf54e4f9-6ba8-45dd-ad2a-d7083fa92140.png)
-![css](https://user-images.githubuse
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/147)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/154)
 
 ---
 
 
-#### [下载文件请求头是啥样子的？](https://github.com/smileyby/notes-copy/issues/146) <sup>0 :speech_balloon:</sup> 	 2021-09-06 02:40:54
+#### [reserved word  保留字](https://github.com/smileyby/notes-copy/issues/153) <sup>0 :speech_balloon:</sup> 	 2021-09-14 06:25:31
 
-:label: : [每日任务 :bell:](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%20%3Abell%3A)
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
 
-### 请求头 content-type
-1. application/octet-stream：二进制流，不知道下载文件类型
-2. application/vnd.android.package-archive：安卓apk
-3. application/x-bittorrent：种子
+![image](https://user-images.githubusercontent.com/16968442/133206056-f5944619-b971-457b-9755-e32066ee7f66.png)
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/146)
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/153)
 
 ---
 
 
-#### [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145) <sup>0 :speech_balloon:</sup> 	 2021-09-02 08:30:11
+#### [用css写判断条件](https://github.com/smileyby/notes-copy/issues/152) <sup>2 :speech_balloon:</sup> 	 2021-09-13 10:27:41
 
-:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm](https://github.com/smileyby/ghiblog/labels/npm)
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
 
-TODO
+css实现判断的方式有哪些？
+场景：在实际项目中尝尝需要根据【数据状态】的不同，展示不同的样式；实际实现就是通过css选择器来写两套css
+那么css都有哪些选择器可以实现以上的效果呢？
+1. 基础选择器：id clsss [attribute] [tagname]
+2. 伪类选择器：`:c
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/145)
+[更多>>>](https://github.com/smileyby/notes-copy/issues/152)
 
 ---
 
 
-#### [HTML draggable 属性实现拖拽](https://github.com/smileyby/notes-copy/issues/144) <sup>1 :speech_balloon:</sup> 	 2021-09-02 03:04:49
+#### [测试题：Promise](https://github.com/smileyby/notes-copy/issues/151) <sup>3 :speech_balloon:</sup> 	 2021-09-10 04:04:57
 
-:label: : [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
+:label: : [测试题 :dizzy:](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98%20%3Adizzy%3A)
 
-![carbon](https://user-images.githubusercontent.com/16968442/132207572-7558c558-f8ab-4e3a-afd8-4ead30e7458d.png)
+setTimeout(()=>{console.log(1)},0)
+async function timeout (){
+  const a = await new Promise((res, rej) => {
+    setTimeout(() => {console.log(2); r
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/151)
+
+---
 
 
-[更多>>>](https://github.com/smileyby/notes-copy/issues/144)
+#### [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150) <sup>1 :speech_balloon:</sup> 	 2021-09-07 11:01:09
+
+:label: : [测试题 :dizzy:](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98%20%3Adizzy%3A)
+
+![Promise测试题](https://user-images.githubusercontent.com/16968442/132333957-332967ca-2b69-44df-8c29-06c5d3599cac.png)
+// 最后的输出结果是什么？
+
+参考链接：[Promise.
+
+[更多>>>](https://github.com/smileyby/notes-copy/issues/150)
 
 ---
 
@@ -129,7 +134,7 @@ TODO
 </details>
 
 <details>
-<summary>chrome	<sup>1:newspaper:</sup></summary>
+<summary>chrome :ocean:	<sup>1:newspaper:</sup></summary>
 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -137,8 +142,10 @@ TODO
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>11:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>13:newspaper:</sup></summary>
 
+- [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes-copy/issues/154)  <sup>0 :speech_balloon:</sup>  	 
+- [用css写判断条件](https://github.com/smileyby/notes-copy/issues/152)  <sup>2 :speech_balloon:</sup>  	 
 - [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：object-fit](https://github.com/smileyby/notes-copy/issues/58)  <sup>0 :speech_balloon:</sup>  	 
@@ -192,7 +199,7 @@ TODO
 </details>
 
 <details>
-<summary>html2canvas	<sup>1:newspaper:</sup></summary>
+<summary>html2canvas :octopus:	<sup>1:newspaper:</sup></summary>
 
 - [html2canvas 相关问题](https://github.com/smileyby/notes-copy/issues/49)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -200,9 +207,9 @@ TODO
 </details>
 
 <details>
-<summary>JavaScript	<sup>30:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>30:newspaper:</sup></summary>
 
-- [module.exports 与 export 区别 ](https://github.com/smileyby/notes-copy/issues/148)  <sup>0 :speech_balloon:</sup>  	 
+- [module.exports 与 export 区别 ](https://github.com/smileyby/notes-copy/issues/148)  <sup>1 :speech_balloon:</sup>  	 
 - [获取图片 exif 信息](https://github.com/smileyby/notes-copy/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [JS Is Weird](https://github.com/smileyby/notes-copy/issues/123)  <sup>1 :speech_balloon:</sup>  	 
 - [就像const 一样，let不会在全局声明时（在最顶部的范围）创建window 对象的属性](https://github.com/smileyby/notes-copy/issues/120)  <sup>0 :speech_balloon:</sup>  	 
@@ -245,7 +252,7 @@ TODO
 </details>
 
 <details>
-<summary>npm	<sup>4:newspaper:</sup></summary>
+<summary>npm :snake:	<sup>4:newspaper:</sup></summary>
 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes-copy/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes-copy/issues/141)  <sup>0 :speech_balloon:</sup>  	 
@@ -264,7 +271,7 @@ TODO
 </details>
 
 <details>
-<summary>Todo	<sup>7:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>7:newspaper:</sup></summary>
 
 - [TODO：TypeScript](https://github.com/smileyby/notes-copy/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：WebGL](https://github.com/smileyby/notes-copy/issues/134)  <sup>0 :speech_balloon:</sup>  	 
@@ -308,7 +315,7 @@ TODO
 </details>
 
 <details>
-<summary>今天学到了	<sup>1:newspaper:</sup></summary>
+<summary>今天学到了 :sunflower:	<sup>1:newspaper:</sup></summary>
 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes-copy/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -325,7 +332,7 @@ TODO
 </details>
 
 <details>
-<summary>创意	<sup>1:newspaper:</sup></summary>
+<summary>创意 :bouquet:	<sup>1:newspaper:</sup></summary>
 
 - [创意：网站](https://github.com/smileyby/notes-copy/issues/92)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -333,7 +340,7 @@ TODO
 </details>
 
 <details>
-<summary>名次解释	<sup>1:newspaper:</sup></summary>
+<summary>名次解释 :palm_tree:	<sup>1:newspaper:</sup></summary>
 
 - [统计指标：汇总](https://github.com/smileyby/notes-copy/issues/99)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -405,7 +412,7 @@ TODO
 </details>
 
 <details>
-<summary>每日趣闻	<sup>1:newspaper:</sup></summary>
+<summary>每日趣闻 :curly_loop:	<sup>1:newspaper:</sup></summary>
 
 - [程序员的酒后真言](https://github.com/smileyby/notes-copy/issues/116)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -413,8 +420,10 @@ TODO
 </details>
 
 <details>
-<summary>测试题	<sup>4:newspaper:</sup></summary>
+<summary>测试题 :dizzy:	<sup>6:newspaper:</sup></summary>
 
+- [测试题：Promise](https://github.com/smileyby/notes-copy/issues/151)  <sup>3 :speech_balloon:</sup>  	 
+- [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150)  <sup>1 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
 - [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
@@ -432,7 +441,7 @@ TODO
 </details>
 
 <details>
-<summary>电影	<sup>2:newspaper:</sup></summary>
+<summary>电影 :movie_camera:	<sup>2:newspaper:</sup></summary>
 
 - [推荐电影：最后的城堡](https://github.com/smileyby/notes-copy/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：《给我翅膀》](https://github.com/smileyby/notes-copy/issues/125)  <sup>0 :speech_balloon:</sup>  	 
@@ -441,7 +450,7 @@ TODO
 </details>
 
 <details>
-<summary>移动端	<sup>2:newspaper:</sup></summary>
+<summary>移动端 :custard:	<sup>2:newspaper:</sup></summary>
 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes-copy/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes-copy/issues/91)  <sup>0 :speech_balloon:</sup>  	 
@@ -450,14 +459,14 @@ TODO
 </details>
 
 <details>
-<summary>程序员段子	<sup>0:newspaper:</sup></summary>
+<summary>程序员段子 :laughing:	<sup>0:newspaper:</sup></summary>
 
 
 
 </details>
 
 <details>
-<summary>程序员表情包	<sup>0:newspaper:</sup></summary>
+<summary>程序员表情包 :flushed:	<sup>0:newspaper:</sup></summary>
 
 
 
@@ -482,8 +491,9 @@ TODO
 </details>
 
 <details>
-<summary>英语	<sup>14:newspaper:</sup></summary>
+<summary>英语	<sup>15:newspaper:</sup></summary>
 
+- [reserved word  保留字](https://github.com/smileyby/notes-copy/issues/153)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Home free => 胜利在望](https://github.com/smileyby/notes-copy/issues/140)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：形容词的高级替换](https://github.com/smileyby/notes-copy/issues/132)  <sup>0 :speech_balloon:</sup>  	 
 - [EN:Tell me about it](https://github.com/smileyby/notes-copy/issues/130)  <sup>0 :speech_balloon:</sup>  	 
