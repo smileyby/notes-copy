@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-17 06:52:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-17 07:23:56"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -86,7 +86,7 @@ async function timeout (){
 ---
 
 
-#### [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150) <sup>2 :speech_balloon:</sup> 	 2021-09-07 11:01:09
+#### [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150) <sup>3 :speech_balloon:</sup> 	 2021-09-07 11:01:09
 
 :label: : [测试题 :dizzy:](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98%20%3Adizzy%3A)
 
@@ -423,7 +423,7 @@ async function timeout (){
 <summary>测试题 :dizzy:	<sup>6:newspaper:</sup></summary>
 
 - [测试题：Promise](https://github.com/smileyby/notes-copy/issues/151)  <sup>3 :speech_balloon:</sup>  	 
-- [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150)  <sup>2 :speech_balloon:</sup>  	 
+- [测试题：Promise相关](https://github.com/smileyby/notes-copy/issues/150)  <sup>3 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes-copy/issues/110)  <sup>0 :speech_balloon:</sup>  	 
 - [作用域·测试题](https://github.com/smileyby/notes-copy/issues/107)  <sup>2 :speech_balloon:</sup>  	 
 - [测试题：运算符优先级 + new + 原型链](https://github.com/smileyby/notes-copy/issues/100)  <sup>0 :speech_balloon:</sup>  	 
