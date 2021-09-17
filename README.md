@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-16 11:02:08"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-17 06:52:13"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -146,7 +146,7 @@ async function timeout (){
 
 - [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes-copy/issues/154)  <sup>0 :speech_balloon:</sup>  	 
 - [用css写判断条件](https://github.com/smileyby/notes-copy/issues/152)  <sup>2 :speech_balloon:</sup>  	 
-- [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147)  <sup>0 :speech_balloon:</sup>  	 
+- [position:sticky  粘性布局](https://github.com/smileyby/notes-copy/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [CSS：IOS系统下，一行代码实现简体和繁体切换](https://github.com/smileyby/notes-copy/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：object-fit](https://github.com/smileyby/notes-copy/issues/58)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：border绘制不同的图形](https://github.com/smileyby/notes-copy/issues/57)  <sup>0 :speech_balloon:</sup>  	 
