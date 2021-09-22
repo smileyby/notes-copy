@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-18 09:46:47"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-22 05:50:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [摸鱼奖品陈列室](https://github.com/smileyby/notes/issues/156) <sup>0 :speech_balloon:</sup> 	 2021-09-22 05:49:37
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+![掘金马克杯](https://user-images.githubusercontent.com/16968442/134289830-aeeedda9-2c43-4af3-8533-446e3477c19c.png)
+![掘金马克杯](https://user-images.githubus
+
+[更多>>>](https://github.com/smileyby/notes/issues/156)
+
+---
+
 
 #### [关于业务前端的职业迷茫感](https://github.com/smileyby/notes/issues/155) <sup>0 :speech_balloon:</sup> 	 2021-09-18 09:46:17
 
@@ -79,20 +91,6 @@ css实现判断的方式有哪些？
 2. 伪类选择器：`:c
 
 [更多>>>](https://github.com/smileyby/notes/issues/152)
-
----
-
-
-#### [测试题：Promise](https://github.com/smileyby/notes/issues/151) <sup>3 :speech_balloon:</sup> 	 2021-09-10 04:04:57
-
-:label: : [测试题 :dizzy:](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98%20%3Adizzy%3A)
-
-setTimeout(()=>{console.log(1)},0)
-async function timeout (){
-  const a = await new Promise((res, rej) => {
-    setTimeout(() => {console.log(2); r
-
-[更多>>>](https://github.com/smileyby/notes/issues/151)
 
 ---
 
@@ -386,8 +384,9 @@ async function timeout (){
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>8:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>9:newspaper:</sup></summary>
 
+- [摸鱼奖品陈列室](https://github.com/smileyby/notes/issues/156)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：最后的城堡](https://github.com/smileyby/notes/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [一起来画画](https://github.com/smileyby/notes/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Minor Heat ](https://github.com/smileyby/notes/issues/122)  <sup>0 :speech_balloon:</sup>  	 
