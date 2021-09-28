@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-24 05:37:54"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-28 02:06:07"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,18 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [H5 唤醒小程序方法](https://github.com/smileyby/notes/issues/158) <sup>0 :speech_balloon:</sup> 	 2021-09-28 02:05:42
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/135010440-4c25f35e-f501-41e3-8501-5e85929953cf.png)
+参考文档：[URL Scheme](https://developers.
+
+[更多>>>](https://github.com/smileyby/notes/issues/158)
+
+---
+
 
 #### [How Rich Am I?](https://github.com/smileyby/notes/issues/157) <sup>0 :speech_balloon:</sup> 	 2021-09-24 05:37:23
 
@@ -75,18 +87,6 @@ https://howrichami.givingwhatwecan.org/how-rich-am-i
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/154)
-
----
-
-
-#### [reserved word  保留字](https://github.com/smileyby/notes/issues/153) <sup>0 :speech_balloon:</sup> 	 2021-09-14 06:25:31
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-![image](https://user-images.githubusercontent.com/16968442/133206056-f5944619-b971-457b-9755-e32066ee7f66.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/153)
 
 ---
 
@@ -339,8 +339,9 @@ https://howrichami.givingwhatwecan.org/how-rich-am-i
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>20:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>21:newspaper:</sup></summary>
 
+- [H5 唤醒小程序方法](https://github.com/smileyby/notes/issues/158)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序组件内 引用父组件样式](https://github.com/smileyby/notes/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：微信api=>wxacode.get=>生成小程序码并不支持白色线条](https://github.com/smileyby/notes/issues/112)  <sup>0 :speech_balloon:</sup>  	 
