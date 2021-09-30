@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-30 05:43:08"/>
+    <img src="https://badgen.net/badge/last-commit/2021-09-30 09:48:51"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161) <sup>0 :speech_balloon:</sup> 	 2021-09-30 09:48:20
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/161)
+
+---
+
 
 #### [Todo：了解 web components](https://github.com/smileyby/notes/issues/160) <sup>0 :speech_balloon:</sup> 	 2021-09-30 05:42:39
 
@@ -75,18 +86,6 @@
 https://howrichami.givingwhatwecan.org/how-rich-am-i
 
 [更多>>>](https://github.com/smileyby/notes/issues/157)
-
----
-
-
-#### [摸鱼奖品陈列室](https://github.com/smileyby/notes/issues/156) <sup>0 :speech_balloon:</sup> 	 2021-09-22 05:49:37
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-![掘金马克杯](https://user-images.githubusercontent.com/16968442/134289830-aeeedda9-2c43-4af3-8533-446e3477c19c.png)
-![掘金马克杯](https://user-images.githubus
-
-[更多>>>](https://github.com/smileyby/notes/issues/156)
 
 ---
 
@@ -262,8 +261,9 @@ https://howrichami.givingwhatwecan.org/how-rich-am-i
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>9:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>10:newspaper:</sup></summary>
 
+- [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
 - [TODO：TypeScript](https://github.com/smileyby/notes/issues/138)  <sup>0 :speech_balloon:</sup>  	 
