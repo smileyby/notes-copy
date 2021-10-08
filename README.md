@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-09-30 09:48:51"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-08 08:13:53"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,17 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162) <sup>0 :speech_balloon:</sup> 	 2021-10-08 08:13:27
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+1. 为绑定到开放平台下
+
+[更多>>>](https://github.com/smileyby/notes/issues/162)
+
+---
+
 
 #### [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161) <sup>0 :speech_balloon:</sup> 	 2021-09-30 09:48:20
 
@@ -75,17 +86,6 @@
 参考文档：[URL Scheme](https://developers.
 
 [更多>>>](https://github.com/smileyby/notes/issues/158)
-
----
-
-
-#### [How Rich Am I?](https://github.com/smileyby/notes/issues/157) <sup>0 :speech_balloon:</sup> 	 2021-09-24 05:37:23
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-https://howrichami.givingwhatwecan.org/how-rich-am-i
-
-[更多>>>](https://github.com/smileyby/notes/issues/157)
 
 ---
 
@@ -341,8 +341,9 @@ https://howrichami.givingwhatwecan.org/how-rich-am-i
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>21:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>22:newspaper:</sup></summary>
 
+- [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162)  <sup>0 :speech_balloon:</sup>  	 
 - [H5 唤醒小程序方法](https://github.com/smileyby/notes/issues/158)  <sup>1 :speech_balloon:</sup>  	 
 - [小程序组件内 引用父组件样式](https://github.com/smileyby/notes/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes/issues/135)  <sup>0 :speech_balloon:</sup>  	 
