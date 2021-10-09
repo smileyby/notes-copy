@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-08 08:13:53"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-09 02:25:29"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,7 +38,7 @@
 
 :label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
 
-1. 为绑定到开放平台下
+1. 未绑定到开放平台下，需要注意的是同主体的小程序不需要绑定，不同主体的小程序开放平台最多绑定五个
 
 [更多>>>](https://github.com/smileyby/notes/issues/162)
 
