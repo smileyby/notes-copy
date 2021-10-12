@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-12 08:21:01"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-12 08:23:01"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -56,13 +56,13 @@
 ---
 
 
-#### [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161) <sup>0 :speech_balloon:</sup> 	 2021-09-30 09:48:20
+#### [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161) <sup>1 :speech_balloon:</sup> 	 2021-09-30 09:48:20
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
-以小程序为例代码如下：
+以小程序 canvas-2d 为例代码如下：
 ![draw](https://user-images.githubusercontent.com/16968442/136919106-f60b7c05-ef07-4d1d-9cce-7e29f8ea2081.png)
-![getImageInfo](https://u
+![getImageInfo
 
 [更多>>>](https://github.com/smileyby/notes/issues/161)
 
@@ -265,7 +265,7 @@
 <summary>Todo :bird:	<sup>11:newspaper:</sup></summary>
 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161)  <sup>0 :speech_balloon:</sup>  	 
+- [Todo：制作一个国庆头像canvas实现](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
 - [TODO：TypeScript](https://github.com/smileyby/notes/issues/138)  <sup>0 :speech_balloon:</sup>  	 
