@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-11 02:19:26"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-12 08:21:01"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -60,7 +60,9 @@
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
-
+以小程序为例代码如下：
+![draw](https://user-images.githubusercontent.com/16968442/136919106-f60b7c05-ef07-4d1d-9cce-7e29f8ea2081.png)
+![getImageInfo](https://u
 
 [更多>>>](https://github.com/smileyby/notes/issues/161)
 
