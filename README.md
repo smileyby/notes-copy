@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-13 09:37:03"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-13 09:42:16"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -58,7 +58,7 @@
 
 #### [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161) <sup>1 :speech_balloon:</sup> 	 2021-09-30 09:48:20
 
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
 
 以小程序 canvas-2d 为例代码如下：
 ![draw](https://user-images.githubusercontent.com/16968442/136919106-f60b7c05-ef07-4d1d-9cce-7e29f8ea2081.png)
@@ -262,10 +262,9 @@
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>11:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>10:newspaper:</sup></summary>
 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
 - [TODO：TypeScript](https://github.com/smileyby/notes/issues/138)  <sup>0 :speech_balloon:</sup>  	 
@@ -343,9 +342,10 @@
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>22:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>23:newspaper:</sup></summary>
 
 - [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162)  <sup>0 :speech_balloon:</sup>  	 
+- [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
 - [H5 唤醒小程序方法](https://github.com/smileyby/notes/issues/158)  <sup>1 :speech_balloon:</sup>  	 
 - [小程序组件内 引用父组件样式](https://github.com/smileyby/notes/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes/issues/135)  <sup>0 :speech_balloon:</sup>  	 
