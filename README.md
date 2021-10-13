@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-13 09:32:15"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-13 09:33:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -56,7 +56,7 @@
 ---
 
 
-#### [小程序：canvas实现头像合成](https://github.com/smileyby/notes/issues/161) <sup>1 :speech_balloon:</sup> 	 2021-09-30 09:48:20
+#### [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161) <sup>1 :speech_balloon:</sup> 	 2021-09-30 09:48:20
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
@@ -265,7 +265,7 @@
 <summary>Todo :bird:	<sup>11:newspaper:</sup></summary>
 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：canvas实现头像合成](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
+- [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
 - [TODO：TypeScript](https://github.com/smileyby/notes/issues/138)  <sup>0 :speech_balloon:</sup>  	 
