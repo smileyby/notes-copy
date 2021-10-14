@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-13 09:42:16"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-14 10:38:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -33,6 +33,19 @@
 ## 置顶 :thumbsup: 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序码生成问题](https://github.com/smileyby/notes/issues/164) <sup>0 :speech_balloon:</sup> 	 2021-10-14 10:38:11
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+在调用微信api生成小程序码，有设置 scene 参数时且参数值内含有 = 未转义的情况下
+调用 wx.scanCode 安卓下识别到的值是未转义的，ios下识别到的就是转义后的
+难搞哦
+
+[更多>>>](https://github.com/smileyby/notes/issues/164)
+
+---
+
 
 #### [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163) <sup>0 :speech_balloon:</sup> 	 2021-10-11 02:19:02
 
@@ -76,17 +89,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/160)
-
----
-
-
-#### [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159) <sup>0 :speech_balloon:</sup> 	 2021-09-29 09:52:23
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/159)
 
 ---
 
@@ -342,8 +344,9 @@
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>23:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>24:newspaper:</sup></summary>
 
+- [小程序码生成问题](https://github.com/smileyby/notes/issues/164)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161)  <sup>1 :speech_balloon:</sup>  	 
 - [H5 唤醒小程序方法](https://github.com/smileyby/notes/issues/158)  <sup>1 :speech_balloon:</sup>  	 
