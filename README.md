@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-18 05:51:00"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-25 10:33:50"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,50 @@
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [ElementUI el-tree 加入搜索在清除筛选项时会默认展开全部子节点](https://github.com/smileyby/notes/issues/168) <sup>0 :speech_balloon:</sup> 	 2021-10-25 10:22:27
+
+:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
+
+解决:
+采用循环全部子节点将 expanded 属性置为false
+代码如下：
+this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/168)
+
+---
+
+
+#### [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167) <sup>0 :speech_balloon:</sup> 	 2021-10-22 10:29:14
+
+:label: : [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
+
+很多人不喜欢一线城市"北上广深"，觉得生活压力大，房价奇高，空间局促嘈杂，想要离开。
+
+但是离开以后，去哪里呢？哪个城市能够提供令人满意的生活方式，以及良好的社会经济状况？
+
+我最近读到时事评论家宁南山的一篇文章，觉得很有启发，跟大家分享一下。
+
+他说，考虑未来的居住城市时，应该对中国的
+
+[更多>>>](https://github.com/smileyby/notes/issues/167)
+
+---
+
+
+#### [浏览器端下载文件](https://github.com/smileyby/notes/issues/166) <sup>0 :speech_balloon:</sup> 	 2021-10-21 07:53:54
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/138235042-bf44004c-96a9-47b6-a891-fc57c375beec.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/166)
+
+---
+
+
 #### [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165) <sup>0 :speech_balloon:</sup> 	 2021-10-17 07:05:58
 
 :label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
@@ -55,41 +99,6 @@
 难搞哦
 
 [更多>>>](https://github.com/smileyby/notes/issues/164)
-
----
-
-
-#### [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163) <sup>0 :speech_balloon:</sup> 	 2021-10-11 02:19:02
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/163)
-
----
-
-
-#### [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162) <sup>0 :speech_balloon:</sup> 	 2021-10-08 08:13:27
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-1. 未绑定到开放平台下，需要注意的是同主体的小程序不需要绑定，不同主体的小程序开放平台最多绑定五个
-
-[更多>>>](https://github.com/smileyby/notes/issues/162)
-
----
-
-
-#### [小程序：canvas实现头像合成，并保存到相册](https://github.com/smileyby/notes/issues/161) <sup>1 :speech_balloon:</sup> 	 2021-09-30 09:48:20
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-以小程序 canvas-2d 为例代码如下：
-![draw](https://user-images.githubusercontent.com/16968442/136919106-f60b7c05-ef07-4d1d-9cce-7e29f8ea2081.png)
-![getImageInfo
-
-[更多>>>](https://github.com/smileyby/notes/issues/161)
 
 ---
 
@@ -156,8 +165,9 @@
 </details>
 
 <details>
-<summary>Element-UI :mushroom:	<sup>9:newspaper:</sup></summary>
+<summary>Element-UI :mushroom:	<sup>10:newspaper:</sup></summary>
 
+- [ElementUI el-tree 加入搜索在清除筛选项时会默认展开全部子节点](https://github.com/smileyby/notes/issues/168)  <sup>0 :speech_balloon:</sup>  	 
 - [Element： 在el-row 或者 el-col 上使用@click失效](https://github.com/smileyby/notes/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [Elementui-cascader级联选择组件](https://github.com/smileyby/notes/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [Element： ref 被重新赋值](https://github.com/smileyby/notes/issues/46)  <sup>0 :speech_balloon:</sup>  	 
@@ -201,8 +211,9 @@
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>30:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>31:newspaper:</sup></summary>
 
+- [浏览器端下载文件](https://github.com/smileyby/notes/issues/166)  <sup>0 :speech_balloon:</sup>  	 
 - [module.exports 与 export 区别 ](https://github.com/smileyby/notes/issues/148)  <sup>1 :speech_balloon:</sup>  	 
 - [获取图片 exif 信息](https://github.com/smileyby/notes/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [JS Is Weird](https://github.com/smileyby/notes/issues/123)  <sup>1 :speech_balloon:</sup>  	 
@@ -542,8 +553,9 @@
 </details>
 
 <details>
-<summary>随记	<sup>1:newspaper:</sup></summary>
+<summary>随记	<sup>2:newspaper:</sup></summary>
 
+- [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [关于业务前端的职业迷茫感](https://github.com/smileyby/notes/issues/155)  <sup>0 :speech_balloon:</sup>  	 
 
 
