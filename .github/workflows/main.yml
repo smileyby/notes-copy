@@ -24,6 +24,8 @@ jobs:
       run: |
         git config --global user.email "smileyby.@126.com"
         git config --global user.name "smileyby"
+        git config pull.ff false
+        git config --global pull.rebase false
     - name: commit change
       run: |
         git checkout master
