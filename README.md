@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-25 10:38:07"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-25 10:45:11"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,21 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 - [封面图](https://github.com/smileyby/notes/issues/1)  <sup>1 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [黄鹤楼](https://github.com/smileyby/notes/issues/169) <sup>0 :speech_balloon:</sup> 	 2021-10-25 10:44:38
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+崔颢·唐
+昔人已乘黄鹤去，此地空余黄鹤楼。
+黄鹤一去不复返，白云千载空悠悠。
+晴川历历汉阳树，芳草萋萋鹦鹉洲。
+日暮乡关何处是？烟波江上使人愁。
+
+[更多>>>](https://github.com/smileyby/notes/issues/169)
+
+---
+
 
 #### [ElementUI el-tree 加入搜索在清除筛选项时会默认展开全部子节点](https://github.com/smileyby/notes/issues/168) <sup>0 :speech_balloon:</sup> 	 2021-10-25 10:22:27
 
@@ -88,19 +103,6 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/165)
-
----
-
-
-#### [小程序码生成问题](https://github.com/smileyby/notes/issues/164) <sup>0 :speech_balloon:</sup> 	 2021-10-14 10:38:11
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-在调用微信api生成小程序码，有设置 scene 参数时且参数值内含有 = 未转义的情况下
-调用 wx.scanCode 安卓下识别到的值是未转义的，ios下识别到的就是转义后的
-难搞哦
-
-[更多>>>](https://github.com/smileyby/notes/issues/164)
 
 ---
 
@@ -540,8 +542,9 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 </details>
 
 <details>
-<summary>诗歌	<sup>2:newspaper:</sup></summary>
+<summary>诗歌	<sup>3:newspaper:</sup></summary>
 
+- [黄鹤楼](https://github.com/smileyby/notes/issues/169)  <sup>0 :speech_balloon:</sup>  	 
 - [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [登高后·唐·孟郊](https://github.com/smileyby/notes/issues/93)  <sup>0 :speech_balloon:</sup>  	 
 
