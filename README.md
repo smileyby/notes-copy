@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-28 02:29:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-28 09:07:12"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171) <sup>0 :speech_balloon:</sup> 	 2021-10-28 09:06:45
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/139224648-9a4bde6d-63a4-4f35-95e3-cd804b8a5dca.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/171)
+
+---
+
 
 #### [苏幕遮·燎沉香](https://github.com/smileyby/notes/issues/170) <sup>0 :speech_balloon:</sup> 	 2021-10-28 02:28:47
 
@@ -96,18 +108,6 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 ---
 
 
-#### [浏览器端下载文件](https://github.com/smileyby/notes/issues/166) <sup>0 :speech_balloon:</sup> 	 2021-10-21 07:53:54
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/138235042-bf44004c-96a9-47b6-a891-fc57c375beec.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/166)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -151,8 +151,9 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>13:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>14:newspaper:</sup></summary>
 
+- [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171)  <sup>1 :speech_balloon:</sup>  	 
 - [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes/issues/154)  <sup>0 :speech_balloon:</sup>  	 
 - [用css写判断条件](https://github.com/smileyby/notes/issues/152)  <sup>2 :speech_balloon:</sup>  	 
 - [position:sticky  粘性布局](https://github.com/smileyby/notes/issues/147)  <sup>1 :speech_balloon:</sup>  	 
