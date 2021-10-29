@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-28 09:07:12"/>
+    <img src="https://badgen.net/badge/last-commit/2021-10-29 01:57:48"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,7 +35,20 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171) <sup>0 :speech_balloon:</sup> 	 2021-10-28 09:06:45
+#### [满江红·写怀](https://github.com/smileyby/notes/issues/172) <sup>0 :speech_balloon:</sup> 	 2021-10-29 01:57:21
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+岳飞·宋
+怒发冲冠，凭栏处，潇潇雨歇。抬望眼，仰天长啸，壮怀激烈。三十功名尘与土，八千里路云和月。莫等闲，白了少年头，空悲切。
+靖康耻，犹未雪，臣子恨，何时灭。驾长车，踏破贺兰山阙。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头，收拾就山河，朝天阙。
+
+[更多>>>](https://github.com/smileyby/notes/issues/172)
+
+---
+
+
+#### [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171) <sup>1 :speech_balloon:</sup> 	 2021-10-28 09:06:45
 
 :label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
 
@@ -87,23 +100,6 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/168)
-
----
-
-
-#### [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167) <sup>0 :speech_balloon:</sup> 	 2021-10-22 10:29:14
-
-:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
-
-很多人不喜欢一线城市"北上广深"，觉得生活压力大，房价奇高，空间局促嘈杂，想要离开。
-
-但是离开以后，去哪里呢？哪个城市能够提供令人满意的生活方式，以及良好的社会经济状况？
-
-我最近读到时事评论家宁南山的一篇文章，觉得很有启发，跟大家分享一下。
-
-他说，考虑未来的居住城市时，应该对中国的
-
-[更多>>>](https://github.com/smileyby/notes/issues/167)
 
 ---
 
@@ -543,8 +539,9 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 </details>
 
 <details>
-<summary>诗歌	<sup>4:newspaper:</sup></summary>
+<summary>诗歌	<sup>5:newspaper:</sup></summary>
 
+- [满江红·写怀](https://github.com/smileyby/notes/issues/172)  <sup>0 :speech_balloon:</sup>  	 
 - [苏幕遮·燎沉香](https://github.com/smileyby/notes/issues/170)  <sup>0 :speech_balloon:</sup>  	 
 - [黄鹤楼](https://github.com/smileyby/notes/issues/169)  <sup>0 :speech_balloon:</sup>  	 
 - [词：鹧鸪天·送廓之秋试](https://github.com/smileyby/notes/issues/95)  <sup>0 :speech_balloon:</sup>  	 
