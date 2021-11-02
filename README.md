@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/41"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-10-29 02:13:39"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-02 10:42:27"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173) <sup>0 :speech_balloon:</sup> 	 2021-11-02 10:42:03
+
+:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
+
+node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载不下来！！！
+
+[更多>>>](https://github.com/smileyby/notes/issues/173)
+
+---
+
 
 #### [满江红·写怀](https://github.com/smileyby/notes/issues/172) <sup>0 :speech_balloon:</sup> 	 2021-10-29 01:57:21
 
@@ -85,21 +96,6 @@
 日暮乡关何处是？烟波江上使人愁。
 
 [更多>>>](https://github.com/smileyby/notes/issues/169)
-
----
-
-
-#### [ElementUI el-tree 加入搜索在清除筛选项时会默认展开全部子节点](https://github.com/smileyby/notes/issues/168) <sup>0 :speech_balloon:</sup> 	 2021-10-25 10:22:27
-
-:label: : [Element-UI :mushroom:](https://github.com/smileyby/ghiblog/labels/Element-UI%20%3Amushroom%3A)
-
-解决:
-采用循环全部子节点将 expanded 属性置为false
-代码如下：
-this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/168)
 
 ---
 
@@ -252,16 +248,18 @@ this.$refs.tree.$children[i].node.parent.childNodes[i].expanded = false
 </details>
 
 <details>
-<summary>Node.js :turtle:	<sup>1:newspaper:</sup></summary>
+<summary>Node.js :turtle:	<sup>2:newspaper:</sup></summary>
 
+- [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>npm :snake:	<sup>4:newspaper:</sup></summary>
+<summary>npm :snake:	<sup>5:newspaper:</sup></summary>
 
+- [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes/issues/141)  <sup>0 :speech_balloon:</sup>  	 
 - [命令行：VUE 不是内部命令](https://github.com/smileyby/notes/issues/101)  <sup>0 :speech_balloon:</sup>  	 
