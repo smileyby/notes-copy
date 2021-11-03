@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:10:31"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:14:11"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:13:44
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/176)
+
+---
+
 
 #### [读书是为了什么？](https://github.com/smileyby/notes/issues/175) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:10:03
 
@@ -90,18 +101,6 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 靖康耻，犹未雪，臣子恨，何时灭。驾长车，踏破贺兰山阙。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头，收拾就山河，朝天阙。
 
 [更多>>>](https://github.com/smileyby/notes/issues/172)
-
----
-
-
-#### [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171) <sup>1 :speech_balloon:</sup> 	 2021-10-28 09:06:45
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/139224648-9a4bde6d-63a4-4f35-95e3-cd804b8a5dca.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/171)
 
 ---
 
@@ -283,8 +282,9 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>10:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>11:newspaper:</sup></summary>
 
+- [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
