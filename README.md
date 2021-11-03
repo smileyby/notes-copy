@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:17:29"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:57:37"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -31,6 +31,7 @@
 
     
 ## 置顶 :thumbsup: 
+- [读书是为了什么？](https://github.com/smileyby/notes/issues/175)  <sup>0 :speech_balloon:</sup>  	 
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
@@ -60,7 +61,7 @@
 
 #### [读书是为了什么？](https://github.com/smileyby/notes/issues/175) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:10:03
 
-:label: : [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
+:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
 
 读书是为什么？
 ===========
@@ -114,8 +115,9 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 
 
 <details>
-<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
 
+- [读书是为了什么？](https://github.com/smileyby/notes/issues/175)  <sup>0 :speech_balloon:</sup>  	 
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 
