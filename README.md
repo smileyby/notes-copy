@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-03 08:25:42"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:10:31"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,24 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [读书是为了什么？](https://github.com/smileyby/notes/issues/175) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:10:03
+
+:label: : [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
+
+读书是为什么？
+===========
+
+今天不写技术文章，来思考下问什么要读书。
+
+为什么那么多人推荐阅读，引用陈平原的一句话：
+
+> 如果你半夜醒来发现自己已经好长时间没读书，而且没有任何负罪感的时候，你就必须知道，你已经堕落了。不是说书本本身特了不起，而是读书这个行为意味着你没有
+
+[更多>>>](https://github.com/smileyby/notes/issues/175)
+
+---
+
 
 #### [vite原理](https://github.com/smileyby/notes/issues/174) <sup>0 :speech_balloon:</sup> 	 2021-11-03 08:25:17
 
@@ -84,20 +102,6 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/171)
-
----
-
-
-#### [苏幕遮·燎沉香](https://github.com/smileyby/notes/issues/170) <sup>0 :speech_balloon:</sup> 	 2021-10-28 02:28:47
-
-:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
-
-周邦彦·宋
-
-燎沉香，消溽暑。乌雀呼晴，侵晓窥檐语。叶上初阳干宿雨，水面清圆，一一风荷举。
-故乡遥，何日去？家住吴门，久作长安旅。五月鱼朗相忆否，小楫轻舟，梦入芙蓉浦。
-
-[更多>>>](https://github.com/smileyby/notes/issues/170)
 
 ---
 
@@ -567,8 +571,9 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 </details>
 
 <details>
-<summary>随记	<sup>2:newspaper:</sup></summary>
+<summary>随记	<sup>3:newspaper:</sup></summary>
 
+- [读书是为了什么？](https://github.com/smileyby/notes/issues/175)  <sup>0 :speech_balloon:</sup>  	 
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [关于业务前端的职业迷茫感](https://github.com/smileyby/notes/issues/155)  <sup>0 :speech_balloon:</sup>  	 
 
