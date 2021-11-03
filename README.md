@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/41"/>
+    <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-02 10:42:27"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-03 08:25:42"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,7 +35,24 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173) <sup>0 :speech_balloon:</sup> 	 2021-11-02 10:42:03
+#### [vite原理](https://github.com/smileyby/notes/issues/174) <sup>0 :speech_balloon:</sup> 	 2021-11-03 08:25:17
+
+:label: : [vite](https://github.com/smileyby/ghiblog/labels/vite)
+
+## vite
+
+特点：
+
+* 快速启动，vite会在本地启动一个开发服务器，来管理开发环境的资源请求
+* 相比webpack的开发环境打包构建，它的开发环境下是无需打包的，热更新相比webpack会块很多
+* 原生 ES Module，要什么就当场给你什么，而webpack则是先将资源
+
+[更多>>>](https://github.com/smileyby/notes/issues/174)
+
+---
+
+
+#### [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173) <sup>1 :speech_balloon:</sup> 	 2021-11-02 10:42:03
 
 :label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
 
@@ -81,21 +98,6 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 故乡遥，何日去？家住吴门，久作长安旅。五月鱼朗相忆否，小楫轻舟，梦入芙蓉浦。
 
 [更多>>>](https://github.com/smileyby/notes/issues/170)
-
----
-
-
-#### [黄鹤楼](https://github.com/smileyby/notes/issues/169) <sup>0 :speech_balloon:</sup> 	 2021-10-25 10:44:38
-
-:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
-
-崔颢·唐
-昔人已乘黄鹤去，此地空余黄鹤楼。
-黄鹤一去不复返，白云千载空悠悠。
-晴川历历汉阳树，芳草萋萋鹦鹉洲。
-日暮乡关何处是？烟波江上使人愁。
-
-[更多>>>](https://github.com/smileyby/notes/issues/169)
 
 ---
 
@@ -297,6 +299,14 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 <summary>TypeScript :rabbit:	<sup>1:newspaper:</sup></summary>
 
 - [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes/issues/75)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>vite	<sup>1:newspaper:</sup></summary>
+
+- [vite原理](https://github.com/smileyby/notes/issues/174)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
