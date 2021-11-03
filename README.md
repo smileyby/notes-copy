@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:14:11"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:17:29"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -34,6 +34,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [CSS打字效果实现](https://github.com/smileyby/notes/issues/177) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:17:05
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/140043016-cff5d841-f8bc-49f4-aa9a-1ac7b3d19927.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/177)
+
+---
+
 
 #### [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:13:44
 
@@ -92,19 +104,6 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 ---
 
 
-#### [满江红·写怀](https://github.com/smileyby/notes/issues/172) <sup>0 :speech_balloon:</sup> 	 2021-10-29 01:57:21
-
-:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
-
-岳飞·宋
-怒发冲冠，凭栏处，潇潇雨歇。抬望眼，仰天长啸，壮怀激烈。三十功名尘与土，八千里路云和月。莫等闲，白了少年头，空悲切。
-靖康耻，犹未雪，臣子恨，何时灭。驾长车，踏破贺兰山阙。壮志饥餐胡虏肉，笑谈渴饮匈奴血。待从头，收拾就山河，朝天阙。
-
-[更多>>>](https://github.com/smileyby/notes/issues/172)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -148,8 +147,9 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>14:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>15:newspaper:</sup></summary>
 
+- [CSS打字效果实现](https://github.com/smileyby/notes/issues/177)  <sup>0 :speech_balloon:</sup>  	 
 - [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171)  <sup>1 :speech_balloon:</sup>  	 
 - [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes/issues/154)  <sup>0 :speech_balloon:</sup>  	 
 - [用css写判断条件](https://github.com/smileyby/notes/issues/152)  <sup>2 :speech_balloon:</sup>  	 
