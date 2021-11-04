@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-04 08:58:49"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-04 09:10:56"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179) <sup>0 :speech_balloon:</sup> 	 2021-11-04 09:10:28
+
+:label: : [React :globe_with_meridians:](https://github.com/smileyby/ghiblog/labels/React%20%3Aglobe_with_meridians%3A), [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/179)
+
+---
+
 
 #### [水龙吟·登建康赏心亭](https://github.com/smileyby/notes/issues/178) <sup>0 :speech_balloon:</sup> 	 2021-11-04 08:58:22
 
@@ -86,23 +97,6 @@
 > 如果你半夜醒来发现自己已经好长时间没读书，而且没有任何负罪感的时候，你就必须知道，你已经堕落了。不是说书本本身特了不起，而是读书这个行为意味着你没有
 
 [更多>>>](https://github.com/smileyby/notes/issues/175)
-
----
-
-
-#### [vite原理](https://github.com/smileyby/notes/issues/174) <sup>0 :speech_balloon:</sup> 	 2021-11-03 08:25:17
-
-:label: : [vite](https://github.com/smileyby/ghiblog/labels/vite)
-
-## vite
-
-特点：
-
-* 快速启动，vite会在本地启动一个开发服务器，来管理开发环境的资源请求
-* 相比webpack的开发环境打包构建，它的开发环境下是无需打包的，热更新相比webpack会块很多
-* 原生 ES Module，要什么就当场给你什么，而webpack则是先将资源
-
-[更多>>>](https://github.com/smileyby/notes/issues/174)
 
 ---
 
@@ -278,16 +272,18 @@
 </details>
 
 <details>
-<summary>React :globe_with_meridians:	<sup>1:newspaper:</sup></summary>
+<summary>React :globe_with_meridians:	<sup>2:newspaper:</sup></summary>
 
+- [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [React 项目配置less](https://github.com/smileyby/notes/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>11:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>12:newspaper:</sup></summary>
 
+- [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
