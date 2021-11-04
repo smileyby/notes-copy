@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-03 10:57:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-04 08:58:49"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [水龙吟·登建康赏心亭](https://github.com/smileyby/notes/issues/178) <sup>0 :speech_balloon:</sup> 	 2021-11-04 08:58:22
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+辛弃疾·宋
+楚天千里清秋，水随天去秋无际。遥岑远目，献愁供恨，玉簪螺髻。落日楼头，断鸿声里，江南游子。把吴沟看了，栏杆拍遍，无人会，登临意。
+休说鲈鱼堪脍，尽西风，季鹰归未？求田问舍，怕应羞见，刘郎才气。可惜流年，忧愁风雨，树犹如此！倩何人换取，红金翠袖，搵英雄泪。
+
+[更多>>>](https://github.com/smileyby/notes/issues/178)
+
+---
+
 
 #### [CSS打字效果实现](https://github.com/smileyby/notes/issues/177) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:17:05
 
@@ -90,17 +103,6 @@
 * 原生 ES Module，要什么就当场给你什么，而webpack则是先将资源
 
 [更多>>>](https://github.com/smileyby/notes/issues/174)
-
----
-
-
-#### [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173) <sup>1 :speech_balloon:</sup> 	 2021-11-02 10:42:03
-
-:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
-
-node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载不下来！！！
-
-[更多>>>](https://github.com/smileyby/notes/issues/173)
 
 ---
 
@@ -553,8 +555,9 @@ node-sass 真是让人头疼，你说你都要装写什么东西嘛总是下载�
 </details>
 
 <details>
-<summary>诗歌	<sup>5:newspaper:</sup></summary>
+<summary>诗歌	<sup>6:newspaper:</sup></summary>
 
+- [水龙吟·登建康赏心亭](https://github.com/smileyby/notes/issues/178)  <sup>0 :speech_balloon:</sup>  	 
 - [满江红·写怀](https://github.com/smileyby/notes/issues/172)  <sup>0 :speech_balloon:</sup>  	 
 - [苏幕遮·燎沉香](https://github.com/smileyby/notes/issues/170)  <sup>0 :speech_balloon:</sup>  	 
 - [黄鹤楼](https://github.com/smileyby/notes/issues/169)  <sup>0 :speech_balloon:</sup>  	 
