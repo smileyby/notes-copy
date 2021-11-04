@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-04 09:10:56"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-04 09:42:28"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [测试题：作用域](https://github.com/smileyby/notes/issues/180) <sup>0 :speech_balloon:</sup> 	 2021-11-04 09:42:02
+
+:label: : [测试题 :dizzy:](https://github.com/smileyby/ghiblog/labels/%E6%B5%8B%E8%AF%95%E9%A2%98%20%3Adizzy%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/140291804-532714c3-87d3-4c00-97f1-0df9a3e3f092.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/180)
+
+---
+
 
 #### [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179) <sup>0 :speech_balloon:</sup> 	 2021-11-04 09:10:28
 
@@ -79,24 +91,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/176)
-
----
-
-
-#### [读书是为了什么？](https://github.com/smileyby/notes/issues/175) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:10:03
-
-:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [随记](https://github.com/smileyby/ghiblog/labels/%E9%9A%8F%E8%AE%B0)
-
-读书是为什么？
-===========
-
-今天不写技术文章，来思考下问什么要读书。
-
-为什么那么多人推荐阅读，引用陈平原的一句话：
-
-> 如果你半夜醒来发现自己已经好长时间没读书，而且没有任何负罪感的时候，你就必须知道，你已经堕落了。不是说书本本身特了不起，而是读书这个行为意味着你没有
-
-[更多>>>](https://github.com/smileyby/notes/issues/175)
 
 ---
 
@@ -450,8 +444,9 @@
 </details>
 
 <details>
-<summary>测试题 :dizzy:	<sup>6:newspaper:</sup></summary>
+<summary>测试题 :dizzy:	<sup>7:newspaper:</sup></summary>
 
+- [测试题：作用域](https://github.com/smileyby/notes/issues/180)  <sup>0 :speech_balloon:</sup>  	 
 - [测试题：Promise](https://github.com/smileyby/notes/issues/151)  <sup>3 :speech_balloon:</sup>  	 
 - [测试题：Promise相关](https://github.com/smileyby/notes/issues/150)  <sup>3 :speech_balloon:</sup>  	 
 - [函数形参是按值传递](https://github.com/smileyby/notes/issues/110)  <sup>0 :speech_balloon:</sup>  	 
