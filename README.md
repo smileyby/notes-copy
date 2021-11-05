@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/42"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-04 10:59:41"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-05 09:10:23"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [npm报错](https://github.com/smileyby/notes/issues/182) <sup>0 :speech_balloon:</sup> 	 2021-11-05 09:09:55
+
+:label: : [React :globe_with_meridians:](https://github.com/smileyby/ghiblog/labels/React%20%3Aglobe_with_meridians%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/140486185-303827ab-059e-46b9-89b9-abe27dc3bfa7.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/182)
+
+---
+
 
 #### [前端图谱](https://github.com/smileyby/notes/issues/181) <sup>0 :speech_balloon:</sup> 	 2021-11-04 10:59:13
 
@@ -79,18 +91,6 @@ https://f2e.tech/  阿里出品
 休说鲈鱼堪脍，尽西风，季鹰归未？求田问舍，怕应羞见，刘郎才气。可惜流年，忧愁风雨，树犹如此！倩何人换取，红金翠袖，搵英雄泪。
 
 [更多>>>](https://github.com/smileyby/notes/issues/178)
-
----
-
-
-#### [CSS打字效果实现](https://github.com/smileyby/notes/issues/177) <sup>0 :speech_balloon:</sup> 	 2021-11-03 10:17:05
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/140043016-cff5d841-f8bc-49f4-aa9a-1ac7b3d19927.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/177)
 
 ---
 
@@ -254,8 +254,9 @@ https://f2e.tech/  阿里出品
 </details>
 
 <details>
-<summary>npm :snake:	<sup>5:newspaper:</sup></summary>
+<summary>npm :snake:	<sup>6:newspaper:</sup></summary>
 
+- [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
 - [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes/issues/141)  <sup>0 :speech_balloon:</sup>  	 
@@ -266,8 +267,9 @@ https://f2e.tech/  阿里出品
 </details>
 
 <details>
-<summary>React :globe_with_meridians:	<sup>2:newspaper:</sup></summary>
+<summary>React :globe_with_meridians:	<sup>3:newspaper:</sup></summary>
 
+- [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
 - [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [React 项目配置less](https://github.com/smileyby/notes/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 
