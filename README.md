@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/42"/>
+    <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-06 05:31:06"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-09 01:58:04"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,27 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [项目部署遇到的问题](https://github.com/smileyby/notes/issues/184) <sup>0 :speech_balloon:</sup> 	 2021-11-09 01:57:36
+
+:label: : [项目部署](https://github.com/smileyby/ghiblog/labels/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2)
+
+## mysql 配置
+
+> 针对 mysql 5.7.x 版本重置密码
+
+```mysql
+# 查看密码
+grep 'temporary password' /var/log/mysqld.log
+# 密码登录 
+mysql -u root -p
+# 使用数据库
+use mys
+
+[更多>>>](https://github.com/smileyby/notes/issues/184)
+
+---
+
 
 #### [电影：藏草青青](https://github.com/smileyby/notes/issues/183) <sup>0 :speech_balloon:</sup> 	 2021-11-06 05:30:40
 
@@ -78,17 +99,6 @@ https://f2e.tech/  阿里出品
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/180)
-
----
-
-
-#### [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179) <sup>0 :speech_balloon:</sup> 	 2021-11-04 09:10:28
-
-:label: : [React :globe_with_meridians:](https://github.com/smileyby/ghiblog/labels/React%20%3Aglobe_with_meridians%3A), [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/179)
 
 ---
 
@@ -582,6 +592,14 @@ https://f2e.tech/  阿里出品
 <summary>面试 :umbrella:	<sup>1:newspaper:</sup></summary>
 
 - [面试：作用域](https://github.com/smileyby/notes/issues/76)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>项目部署	<sup>1:newspaper:</sup></summary>
+
+- [项目部署遇到的问题](https://github.com/smileyby/notes/issues/184)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
