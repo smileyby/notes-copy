@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-09 01:58:04"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-11 10:24:35"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -43,14 +43,13 @@
 ## mysql 配置
 
 > 针对 mysql 5.7.x 版本重置密码
-
-```mysql
 # 查看密码
 grep 'temporary password' /var/log/mysqld.log
 # 密码登录 
 mysql -u root -p
 # 使用数据库
-use mys
+use mysql;
+# 更改密码
 
 [更多>>>](https://github.com/smileyby/notes/issues/184)
 
