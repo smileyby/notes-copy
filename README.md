@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-12 05:52:24"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-12 05:53:33"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -36,7 +36,7 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [pm2/ngix/docker  区别](https://github.com/smileyby/notes/issues/185) <sup>0 :speech_balloon:</sup> 	 2021-11-11 10:24:56
+#### [pm2/nginx/docker  区别](https://github.com/smileyby/notes/issues/185) <sup>1 :speech_balloon:</sup> 	 2021-11-11 10:24:56
 
 :label: : [项目部署](https://github.com/smileyby/ghiblog/labels/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2)
 
@@ -47,7 +47,7 @@
 ---
 
 
-#### [项目部署遇到的问题](https://github.com/smileyby/notes/issues/184) <sup>0 :speech_balloon:</sup> 	 2021-11-09 01:57:36
+#### [服务器相关操作以及配置](https://github.com/smileyby/notes/issues/184) <sup>0 :speech_balloon:</sup> 	 2021-11-09 01:57:36
 
 :label: : [项目部署](https://github.com/smileyby/ghiblog/labels/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2)
 
@@ -598,7 +598,7 @@ https://f2e.tech/  阿里出品
 <details>
 <summary>项目部署	<sup>2:newspaper:</sup></summary>
 
-- [pm2/ngix/docker  区别](https://github.com/smileyby/notes/issues/185)  <sup>0 :speech_balloon:</sup>  	 
+- [pm2/nginx/docker  区别](https://github.com/smileyby/notes/issues/185)  <sup>1 :speech_balloon:</sup>  	 
 - [服务器相关操作以及配置](https://github.com/smileyby/notes/issues/184)  <sup>0 :speech_balloon:</sup>  	 
 
 
