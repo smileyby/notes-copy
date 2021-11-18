@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-18 05:43:47"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-18 09:40:58"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [白鹿洞二首其一·王贞白](https://github.com/smileyby/notes/issues/188) <sup>0 :speech_balloon:</sup> 	 2021-11-18 09:40:29
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+读书不觉已春深，一寸光阴一寸金。
+不是道人来引笑，周情孔思正追寻。
+
+[更多>>>](https://github.com/smileyby/notes/issues/188)
+
+---
+
 
 #### [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187) <sup>0 :speech_balloon:</sup> 	 2021-11-18 05:43:22
 
@@ -87,17 +99,6 @@ use mysql;
 update 
 
 [更多>>>](https://github.com/smileyby/notes/issues/184)
-
----
-
-
-#### [电影：藏草青青](https://github.com/smileyby/notes/issues/183) <sup>0 :speech_balloon:</sup> 	 2021-11-06 05:30:40
-
-:label: : [电影 :movie_camera:](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E5%BD%B1%20%3Amovie_camera%3A)
-
-来自北京的支教老师韩松初到藏区，恶劣危险的生存环境立马给了他一个下马威，被狼王追赶，被动物夜袭，艰苦的生活条件让他不知所措，但藏区学童和同胞们对他的热情与照顾却温暖人心。孩子们眼中的纯真和对学习的渴望感染了韩松，他克服一切困难，承担起所有科目的教学，在朝夕相处中与孩子们结下了深厚的情谊。平静美好的支
-
-[更多>>>](https://github.com/smileyby/notes/issues/183)
 
 ---
 
@@ -559,8 +560,9 @@ update
 </details>
 
 <details>
-<summary>诗歌	<sup>6:newspaper:</sup></summary>
+<summary>诗歌	<sup>7:newspaper:</sup></summary>
 
+- [白鹿洞二首其一·王贞白](https://github.com/smileyby/notes/issues/188)  <sup>0 :speech_balloon:</sup>  	 
 - [水龙吟·登建康赏心亭](https://github.com/smileyby/notes/issues/178)  <sup>0 :speech_balloon:</sup>  	 
 - [满江红·写怀](https://github.com/smileyby/notes/issues/172)  <sup>0 :speech_balloon:</sup>  	 
 - [苏幕遮·燎沉香](https://github.com/smileyby/notes/issues/170)  <sup>0 :speech_balloon:</sup>  	 
