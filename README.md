@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-18 02:21:13"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-18 05:43:47"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187) <sup>0 :speech_balloon:</sup> 	 2021-11-18 05:43:22
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+![fish](https://user-images.githubusercontent.com/16968442/142358822-86eb4af4-6e08-406b-9efe-4cd6da489e1d.jpg)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/187)
+
+---
+
 
 #### [EN：Morning Call](https://github.com/smileyby/notes/issues/186) <sup>0 :speech_balloon:</sup> 	 2021-11-18 02:20:47
 
@@ -86,18 +98,6 @@ update
 来自北京的支教老师韩松初到藏区，恶劣危险的生存环境立马给了他一个下马威，被狼王追赶，被动物夜袭，艰苦的生活条件让他不知所措，但藏区学童和同胞们对他的热情与照顾却温暖人心。孩子们眼中的纯真和对学习的渴望感染了韩松，他克服一切困难，承担起所有科目的教学，在朝夕相处中与孩子们结下了深厚的情谊。平静美好的支
 
 [更多>>>](https://github.com/smileyby/notes/issues/183)
-
----
-
-
-#### [npm报错](https://github.com/smileyby/notes/issues/182) <sup>1 :speech_balloon:</sup> 	 2021-11-05 09:09:55
-
-:label: : [React :globe_with_meridians:](https://github.com/smileyby/ghiblog/labels/React%20%3Aglobe_with_meridians%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/140486185-303827ab-059e-46b9-89b9-abe27dc3bfa7.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/182)
 
 ---
 
@@ -420,8 +420,9 @@ update
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>10:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>11:newspaper:</sup></summary>
 
+- [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187)  <sup>0 :speech_balloon:</sup>  	 
 - [How Rich Am I?](https://github.com/smileyby/notes/issues/157)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼奖品陈列室](https://github.com/smileyby/notes/issues/156)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：最后的城堡](https://github.com/smileyby/notes/issues/139)  <sup>0 :speech_balloon:</sup>  	 
