@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-12 05:53:33"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-18 02:21:13"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [EN：Morning Call](https://github.com/smileyby/notes/issues/186) <sup>0 :speech_balloon:</sup> 	 2021-11-18 02:20:47
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+They always say time changes things, but you actually have to change them yourself.
+
+[更多>>>](https://github.com/smileyby/notes/issues/186)
+
+---
+
 
 #### [pm2/nginx/docker  区别](https://github.com/smileyby/notes/issues/185) <sup>1 :speech_balloon:</sup> 	 2021-11-11 10:24:56
 
@@ -87,17 +98,6 @@ update
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/182)
-
----
-
-
-#### [前端图谱](https://github.com/smileyby/notes/issues/181) <sup>0 :speech_balloon:</sup> 	 2021-11-04 10:59:13
-
-:label: : [经验](https://github.com/smileyby/ghiblog/labels/%E7%BB%8F%E9%AA%8C)
-
-https://f2e.tech/  阿里出品
-
-[更多>>>](https://github.com/smileyby/notes/issues/181)
 
 ---
 
@@ -527,8 +527,9 @@ https://f2e.tech/  阿里出品
 </details>
 
 <details>
-<summary>英语	<sup>15:newspaper:</sup></summary>
+<summary>英语	<sup>16:newspaper:</sup></summary>
 
+- [EN：Morning Call](https://github.com/smileyby/notes/issues/186)  <sup>0 :speech_balloon:</sup>  	 
 - [reserved word  保留字](https://github.com/smileyby/notes/issues/153)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Home free => 胜利在望](https://github.com/smileyby/notes/issues/140)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：形容词的高级替换](https://github.com/smileyby/notes/issues/132)  <sup>0 :speech_balloon:</sup>  	 
