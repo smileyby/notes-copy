@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/43"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-18 09:40:58"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-19 02:16:52"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Morning call](https://github.com/smileyby/notes/issues/189) <sup>0 :speech_balloon:</sup> 	 2021-11-19 02:16:21
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+When we face our deepest fear,our true courage comes out.
+
+[更多>>>](https://github.com/smileyby/notes/issues/189)
+
+---
+
 
 #### [白鹿洞二首其一·王贞白](https://github.com/smileyby/notes/issues/188) <sup>0 :speech_balloon:</sup> 	 2021-11-18 09:40:29
 
@@ -78,27 +89,6 @@ They always say time changes things, but you actually have to change them yourse
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/185)
-
----
-
-
-#### [服务器相关操作以及配置](https://github.com/smileyby/notes/issues/184) <sup>0 :speech_balloon:</sup> 	 2021-11-09 01:57:36
-
-:label: : [项目部署](https://github.com/smileyby/ghiblog/labels/%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2)
-
-## mysql 配置
-
-> 针对 mysql 5.7.x 版本重置密码
-查看密码
-grep 'temporary password' /var/log/mysqld.log
-密码登录 
-mysql -u root -p
-使用数据库
-use mysql;
-更改密码
-update 
-
-[更多>>>](https://github.com/smileyby/notes/issues/184)
 
 ---
 
@@ -529,8 +519,9 @@ update
 </details>
 
 <details>
-<summary>英语	<sup>16:newspaper:</sup></summary>
+<summary>英语	<sup>17:newspaper:</sup></summary>
 
+- [Morning call](https://github.com/smileyby/notes/issues/189)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Morning Call](https://github.com/smileyby/notes/issues/186)  <sup>0 :speech_balloon:</sup>  	 
 - [reserved word  保留字](https://github.com/smileyby/notes/issues/153)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Home free => 胜利在望](https://github.com/smileyby/notes/issues/140)  <sup>0 :speech_balloon:</sup>  	 
