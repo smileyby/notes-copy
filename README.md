@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-22 02:22:32"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-22 03:58:58"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192) <sup>0 :speech_balloon:</sup> 	 2021-11-22 03:58:29
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/142798929-d3a43300-5dcb-4cd3-affb-99025369491b.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/192)
+
+---
+
 
 #### [Morning Call](https://github.com/smileyby/notes/issues/191) <sup>0 :speech_balloon:</sup> 	 2021-11-22 02:22:02
 
@@ -77,18 +89,6 @@ When we face our deepest fear,our true courage comes out.
 不是道人来引笑，周情孔思正追寻。
 
 [更多>>>](https://github.com/smileyby/notes/issues/188)
-
----
-
-
-#### [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187) <sup>0 :speech_balloon:</sup> 	 2021-11-18 05:43:22
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-![fish](https://user-images.githubusercontent.com/16968442/142358822-86eb4af4-6e08-406b-9efe-4cd6da489e1d.jpg)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/187)
 
 ---
 
@@ -373,8 +373,9 @@ When we face our deepest fear,our true courage comes out.
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>25:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>26:newspaper:</sup></summary>
 
+- [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序码生成问题](https://github.com/smileyby/notes/issues/164)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序授权获取不到unionid可能原因](https://github.com/smileyby/notes/issues/162)  <sup>0 :speech_balloon:</sup>  	 
