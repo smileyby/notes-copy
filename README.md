@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-19 09:52:59"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-22 02:22:32"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Morning Call](https://github.com/smileyby/notes/issues/191) <sup>0 :speech_balloon:</sup> 	 2021-11-22 02:22:02
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+You have to have confidence in your ability, and then be tough enough to follow through.
+
+[更多>>>](https://github.com/smileyby/notes/issues/191)
+
+---
+
 
 #### [Chrome插件](https://github.com/smileyby/notes/issues/190) <sup>0 :speech_balloon:</sup> 	 2021-11-19 09:52:31
 
@@ -78,17 +89,6 @@ When we face our deepest fear,our true courage comes out.
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/187)
-
----
-
-
-#### [EN：Morning Call](https://github.com/smileyby/notes/issues/186) <sup>0 :speech_balloon:</sup> 	 2021-11-18 02:20:47
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-They always say time changes things, but you actually have to change them yourself.
-
-[更多>>>](https://github.com/smileyby/notes/issues/186)
 
 ---
 
@@ -527,8 +527,9 @@ They always say time changes things, but you actually have to change them yourse
 </details>
 
 <details>
-<summary>英语	<sup>17:newspaper:</sup></summary>
+<summary>英语	<sup>18:newspaper:</sup></summary>
 
+- [Morning Call](https://github.com/smileyby/notes/issues/191)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/189)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Morning Call](https://github.com/smileyby/notes/issues/186)  <sup>0 :speech_balloon:</sup>  	 
 - [reserved word  保留字](https://github.com/smileyby/notes/issues/153)  <sup>0 :speech_balloon:</sup>  	 
