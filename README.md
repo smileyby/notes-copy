@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-24 02:53:22"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-24 07:06:27"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,23 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [英文口头禅](https://github.com/smileyby/notes/issues/195) <sup>0 :speech_balloon:</sup> 	 2021-11-24 07:05:57
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+【01】So far so good!
+过得去；到目前为止，一直都还不错
+例句：The work is rather difficult， but so far so good。工作相当困难，但到目前为此还算顺利。
+
+【02】Believe it or not！
+信不信由你！
+例句：Be
+
+[更多>>>](https://github.com/smileyby/notes/issues/195)
+
+---
+
 
 #### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>0 :speech_balloon:</sup> 	 2021-11-24 02:51:49
 
@@ -79,18 +96,6 @@ There is no time like the present! Easy come, easy go！
 You have to have confidence in your ability, and then be tough enough to follow through.
 
 [更多>>>](https://github.com/smileyby/notes/issues/191)
-
----
-
-
-#### [Chrome插件](https://github.com/smileyby/notes/issues/190) <sup>0 :speech_balloon:</sup> 	 2021-11-19 09:52:31
-
-:label: : [chrome扩展](https://github.com/smileyby/ghiblog/labels/chrome%E6%89%A9%E5%B1%95)
-
-https://github.com/smileyby/chrome-extension
-插件练手
-
-[更多>>>](https://github.com/smileyby/notes/issues/190)
 
 ---
 
@@ -530,8 +535,9 @@ https://github.com/smileyby/chrome-extension
 </details>
 
 <details>
-<summary>英语	<sup>20:newspaper:</sup></summary>
+<summary>英语	<sup>21:newspaper:</sup></summary>
 
+- [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/193)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning Call](https://github.com/smileyby/notes/issues/191)  <sup>0 :speech_balloon:</sup>  	 
