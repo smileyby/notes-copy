@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-23 02:26:01"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-24 02:52:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>0 :speech_balloon:</sup> 	 2021-11-24 02:51:49
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+You may give up after trying, but never give up trying.
+尝试后可能会放弃，但千万不能放弃尝试。
+
+[更多>>>](https://github.com/smileyby/notes/issues/194)
+
+---
+
 
 #### [Morning call](https://github.com/smileyby/notes/issues/193) <sup>0 :speech_balloon:</sup> 	 2021-11-23 02:25:31
 
@@ -78,17 +90,6 @@ You have to have confidence in your ability, and then be tough enough to follow 
 https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
 
 [更多>>>](https://github.com/smileyby/notes/issues/190)
-
----
-
-
-#### [Morning call](https://github.com/smileyby/notes/issues/189) <sup>0 :speech_balloon:</sup> 	 2021-11-19 02:16:21
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-When we face our deepest fear,our true courage comes out.
-
-[更多>>>](https://github.com/smileyby/notes/issues/189)
 
 ---
 
@@ -528,8 +529,9 @@ When we face our deepest fear,our true courage comes out.
 </details>
 
 <details>
-<summary>英语	<sup>19:newspaper:</sup></summary>
+<summary>英语	<sup>20:newspaper:</sup></summary>
 
+- [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/193)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning Call](https://github.com/smileyby/notes/issues/191)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/189)  <sup>0 :speech_balloon:</sup>  	 
