@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-24 02:52:17"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-24 02:53:22"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -87,7 +87,8 @@ You have to have confidence in your ability, and then be tough enough to follow 
 
 :label: : [chrome扩展](https://github.com/smileyby/ghiblog/labels/chrome%E6%89%A9%E5%B1%95)
 
-https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html
+https://github.com/smileyby/chrome-extension
+插件练手
 
 [更多>>>](https://github.com/smileyby/notes/issues/190)
 
