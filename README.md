@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-24 07:06:27"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-26 08:11:15"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [妈了个巴子的，转个二维码真滴难，我要自己写一套](https://github.com/smileyby/notes/issues/196) <sup>0 :speech_balloon:</sup> 	 2021-11-26 08:10:47
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+fuck
+
+[更多>>>](https://github.com/smileyby/notes/issues/196)
+
+---
+
 
 #### [英文口头禅](https://github.com/smileyby/notes/issues/195) <sup>0 :speech_balloon:</sup> 	 2021-11-24 07:05:57
 
@@ -85,17 +96,6 @@ There is no time like the present! Easy come, easy go！
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/192)
-
----
-
-
-#### [Morning Call](https://github.com/smileyby/notes/issues/191) <sup>0 :speech_balloon:</sup> 	 2021-11-22 02:22:02
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-You have to have confidence in your ability, and then be tough enough to follow through.
-
-[更多>>>](https://github.com/smileyby/notes/issues/191)
 
 ---
 
@@ -290,8 +290,9 @@ You have to have confidence in your ability, and then be tough enough to follow 
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>12:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>13:newspaper:</sup></summary>
 
+- [妈了个巴子的，转个二维码真滴难，我要自己写一套](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
 - [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
