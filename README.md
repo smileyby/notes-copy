@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-26 08:11:15"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-26 08:55:49"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -36,11 +36,11 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [妈了个巴子的，转个二维码真滴难，我要自己写一套](https://github.com/smileyby/notes/issues/196) <sup>0 :speech_balloon:</sup> 	 2021-11-26 08:10:47
+#### [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196) <sup>0 :speech_balloon:</sup> 	 2021-11-26 08:10:47
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
-fuck
+二维码的诞生：https://www.qrcode.com/zh/history/
 
 [更多>>>](https://github.com/smileyby/notes/issues/196)
 
@@ -292,7 +292,7 @@ There is no time like the present! Easy come, easy go！
 <details>
 <summary>Todo :bird:	<sup>13:newspaper:</sup></summary>
 
-- [妈了个巴子的，转个二维码真滴难，我要自己写一套](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
+- [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
 - [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
