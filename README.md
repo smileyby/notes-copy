@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-29 02:51:08"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-29 08:56:05"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,20 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198) <sup>0 :speech_balloon:</sup> 	 2021-11-29 08:55:35
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+你有没有曾经被一种莫名其妙的情绪所困扰，突然感觉自己被掏空，无精打采。
+很多人以为自己是抑郁了，这种状态其实是-平静但又绝望的生活，就是我们今天说的languishing.
+它包含的症状：
+做什么都打不起精神，对什么都提不起兴趣，很难集中注意力。觉得自己的生活很无趣，虽然想改变但是找不到出路。
+
+[更多>>>](https://github.com/smileyby/notes/issues/198)
+
+---
+
 
 #### [Todo：在掘金写一篇关于 chrome 插件的文章](https://github.com/smileyby/notes/issues/197) <sup>0 :speech_balloon:</sup> 	 2021-11-29 02:50:40
 
@@ -83,18 +97,6 @@ You may give up after trying, but never give up trying.
 尝试后可能会放弃，但千万不能放弃尝试。
 
 [更多>>>](https://github.com/smileyby/notes/issues/194)
-
----
-
-
-#### [Morning call](https://github.com/smileyby/notes/issues/193) <sup>0 :speech_balloon:</sup> 	 2021-11-23 02:25:31
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-There is no time like the present! Easy come, easy go！
-机不可失，时不再来！来时容易，去时快！
-
-[更多>>>](https://github.com/smileyby/notes/issues/193)
 
 ---
 
@@ -536,8 +538,9 @@ There is no time like the present! Easy come, easy go！
 </details>
 
 <details>
-<summary>英语	<sup>21:newspaper:</sup></summary>
+<summary>英语	<sup>22:newspaper:</sup></summary>
 
+- [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198)  <sup>0 :speech_balloon:</sup>  	 
 - [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/193)  <sup>0 :speech_balloon:</sup>  	 
