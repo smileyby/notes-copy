@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-26 08:55:49"/>
+    <img src="https://badgen.net/badge/last-commit/2021-11-29 02:51:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -35,6 +35,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Todo：在掘金写一篇关于 chrome 插件的文章](https://github.com/smileyby/notes/issues/197) <sup>0 :speech_balloon:</sup> 	 2021-11-29 02:50:40
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/197)
+
+---
+
 
 #### [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196) <sup>0 :speech_balloon:</sup> 	 2021-11-26 08:10:47
 
@@ -84,18 +95,6 @@ There is no time like the present! Easy come, easy go！
 机不可失，时不再来！来时容易，去时快！
 
 [更多>>>](https://github.com/smileyby/notes/issues/193)
-
----
-
-
-#### [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192) <sup>0 :speech_balloon:</sup> 	 2021-11-22 03:58:29
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/142798929-d3a43300-5dcb-4cd3-affb-99025369491b.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/192)
 
 ---
 
@@ -290,8 +289,9 @@ There is no time like the present! Easy come, easy go！
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>13:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>14:newspaper:</sup></summary>
 
+- [Todo：在掘金写一篇关于 chrome 插件的文章](https://github.com/smileyby/notes/issues/197)  <sup>0 :speech_balloon:</sup>  	 
 - [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
 - [useEffect  useState useMemo  作用](https://github.com/smileyby/notes/issues/179)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：URL 组成部分](https://github.com/smileyby/notes/issues/176)  <sup>0 :speech_balloon:</sup>  	 
