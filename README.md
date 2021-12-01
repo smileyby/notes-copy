@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-11-29 08:56:05"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-01 02:13:28"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -89,7 +89,7 @@
 ---
 
 
-#### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>0 :speech_balloon:</sup> 	 2021-11-24 02:51:49
+#### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>1 :speech_balloon:</sup> 	 2021-11-24 02:51:49
 
 :label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
 
@@ -542,7 +542,7 @@ You may give up after trying, but never give up trying.
 
 - [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198)  <sup>0 :speech_balloon:</sup>  	 
 - [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
-- [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>0 :speech_balloon:</sup>  	 
+- [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>1 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/193)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning Call](https://github.com/smileyby/notes/issues/191)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/189)  <sup>0 :speech_balloon:</sup>  	 
