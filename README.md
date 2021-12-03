@@ -1,9 +1,12 @@
 
 
 <p align='center'>
+    ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg "Repobeats analytics image")
+</p>
+<p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-02 02:16:21"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-03 01:47:39"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -31,6 +34,7 @@
 
     
 ## 置顶 :thumbsup: 
+- [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>6 :speech_balloon:</sup>  	 
 - [读书是为了什么？](https://github.com/smileyby/notes/issues/175)  <sup>0 :speech_balloon:</sup>  	 
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
@@ -54,7 +58,7 @@
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
-
+今天写完
 
 [更多>>>](https://github.com/smileyby/notes/issues/197)
 
@@ -89,9 +93,9 @@
 ---
 
 
-#### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>5 :speech_balloon:</sup> 	 2021-11-24 02:51:49
+#### [Morning call](https://github.com/smileyby/notes/issues/194) <sup>6 :speech_balloon:</sup> 	 2021-11-24 02:51:49
 
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+:label: : [:+1:置顶](https://github.com/smileyby/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
 
 You may give up after trying, but never give up trying.
 尝试后可能会放弃，但千万不能放弃尝试。
@@ -111,8 +115,9 @@ You may give up after trying, but never give up trying.
 
 
 <details>
-<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>4:newspaper:</sup></summary>
 
+- [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>6 :speech_balloon:</sup>  	 
 - [读书是为了什么？](https://github.com/smileyby/notes/issues/175)  <sup>0 :speech_balloon:</sup>  	 
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
@@ -538,12 +543,11 @@ You may give up after trying, but never give up trying.
 </details>
 
 <details>
-<summary>英语	<sup>19:newspaper:</sup></summary>
+<summary>英语	<sup>18:newspaper:</sup></summary>
 
 - [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198)  <sup>0 :speech_balloon:</sup>  	 
 - [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>6 :speech_balloon:</sup>  	 
-- [EN：Morning Call](https://github.com/smileyby/notes/issues/186)  <sup>0 :speech_balloon:</sup>  	 
 - [reserved word  保留字](https://github.com/smileyby/notes/issues/153)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：Home free => 胜利在望](https://github.com/smileyby/notes/issues/140)  <sup>0 :speech_balloon:</sup>  	 
 - [EN：形容词的高级替换](https://github.com/smileyby/notes/issues/132)  <sup>0 :speech_balloon:</sup>  	 
