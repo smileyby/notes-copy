@@ -1,7 +1,9 @@
+
+
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-03 01:47:39"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-03 02:14:23"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -15,7 +17,6 @@
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg)
-
 
 
 
@@ -37,20 +38,6 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-
-#### [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198) <sup>0 :speech_balloon:</sup> 	 2021-11-29 08:55:35
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-你有没有曾经被一种莫名其妙的情绪所困扰，突然感觉自己被掏空，无精打采。
-很多人以为自己是抑郁了，这种状态其实是-平静但又绝望的生活，就是我们今天说的languishing.
-它包含的症状：
-做什么都打不起精神，对什么都提不起兴趣，很难集中注意力。觉得自己的生活很无趣，虽然想改变但是找不到出路。
-
-[更多>>>](https://github.com/smileyby/notes/issues/198)
-
----
-
 
 #### [Todo：在掘金写一篇关于 chrome 插件的文章](https://github.com/smileyby/notes/issues/197) <sup>0 :speech_balloon:</sup> 	 2021-11-29 02:50:40
 
@@ -99,6 +86,18 @@ You may give up after trying, but never give up trying.
 尝试后可能会放弃，但千万不能放弃尝试。
 
 [更多>>>](https://github.com/smileyby/notes/issues/194)
+
+---
+
+
+#### [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192) <sup>0 :speech_balloon:</sup> 	 2021-11-22 03:58:29
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/142798929-d3a43300-5dcb-4cd3-affb-99025369491b.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/192)
 
 ---
 
@@ -541,9 +540,8 @@ You may give up after trying, but never give up trying.
 </details>
 
 <details>
-<summary>英语	<sup>18:newspaper:</sup></summary>
+<summary>英语	<sup>17:newspaper:</sup></summary>
 
-- [突然很空虚？你是languishing了！](https://github.com/smileyby/notes/issues/198)  <sup>0 :speech_balloon:</sup>  	 
 - [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
 - [Morning call](https://github.com/smileyby/notes/issues/194)  <sup>6 :speech_balloon:</sup>  	 
 - [reserved word  保留字](https://github.com/smileyby/notes/issues/153)  <sup>0 :speech_balloon:</sup>  	 
