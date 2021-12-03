@@ -64,6 +64,9 @@ def bundle_summary_section():
     summary_section = '''
 
 <p align='center'>
+    ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg "Repobeats analytics image")
+</p>
+<p align='center'>
     <img src="https://badgen.net/badge/labels/{1}"/>
     <img src="https://badgen.net/github/issues/{0}/ghiblog"/>
     <img src="https://badgen.net/badge/last-commit/{2}"/>
