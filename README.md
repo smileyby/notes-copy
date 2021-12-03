@@ -1,7 +1,7 @@
 
 
 <p align='center'>
-    ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg "Repobeats analytics image")
+    ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg)
 </p>
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
