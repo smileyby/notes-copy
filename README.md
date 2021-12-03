@@ -1,8 +1,3 @@
-
-
-<p align='center'>
-    ![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg)
-</p>
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
@@ -18,6 +13,9 @@
         <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
     </a>
 </p>
+
+![Alt](https://repobeats.axiom.co/api/embed/621efcb9d6537f23aca93d700c66a832c574d6e0.svg)
+
 
 
 
