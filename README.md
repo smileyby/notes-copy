@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/44"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-07 02:08:49"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-08 03:35:50"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,27 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [text-align: justify](https://github.com/smileyby/notes/issues/199) <sup>0 :speech_balloon:</sup> 	 2021-12-08 03:35:20
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+```css
+.text {
+  text-align: justify;
+}
+.text:after {
+ display: inline-block;
+ width: 100%;
+ content: "";
+}
+```
+仅针对文字 非最后一行生效，所以开发中要对最后一行生效需
+
+[更多>>>](https://github.com/smileyby/notes/issues/199)
+
+---
+
 
 #### [Todo：在掘金写一篇关于 chrome 插件的文章](https://github.com/smileyby/notes/issues/197) <sup>0 :speech_balloon:</sup> 	 2021-11-29 02:50:40
 
@@ -86,18 +107,6 @@ You may give up after trying, but never give up trying.
 尝试后可能会放弃，但千万不能放弃尝试。
 
 [更多>>>](https://github.com/smileyby/notes/issues/194)
-
----
-
-
-#### [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192) <sup>0 :speech_balloon:</sup> 	 2021-11-22 03:58:29
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/142798929-d3a43300-5dcb-4cd3-affb-99025369491b.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/192)
 
 ---
 
@@ -155,8 +164,9 @@ You may give up after trying, but never give up trying.
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>15:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>16:newspaper:</sup></summary>
 
+- [text-align: justify](https://github.com/smileyby/notes/issues/199)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS打字效果实现](https://github.com/smileyby/notes/issues/177)  <sup>0 :speech_balloon:</sup>  	 
 - [position:absolute 在某些尺寸下即使 定位设置为0，仍然存在间隙为什么？](https://github.com/smileyby/notes/issues/171)  <sup>1 :speech_balloon:</sup>  	 
 - [max-width 对元素尺寸的影响？](https://github.com/smileyby/notes/issues/154)  <sup>0 :speech_balloon:</sup>  	 
