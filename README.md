@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/45"/>
+    <img src="https://badgen.net/badge/labels/46"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-31 02:25:20"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-31 04:01:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [2021年度总结](https://github.com/smileyby/notes/issues/203) <sup>0 :speech_balloon:</sup> 	 2021-12-31 04:00:41
+
+:label: : [年终总结](https://github.com/smileyby/ghiblog/labels/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
+
+这一年总共写了91561行代码，总共出现了181个bug,也就是说平均506行代码就有一个Bug， 你一个人养活了咱们公司一半的测试，你真行。 
+
+你这一年总共迟到13次共44分钟，超过了90%的同事，迟到之王为你莫属。
+
+你这一年总共加班 0 小时，超过了0%的同事，准点下班一直是你的原则
+
+[更多>>>](https://github.com/smileyby/notes/issues/203)
+
+---
+
 
 #### [全栈在线课程](https://github.com/smileyby/notes/issues/202) <sup>0 :speech_balloon:</sup> 	 2021-12-24 09:01:16
 
@@ -90,17 +105,6 @@ https://fullstackopen.com/
 仅针对文字 非最后一行生效，所以开发中要对最后一行生效需
 
 [更多>>>](https://github.com/smileyby/notes/issues/199)
-
----
-
-
-#### [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196) <sup>0 :speech_balloon:</sup> 	 2021-11-26 08:10:47
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-二维码的诞生：https://www.qrcode.com/zh/history/
-
-[更多>>>](https://github.com/smileyby/notes/issues/196)
 
 ---
 
@@ -426,6 +430,14 @@ https://fullstackopen.com/
 - [小程序：wx.setStorageSync()和wx.setStorage()两个方法接受的参数不一致](https://github.com/smileyby/notes/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：thirdScriptError Cannot read property 'name' of undefined TypeError: Cannot read property 'name' of undefined](https://github.com/smileyby/notes/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：scroll-view 组件 scroll-left 问题](https://github.com/smileyby/notes/issues/10)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>年终总结	<sup>1:newspaper:</sup></summary>
+
+- [2021年度总结](https://github.com/smileyby/notes/issues/203)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
