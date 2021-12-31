@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/46"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-31 08:25:52"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-31 08:26:58"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -44,6 +44,7 @@
 :label: : [年终总结](https://github.com/smileyby/ghiblog/labels/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
 
 > 码云：
+
 这一年总共写了91561行代码，总共出现了181个bug；
 
 你最常用的是Ctrl+C、Ctrl+V的组合键； 
@@ -56,7 +57,7 @@
 
 > 钉钉：
 
-你这一年中最忙碌的是 7月，共处理群
+你这一年中最忙碌的是 7月，共处
 
 [更多>>>](https://github.com/smileyby/notes/issues/203)
 
