@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/46"/>
+    <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-12-31 08:26:58"/>
+    <img src="https://badgen.net/badge/last-commit/2021-12-31 08:30:19"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,23 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [早早聊-vue3专场笔记](https://github.com/smileyby/notes/issues/204) <sup>0 :speech_balloon:</sup> 	 2021-12-31 08:29:52
+
+:label: : [早早聊](https://github.com/smileyby/ghiblog/labels/%E6%97%A9%E6%97%A9%E8%81%8A)
+
+## Volar
+
+1. 从入口了解 Volar 实现原理
+   1. 语法高亮（Syntax Highlight）
+      1. package.json 中配置 grammars
+      2. 配置语法规则 & embedded Languages 
+      3. 主题
+
+[更多>>>](https://github.com/smileyby/notes/issues/204)
+
+---
+
 
 #### [2021年度总结](https://github.com/smileyby/notes/issues/203) <sup>0 :speech_balloon:</sup> 	 2021-12-31 04:00:41
 
@@ -94,27 +111,6 @@ https://fullstackopen.com/
 2. 了解 vue3 vs vue2 优势在哪里？ 
 
 [更多>>>](https://github.com/smileyby/notes/issues/200)
-
----
-
-
-#### [text-align: justify](https://github.com/smileyby/notes/issues/199) <sup>0 :speech_balloon:</sup> 	 2021-12-08 03:35:20
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-```css
-.text {
-  text-align: justify;
-}
-.text:after {
- display: inline-block;
- width: 100%;
- content: "";
-}
-```
-仅针对文字 非最后一行生效，所以开发中要对最后一行生效需
-
-[更多>>>](https://github.com/smileyby/notes/issues/199)
 
 ---
 
@@ -480,6 +476,14 @@ https://fullstackopen.com/
 - [摸鱼：神兽](https://github.com/smileyby/notes/issues/35)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：漫画-我要摆地摊](https://github.com/smileyby/notes/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼：推荐电影](https://github.com/smileyby/notes/issues/33)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>早早聊	<sup>1:newspaper:</sup></summary>
+
+- [早早聊-vue3专场笔记](https://github.com/smileyby/notes/issues/204)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
