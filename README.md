@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-04 08:06:34"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-07 01:36:00"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [健身](https://github.com/smileyby/notes/issues/205) <sup>0 :speech_balloon:</sup> 	 2022-01-07 01:35:31
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+https://darebee.com/workouts.html
+
+[更多>>>](https://github.com/smileyby/notes/issues/205)
+
+---
+
 
 #### [早早聊-vue3专场笔记](https://github.com/smileyby/notes/issues/204) <sup>0 :speech_balloon:</sup> 	 2021-12-31 08:29:52
 
@@ -99,18 +110,6 @@ https://fullstackopen.com/
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/201)
-
----
-
-
-#### [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200) <sup>3 :speech_balloon:</sup> 	 2021-12-14 08:33:24
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-1. 通过整个过程了解 vite 原理，为什么它就比webpack块
-2. 了解 vue3 vs vue2 优势在哪里？ 
-
-[更多>>>](https://github.com/smileyby/notes/issues/200)
 
 ---
 
@@ -463,8 +462,9 @@ https://fullstackopen.com/
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>11:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>12:newspaper:</sup></summary>
 
+- [健身](https://github.com/smileyby/notes/issues/205)  <sup>0 :speech_balloon:</sup>  	 
 - [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187)  <sup>0 :speech_balloon:</sup>  	 
 - [How Rich Am I?](https://github.com/smileyby/notes/issues/157)  <sup>0 :speech_balloon:</sup>  	 
 - [摸鱼奖品陈列室](https://github.com/smileyby/notes/issues/156)  <sup>0 :speech_balloon:</sup>  	 
