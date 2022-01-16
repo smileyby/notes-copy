@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-16 09:17:19"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-16 10:26:24"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [早早聊：芋头：如何高效开发表现层Node.js应用 笔记](https://github.com/smileyby/notes/issues/208) <sup>0 :speech_balloon:</sup> 	 2022-01-16 10:25:54
+
+:label: : [早早聊](https://github.com/smileyby/ghiblog/labels/%E6%97%A9%E6%97%A9%E8%81%8A)
+
+* Prisma：模型定义、数据操作、数据管理
+* Graphql：Prisma 模型到Graphql模型的无痛映射
+* Graphiql Explorer：直接快递组合请求
+* Prisma -> Resolver：Prisma ORM 自适应 resolver
+* swagger-to-
+
+[更多>>>](https://github.com/smileyby/notes/issues/208)
+
+---
+
 
 #### [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 绘图缺失问题](https://github.com/smileyby/notes/issues/207) <sup>0 :speech_balloon:</sup> 	 2022-01-16 09:16:52
 
@@ -86,31 +101,6 @@ https://darebee.com/workouts.html
       3. 主题
 
 [更多>>>](https://github.com/smileyby/notes/issues/204)
-
----
-
-
-#### [2021年度总结](https://github.com/smileyby/notes/issues/203) <sup>0 :speech_balloon:</sup> 	 2021-12-31 04:00:41
-
-:label: : [年终总结](https://github.com/smileyby/ghiblog/labels/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
-
-> 码云：
-
-这一年总共写了91561行代码，总共出现了181个bug；
-
-你最常用的是Ctrl+C、Ctrl+V的组合键； 
-
-> 美团：
-
-这一年共下单 333 笔，再累也要记得吃饭哦
-
-这一年你最爱吃的是：鲜虾滑蛋肠
-
-> 钉钉：
-
-你这一年中最忙碌的是 7月，共处
-
-[更多>>>](https://github.com/smileyby/notes/issues/203)
 
 ---
 
@@ -484,8 +474,9 @@ https://darebee.com/workouts.html
 </details>
 
 <details>
-<summary>早早聊	<sup>1:newspaper:</sup></summary>
+<summary>早早聊	<sup>2:newspaper:</sup></summary>
 
+- [早早聊：芋头：如何高效开发表现层Node.js应用 笔记](https://github.com/smileyby/notes/issues/208)  <sup>0 :speech_balloon:</sup>  	 
 - [早早聊-vue3专场笔记](https://github.com/smileyby/notes/issues/204)  <sup>0 :speech_balloon:</sup>  	 
 
 
