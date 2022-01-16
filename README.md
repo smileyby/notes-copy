@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-16 04:00:17"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-16 09:17:19"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 绘图缺失问题](https://github.com/smileyby/notes/issues/207) <sup>0 :speech_balloon:</sup> 	 2022-01-16 09:16:52
+
+:label: : [插件 :sun_with_face:](https://github.com/smileyby/ghiblog/labels/%E6%8F%92%E4%BB%B6%20%3Asun_with_face%3A)
+
+https://github.com/niklasvh/html2canvas/pull/2645
+
+[更多>>>](https://github.com/smileyby/notes/issues/207)
+
+---
+
 
 #### [给日期补零简便方法](https://github.com/smileyby/notes/issues/206) <sup>0 :speech_balloon:</sup> 	 2022-01-16 03:59:51
 
@@ -100,17 +111,6 @@ https://darebee.com/workouts.html
 你这一年中最忙碌的是 7月，共处
 
 [更多>>>](https://github.com/smileyby/notes/issues/203)
-
----
-
-
-#### [全栈在线课程](https://github.com/smileyby/notes/issues/202) <sup>0 :speech_balloon:</sup> 	 2021-12-24 09:01:16
-
-:label: : [全栈](https://github.com/smileyby/ghiblog/labels/%E5%85%A8%E6%A0%88)
-
-https://fullstackopen.com/
-
-[更多>>>](https://github.com/smileyby/notes/issues/202)
 
 ---
 
@@ -457,8 +457,9 @@ https://fullstackopen.com/
 </details>
 
 <details>
-<summary>插件 :sun_with_face:	<sup>0:newspaper:</sup></summary>
+<summary>插件 :sun_with_face:	<sup>1:newspaper:</sup></summary>
 
+- [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 绘图缺失问题](https://github.com/smileyby/notes/issues/207)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
