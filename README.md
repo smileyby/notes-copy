@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-07 01:36:00"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-16 04:00:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [给日期补零简便方法](https://github.com/smileyby/notes/issues/206) <sup>0 :speech_balloon:</sup> 	 2022-01-16 03:59:51
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+![image](https://user-images.githubusercontent.com/16968442/149646734-990c2fb1-6d41-4c1d-b5cd-b327b36a247f.png)
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/206)
+
+---
+
 
 #### [健身](https://github.com/smileyby/notes/issues/205) <sup>0 :speech_balloon:</sup> 	 2022-01-07 01:35:31
 
@@ -99,17 +111,6 @@ https://darebee.com/workouts.html
 https://fullstackopen.com/
 
 [更多>>>](https://github.com/smileyby/notes/issues/202)
-
----
-
-
-#### [Todo：了解css module](https://github.com/smileyby/notes/issues/201) <sup>0 :speech_balloon:</sup> 	 2021-12-24 09:00:42
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/201)
 
 ---
 
@@ -236,8 +237,9 @@ https://fullstackopen.com/
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>31:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>32:newspaper:</sup></summary>
 
+- [给日期补零简便方法](https://github.com/smileyby/notes/issues/206)  <sup>0 :speech_balloon:</sup>  	 
 - [浏览器端下载文件](https://github.com/smileyby/notes/issues/166)  <sup>0 :speech_balloon:</sup>  	 
 - [module.exports 与 export 区别 ](https://github.com/smileyby/notes/issues/148)  <sup>1 :speech_balloon:</sup>  	 
 - [获取图片 exif 信息](https://github.com/smileyby/notes/issues/136)  <sup>0 :speech_balloon:</sup>  	 
