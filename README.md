@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/47"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-16 10:26:24"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-17 09:11:42"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -54,7 +54,7 @@
 ---
 
 
-#### [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 绘图缺失问题](https://github.com/smileyby/notes/issues/207) <sup>0 :speech_balloon:</sup> 	 2022-01-16 09:16:52
+#### [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 字体 -apple-system导致绘图缺失的问题](https://github.com/smileyby/notes/issues/207) <sup>0 :speech_balloon:</sup> 	 2022-01-16 09:16:52
 
 :label: : [插件 :sun_with_face:](https://github.com/smileyby/ghiblog/labels/%E6%8F%92%E4%BB%B6%20%3Asun_with_face%3A)
 
@@ -449,7 +449,7 @@ https://darebee.com/workouts.html
 <details>
 <summary>插件 :sun_with_face:	<sup>1:newspaper:</sup></summary>
 
-- [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 绘图缺失问题](https://github.com/smileyby/notes/issues/207)  <sup>0 :speech_balloon:</sup>  	 
+- [html2canvas 1.4.0版本修复了其在 ios 15.x.x 版本下 字体 -apple-system导致绘图缺失的问题](https://github.com/smileyby/notes/issues/207)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
