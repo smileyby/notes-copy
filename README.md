@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-21 06:32:48"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-21 08:00:55"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214) <sup>0 :speech_balloon:</sup> 	 2022-01-21 08:00:27
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+https://www.npmjs.com/package/figlet
+https://www.npmjs.com/package/cowsay
+
+[更多>>>](https://github.com/smileyby/notes/issues/214)
+
+---
+
 
 #### [3D真好玩](https://github.com/smileyby/notes/issues/213) <sup>0 :speech_balloon:</sup> 	 2022-01-21 06:32:19
 
@@ -86,17 +98,6 @@ My friend accepted my invitation to dinner with good grace.
 I apologized to him wi
 
 [更多>>>](https://github.com/smileyby/notes/issues/210)
-
----
-
-
-#### [背景图实现暗黑模式](https://github.com/smileyby/notes/issues/209) <sup>1 :speech_balloon:</sup> 	 2022-01-18 02:55:46
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-https://tonsky.me/blog/swiftui/
-
-[更多>>>](https://github.com/smileyby/notes/issues/209)
 
 ---
 
@@ -460,8 +461,9 @@ https://tonsky.me/blog/swiftui/
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>13:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>14:newspaper:</sup></summary>
 
+- [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214)  <sup>0 :speech_balloon:</sup>  	 
 - [云赏景](https://github.com/smileyby/notes/issues/212)  <sup>1 :speech_balloon:</sup>  	 
 - [健身](https://github.com/smileyby/notes/issues/205)  <sup>0 :speech_balloon:</sup>  	 
 - [网易云·摸鱼计算器](https://github.com/smileyby/notes/issues/187)  <sup>0 :speech_balloon:</sup>  	 
