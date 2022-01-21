@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-21 10:51:33"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-21 10:52:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -314,7 +314,7 @@ I apologized to him wi
 - [Todo：树结构扁平化-递归实现](https://github.com/smileyby/notes/issues/163)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 web components](https://github.com/smileyby/notes/issues/160)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解 WebIDE ](https://github.com/smileyby/notes/issues/159)  <sup>0 :speech_balloon:</sup>  	 
-- [TODO：TypeScript](https://github.com/smileyby/notes/issues/138)  <sup>1 :speech_balloon:</sup>  	 
+- [TypeScript从0到1，进行中...](https://github.com/smileyby/notes/issues/138)  <sup>2 :speech_balloon:</sup>  	 
 - [Todo：WebGL](https://github.com/smileyby/notes/issues/134)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：node](https://github.com/smileyby/notes/issues/133)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：递归](https://github.com/smileyby/notes/issues/128)  <sup>0 :speech_balloon:</sup>  	 
