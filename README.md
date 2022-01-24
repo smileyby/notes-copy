@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-21 10:52:40"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-24 09:01:58"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215) <sup>0 :speech_balloon:</sup> 	 2022-01-24 09:01:28
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+参考gy代码
+
+[更多>>>](https://github.com/smileyby/notes/issues/215)
+
+---
+
 
 #### [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214) <sup>0 :speech_balloon:</sup> 	 2022-01-21 08:00:27
 
@@ -81,23 +92,6 @@ https://www.window-swap.com/Window
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/211)
-
----
-
-
-#### [ with a bad grace](https://github.com/smileyby/notes/issues/210) <sup>0 :speech_balloon:</sup> 	 2022-01-18 08:58:40
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-with (a) good/bad grace的意思是情愿/不情愿。
-
-🌰例句：
-My friend accepted my invitation to dinner with good grace.
-我的朋友欣然地接受了我请他吃饭的邀请。
-
-I apologized to him wi
-
-[更多>>>](https://github.com/smileyby/notes/issues/210)
 
 ---
 
@@ -304,8 +298,9 @@ I apologized to him wi
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>15:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
 
+- [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
 - [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
