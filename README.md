@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-15 03:41:35"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-15 09:57:53"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218) <sup>0 :speech_balloon:</sup> 	 2022-02-15 09:57:22
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+解决办法：
+1. 设置输入框的 `adjust-position="false"`,禁用输入框在小程序下的默认上滑行为
+2. 给输入框 绑定 bindFoucs 事件获取到 e.detail.height (键盘高度，在1.9.0及以上版本支持)，通过样式控制输入框的位置
+
+[更多>>>](https://github.com/smileyby/notes/issues/218)
+
+---
+
 
 #### [GIF循环的次数可以在ps中时间轴进行设置](https://github.com/smileyby/notes/issues/217) <sup>0 :speech_balloon:</sup> 	 2022-02-15 03:41:06
 
@@ -80,18 +93,6 @@ https://www.npmjs.com/package/figlet
 https://www.npmjs.com/package/cowsay
 
 [更多>>>](https://github.com/smileyby/notes/issues/214)
-
----
-
-
-#### [3D真好玩](https://github.com/smileyby/notes/issues/213) <sup>0 :speech_balloon:</sup> 	 2022-01-21 06:32:19
-
-:label: : [3D](https://github.com/smileyby/ghiblog/labels/3D)
-
-https://bruno-simon.com/
-https://my-room-in-3d.vercel.app/
-
-[更多>>>](https://github.com/smileyby/notes/issues/213)
 
 ---
 
@@ -401,8 +402,9 @@ https://my-room-in-3d.vercel.app/
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>26:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>27:newspaper:</sup></summary>
 
+- [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218)  <sup>0 :speech_balloon:</sup>  	 
 - [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序码生成问题](https://github.com/smileyby/notes/issues/164)  <sup>0 :speech_balloon:</sup>  	 
