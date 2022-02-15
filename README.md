@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-14 08:22:52"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-15 03:41:35"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [GIF循环的次数可以在ps中时间轴进行设置](https://github.com/smileyby/notes/issues/217) <sup>0 :speech_balloon:</sup> 	 2022-02-15 03:41:06
+
+:label: : [设计相关:blossom:](https://github.com/smileyby/ghiblog/labels/%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3%3Ablossom%3A)
+
+设置为永久，可一直循环播放；默认只循环一次
+
+[更多>>>](https://github.com/smileyby/notes/issues/217)
+
+---
+
 
 #### [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216) <sup>0 :speech_balloon:</sup> 	 2022-02-14 08:21:30
 
@@ -81,17 +92,6 @@ https://bruno-simon.com/
 https://my-room-in-3d.vercel.app/
 
 [更多>>>](https://github.com/smileyby/notes/issues/213)
-
----
-
-
-#### [云赏景](https://github.com/smileyby/notes/issues/212) <sup>1 :speech_balloon:</sup> 	 2022-01-20 09:29:39
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-https://www.window-swap.com/Window
-
-[更多>>>](https://github.com/smileyby/notes/issues/212)
 
 ---
 
@@ -603,8 +603,9 @@ https://www.window-swap.com/Window
 </details>
 
 <details>
-<summary>设计相关:blossom:	<sup>1:newspaper:</sup></summary>
+<summary>设计相关:blossom:	<sup>2:newspaper:</sup></summary>
 
+- [GIF循环的次数可以在ps中时间轴进行设置](https://github.com/smileyby/notes/issues/217)  <sup>0 :speech_balloon:</sup>  	 
 - [一起来画画](https://github.com/smileyby/notes/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 
 
