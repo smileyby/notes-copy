@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-15 09:57:53"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-16 08:21:22"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219) <sup>0 :speech_balloon:</sup> 	 2022-02-16 08:20:55
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/219)
+
+---
+
 
 #### [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218) <sup>0 :speech_balloon:</sup> 	 2022-02-15 09:57:22
 
@@ -81,18 +92,6 @@
 参考gy代码
 
 [更多>>>](https://github.com/smileyby/notes/issues/215)
-
----
-
-
-#### [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214) <sup>0 :speech_balloon:</sup> 	 2022-01-21 08:00:27
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-https://www.npmjs.com/package/figlet
-https://www.npmjs.com/package/cowsay
-
-[更多>>>](https://github.com/smileyby/notes/issues/214)
 
 ---
 
@@ -402,8 +401,9 @@ https://www.npmjs.com/package/cowsay
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>27:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>28:newspaper:</sup></summary>
 
+- [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218)  <sup>0 :speech_balloon:</sup>  	 
 - [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
