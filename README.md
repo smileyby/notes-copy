@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-16 08:21:22"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-18 01:41:41"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [GPS原理译文](https://github.com/smileyby/notes/issues/220) <sup>0 :speech_balloon:</sup> 	 2022-02-18 01:41:16
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+https://pages.longtian.info/gps/
+
+[更多>>>](https://github.com/smileyby/notes/issues/220)
+
+---
+
 
 #### [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219) <sup>0 :speech_balloon:</sup> 	 2022-02-16 08:20:55
 
@@ -81,17 +92,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/216)
-
----
-
-
-#### [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215) <sup>0 :speech_balloon:</sup> 	 2022-01-24 09:01:28
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-参考gy代码
-
-[更多>>>](https://github.com/smileyby/notes/issues/215)
 
 ---
 
@@ -459,8 +459,9 @@
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>14:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>15:newspaper:</sup></summary>
 
+- [GPS原理译文](https://github.com/smileyby/notes/issues/220)  <sup>0 :speech_balloon:</sup>  	 
 - [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214)  <sup>0 :speech_balloon:</sup>  	 
 - [云赏景](https://github.com/smileyby/notes/issues/212)  <sup>1 :speech_balloon:</sup>  	 
 - [健身](https://github.com/smileyby/notes/issues/205)  <sup>0 :speech_balloon:</sup>  	 
