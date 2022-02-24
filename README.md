@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 01:48:39"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 08:05:18"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222) <sup>0 :speech_balloon:</sup> 	 2022-02-24 08:04:47
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+可以将数字转为千分位表示，且兼容性良好
+
+[更多>>>](https://github.com/smileyby/notes/issues/222)
+
+---
+
 
 #### [js 实现视频转gif](https://github.com/smileyby/notes/issues/221) <sup>0 :speech_balloon:</sup> 	 2022-02-21 03:16:47
 
@@ -79,17 +90,6 @@ https://juejin.cn/post/7067154780560293896
 设置为永久，可一直循环播放；默认只循环一次
 
 [更多>>>](https://github.com/smileyby/notes/issues/217)
-
----
-
-
-#### [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216) <sup>0 :speech_balloon:</sup> 	 2022-02-14 08:21:30
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/216)
 
 ---
 
@@ -226,8 +226,9 @@ https://juejin.cn/post/7067154780560293896
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>32:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>33:newspaper:</sup></summary>
 
+- [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222)  <sup>0 :speech_balloon:</sup>  	 
 - [给日期补零简便方法](https://github.com/smileyby/notes/issues/206)  <sup>0 :speech_balloon:</sup>  	 
 - [浏览器端下载文件](https://github.com/smileyby/notes/issues/166)  <sup>0 :speech_balloon:</sup>  	 
 - [module.exports 与 export 区别 ](https://github.com/smileyby/notes/issues/148)  <sup>1 :speech_balloon:</sup>  	 
