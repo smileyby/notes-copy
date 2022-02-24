@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-22 02:12:40"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 01:48:39"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -72,19 +72,6 @@ https://juejin.cn/post/7067154780560293896
 ---
 
 
-#### [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218) <sup>0 :speech_balloon:</sup> 	 2022-02-15 09:57:22
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-解决办法：
-1. 设置输入框的 `adjust-position="false"`,禁用输入框在小程序下的默认上滑行为
-2. 给输入框 绑定 bindFoucs 事件获取到 e.detail.height (键盘高度，在1.9.0及以上版本支持)，通过样式控制输入框的位置
-
-[更多>>>](https://github.com/smileyby/notes/issues/218)
-
----
-
-
 #### [GIF循环的次数可以在ps中时间轴进行设置](https://github.com/smileyby/notes/issues/217) <sup>0 :speech_balloon:</sup> 	 2022-02-15 03:41:06
 
 :label: : [设计相关:blossom:](https://github.com/smileyby/ghiblog/labels/%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3%3Ablossom%3A)
@@ -92,6 +79,17 @@ https://juejin.cn/post/7067154780560293896
 设置为永久，可一直循环播放；默认只循环一次
 
 [更多>>>](https://github.com/smileyby/notes/issues/217)
+
+---
+
+
+#### [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216) <sup>0 :speech_balloon:</sup> 	 2022-02-14 08:21:30
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/216)
 
 ---
 
@@ -402,10 +400,9 @@ https://juejin.cn/post/7067154780560293896
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>28:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>27:newspaper:</sup></summary>
 
 - [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219)  <sup>0 :speech_balloon:</sup>  	 
-- [小程序：自定义导航在页面有输入框时，会在输入框获取焦点是被顶上去](https://github.com/smileyby/notes/issues/218)  <sup>0 :speech_balloon:</sup>  	 
 - [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序码生成问题](https://github.com/smileyby/notes/issues/164)  <sup>0 :speech_balloon:</sup>  	 
