@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 08:05:18"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 10:42:44"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,26 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [早早聊：winter 35岁度量人生的尺 观后感](https://github.com/smileyby/notes/issues/223) <sup>0 :speech_balloon:</sup> 	 2022-02-24 10:42:12
+
+:label: : [早早聊](https://github.com/smileyby/ghiblog/labels/%E6%97%A9%E6%97%A9%E8%81%8A)
+
+* 30-35这个年龄段，重在自我认知
+
+思考：
+假如我没有任何财务压力，我想做什么？
+> 想去哪些没去过的地方旅游
+假设我已经濒临破产，我不会做什么？
+> 我不会去要饭
+假设面试必过，我想去那家公司工作？
+> 任意一个大厂，总是想去看看大厂里面到底有什么
+我现在的工作内容，我认为
+
+[更多>>>](https://github.com/smileyby/notes/issues/223)
+
+---
+
 
 #### [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222) <sup>0 :speech_balloon:</sup> 	 2022-02-24 08:04:47
 
@@ -79,17 +99,6 @@ https://pages.longtian.info/gps/
 https://juejin.cn/post/7067154780560293896
 
 [更多>>>](https://github.com/smileyby/notes/issues/219)
-
----
-
-
-#### [GIF循环的次数可以在ps中时间轴进行设置](https://github.com/smileyby/notes/issues/217) <sup>0 :speech_balloon:</sup> 	 2022-02-15 03:41:06
-
-:label: : [设计相关:blossom:](https://github.com/smileyby/ghiblog/labels/%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3%3Ablossom%3A)
-
-设置为永久，可一直循环播放；默认只循环一次
-
-[更多>>>](https://github.com/smileyby/notes/issues/217)
 
 ---
 
@@ -480,8 +489,9 @@ https://juejin.cn/post/7067154780560293896
 </details>
 
 <details>
-<summary>早早聊	<sup>2:newspaper:</sup></summary>
+<summary>早早聊	<sup>3:newspaper:</sup></summary>
 
+- [早早聊：winter 35岁度量人生的尺 观后感](https://github.com/smileyby/notes/issues/223)  <sup>0 :speech_balloon:</sup>  	 
 - [早早聊：芋头：如何高效开发表现层Node.js应用 笔记](https://github.com/smileyby/notes/issues/208)  <sup>0 :speech_balloon:</sup>  	 
 - [早早聊-vue3专场笔记](https://github.com/smileyby/notes/issues/204)  <sup>0 :speech_balloon:</sup>  	 
 
