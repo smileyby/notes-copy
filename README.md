@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 10:42:44"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 10:52:11"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -48,11 +48,14 @@
 思考：
 假如我没有任何财务压力，我想做什么？
 > 想去哪些没去过的地方旅游
+
 假设我已经濒临破产，我不会做什么？
 > 我不会去要饭
+
 假设面试必过，我想去那家公司工作？
 > 任意一个大厂，总是想去看看大厂里面到底有什么
-我现在的工作内容，我认为
+
+我现在的工作
 
 [更多>>>](https://github.com/smileyby/notes/issues/223)
 
