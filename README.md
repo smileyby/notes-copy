@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 10:52:11"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-25 09:31:30"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224) <sup>0 :speech_balloon:</sup> 	 2022-02-25 09:31:02
+
+:label: : [TypeScript :rabbit:](https://github.com/smileyby/ghiblog/labels/TypeScript%20%3Arabbit%3A)
+
+interface type { a?: string, [propName: string]: string | number  }
+
+为啥会报上面的错误？
+
+[更多>>>](https://github.com/smileyby/notes/issues/224)
+
+---
+
 
 #### [早早聊：winter 35岁度量人生的尺 观后感](https://github.com/smileyby/notes/issues/223) <sup>0 :speech_balloon:</sup> 	 2022-02-24 10:42:12
 
@@ -91,17 +104,6 @@
 https://pages.longtian.info/gps/
 
 [更多>>>](https://github.com/smileyby/notes/issues/220)
-
----
-
-
-#### [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219) <sup>0 :speech_balloon:</sup> 	 2022-02-16 08:20:55
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-https://juejin.cn/post/7067154780560293896
-
-[更多>>>](https://github.com/smileyby/notes/issues/219)
 
 ---
 
@@ -334,8 +336,9 @@ https://juejin.cn/post/7067154780560293896
 </details>
 
 <details>
-<summary>TypeScript :rabbit:	<sup>1:newspaper:</sup></summary>
+<summary>TypeScript :rabbit:	<sup>2:newspaper:</sup></summary>
 
+- [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224)  <sup>0 :speech_balloon:</sup>  	 
 - [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 
 
