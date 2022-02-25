@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-25 09:31:30"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-25 10:31:16"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [小程序 ：showLoading 和 hideLoading 不匹配导致报错：hideLoading:failed toast cannot found ](https://github.com/smileyby/notes/issues/225) <sup>0 :speech_balloon:</sup> 	 2022-02-25 10:30:46
+
+:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
+
+解决办法：给hideLoading 绑定 fail 回调函数，劫持报错信息
+
+[更多>>>](https://github.com/smileyby/notes/issues/225)
+
+---
+
 
 #### [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224) <sup>0 :speech_balloon:</sup> 	 2022-02-25 09:31:02
 
@@ -93,17 +104,6 @@ interface type { a?: string, [propName: string]: string | number  }
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/221)
-
----
-
-
-#### [GPS原理译文](https://github.com/smileyby/notes/issues/220) <sup>0 :speech_balloon:</sup> 	 2022-02-18 01:41:16
-
-:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
-
-https://pages.longtian.info/gps/
-
-[更多>>>](https://github.com/smileyby/notes/issues/220)
 
 ---
 
@@ -416,8 +416,9 @@ https://pages.longtian.info/gps/
 </details>
 
 <details>
-<summary>小程序 :cyclone:	<sup>27:newspaper:</sup></summary>
+<summary>小程序 :cyclone:	<sup>28:newspaper:</sup></summary>
 
+- [小程序 ：showLoading 和 hideLoading 不匹配导致报错：hideLoading:failed toast cannot found ](https://github.com/smileyby/notes/issues/225)  <sup>0 :speech_balloon:</sup>  	 
 - [小程序：软键盘遮挡输入框问题](https://github.com/smileyby/notes/issues/219)  <sup>0 :speech_balloon:</sup>  	 
 - [page-meta 可设置小程序页面属性](https://github.com/smileyby/notes/issues/192)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
