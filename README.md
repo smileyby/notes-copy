@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-25 10:31:16"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-28 03:39:45"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226) <sup>0 :speech_balloon:</sup> 	 2022-02-28 03:39:21
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/226)
+
+---
+
 
 #### [小程序 ：showLoading 和 hideLoading 不匹配导致报错：hideLoading:failed toast cannot found ](https://github.com/smileyby/notes/issues/225) <sup>0 :speech_balloon:</sup> 	 2022-02-25 10:30:46
 
@@ -93,17 +104,6 @@ interface type { a?: string, [propName: string]: string | number  }
 可以将数字转为千分位表示，且兼容性良好
 
 [更多>>>](https://github.com/smileyby/notes/issues/222)
-
----
-
-
-#### [js 实现视频转gif](https://github.com/smileyby/notes/issues/221) <sup>0 :speech_balloon:</sup> 	 2022-02-21 03:16:47
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/221)
 
 ---
 
@@ -312,8 +312,9 @@ interface type { a?: string, [propName: string]: string | number  }
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>17:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>18:newspaper:</sup></summary>
 
+- [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226)  <sup>0 :speech_balloon:</sup>  	 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
