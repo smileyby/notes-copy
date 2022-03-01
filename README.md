@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-01 02:12:19"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-01 11:01:57"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -50,7 +50,7 @@
 ---
 
 
-#### [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226) <sup>0 :speech_balloon:</sup> 	 2022-02-28 03:39:21
+#### [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226) <sup>1 :speech_balloon:</sup> 	 2022-02-28 03:39:21
 
 :label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
 
@@ -314,7 +314,7 @@ interface type { a?: string, [propName: string]: string | number  }
 <details>
 <summary>Todo :bird:	<sup>18:newspaper:</sup></summary>
 
-- [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226)  <sup>0 :speech_balloon:</sup>  	 
+- [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226)  <sup>1 :speech_balloon:</sup>  	 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
