@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-01 11:01:57"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-03 09:13:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -46,17 +46,6 @@
 [免费正版高清图片素材库](https://pixabay.com/zh/)
 
 [更多>>>](https://github.com/smileyby/notes/issues/227)
-
----
-
-
-#### [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226) <sup>1 :speech_balloon:</sup> 	 2022-02-28 03:39:21
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/226)
 
 ---
 
@@ -104,6 +93,17 @@ interface type { a?: string, [propName: string]: string | number  }
 我现在的工作
 
 [更多>>>](https://github.com/smileyby/notes/issues/223)
+
+---
+
+
+#### [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222) <sup>0 :speech_balloon:</sup> 	 2022-02-24 08:04:47
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+可以将数字转为千分位表示，且兼容性良好
+
+[更多>>>](https://github.com/smileyby/notes/issues/222)
 
 ---
 
@@ -312,9 +312,8 @@ interface type { a?: string, [propName: string]: string | number  }
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>18:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>17:newspaper:</sup></summary>
 
-- [早早聊：TS专场笔记](https://github.com/smileyby/notes/issues/226)  <sup>1 :speech_balloon:</sup>  	 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
@@ -475,8 +474,9 @@ interface type { a?: string, [propName: string]: string | number  }
 </details>
 
 <details>
-<summary>摸鱼 :tropical_fish:	<sup>16:newspaper:</sup></summary>
+<summary>摸鱼 :tropical_fish:	<sup>17:newspaper:</sup></summary>
 
+- [关于代码管理 monorepo 理念](https://github.com/smileyby/notes/issues/228)  <sup>0 :speech_balloon:</sup>  	 
 - [免费正版高清图片素材库](https://github.com/smileyby/notes/issues/227)  <sup>0 :speech_balloon:</sup>  	 
 - [GPS原理译文](https://github.com/smileyby/notes/issues/220)  <sup>0 :speech_balloon:</sup>  	 
 - [可以用在控制台的图形生成插件](https://github.com/smileyby/notes/issues/214)  <sup>0 :speech_balloon:</sup>  	 
