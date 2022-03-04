@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-03 09:13:17"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-04 06:49:49"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,6 +39,33 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [EN: Life is a collection of moments. ](https://github.com/smileyby/notes/issues/229) <sup>0 :speech_balloon:</sup> 	 2022-03-04 06:49:22
+
+:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
+
+生命是由一系列的瞬间组成的，
+Life is a collection of moments. 
+宗旨是尽可能地拥有快乐的瞬间。
+The idea is to have as many good ones as you can.
+
+| 《爱情限时恋未尽》 5 to 7
+
+[更多>>>](https://github.com/smileyby/notes/issues/229)
+
+---
+
+
+#### [关于代码管理 monorepo 理念](https://github.com/smileyby/notes/issues/228) <sup>0 :speech_balloon:</sup> 	 2022-03-03 09:13:33
+
+:label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
+
+https://danluu.com/monorepo/
+
+[更多>>>](https://github.com/smileyby/notes/issues/228)
+
+---
+
+
 #### [免费正版高清图片素材库](https://github.com/smileyby/notes/issues/227) <sup>0 :speech_balloon:</sup> 	 2022-03-01 02:11:53
 
 :label: : [摸鱼 :tropical_fish:](https://github.com/smileyby/ghiblog/labels/%E6%91%B8%E9%B1%BC%20%3Atropical_fish%3A)
@@ -70,40 +97,6 @@ interface type { a?: string, [propName: string]: string | number  }
 为啥会报上面的错误？
 
 [更多>>>](https://github.com/smileyby/notes/issues/224)
-
----
-
-
-#### [早早聊：winter 35岁度量人生的尺 观后感](https://github.com/smileyby/notes/issues/223) <sup>0 :speech_balloon:</sup> 	 2022-02-24 10:42:12
-
-:label: : [早早聊](https://github.com/smileyby/ghiblog/labels/%E6%97%A9%E6%97%A9%E8%81%8A)
-
-* 30-35这个年龄段，重在自我认知
-
-思考：
-假如我没有任何财务压力，我想做什么？
-> 想去哪些没去过的地方旅游
-
-假设我已经濒临破产，我不会做什么？
-> 我不会去要饭
-
-假设面试必过，我想去那家公司工作？
-> 任意一个大厂，总是想去看看大厂里面到底有什么
-
-我现在的工作
-
-[更多>>>](https://github.com/smileyby/notes/issues/223)
-
----
-
-
-#### [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222) <sup>0 :speech_balloon:</sup> 	 2022-02-24 08:04:47
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-可以将数字转为千分位表示，且兼容性良好
-
-[更多>>>](https://github.com/smileyby/notes/issues/222)
 
 ---
 
@@ -598,8 +591,9 @@ interface type { a?: string, [propName: string]: string | number  }
 </details>
 
 <details>
-<summary>英语	<sup>19:newspaper:</sup></summary>
+<summary>英语	<sup>20:newspaper:</sup></summary>
 
+- [EN: Life is a collection of moments. ](https://github.com/smileyby/notes/issues/229)  <sup>0 :speech_balloon:</sup>  	 
 - [英语表达：习惯了 => Force of habit.](https://github.com/smileyby/notes/issues/211)  <sup>0 :speech_balloon:</sup>  	 
 - [ with a bad grace](https://github.com/smileyby/notes/issues/210)  <sup>0 :speech_balloon:</sup>  	 
 - [英文口头禅](https://github.com/smileyby/notes/issues/195)  <sup>0 :speech_balloon:</sup>  	 
