@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-04 06:49:49"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-07 09:05:18"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,25 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [诗歌：题都城南庄](https://github.com/smileyby/notes/issues/230) <sup>0 :speech_balloon:</sup> 	 2022-03-07 09:04:49
+
+:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
+
+【作者】崔护 
+【朝代】唐
+
+去年今日此门中，人面桃花相映红。
+人面不知何处去，桃花依旧笑春风。
+
+听《少年歌行·风花雪月》道剑仙身死，意难平
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/230)
+
+---
+
 
 #### [EN: Life is a collection of moments. ](https://github.com/smileyby/notes/issues/229) <sup>0 :speech_balloon:</sup> 	 2022-03-04 06:49:22
 
@@ -84,19 +103,6 @@ https://danluu.com/monorepo/
 解决办法：给hideLoading 绑定 fail 回调函数，劫持报错信息
 
 [更多>>>](https://github.com/smileyby/notes/issues/225)
-
----
-
-
-#### [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224) <sup>0 :speech_balloon:</sup> 	 2022-02-25 09:31:02
-
-:label: : [TypeScript :rabbit:](https://github.com/smileyby/ghiblog/labels/TypeScript%20%3Arabbit%3A)
-
-interface type { a?: string, [propName: string]: string | number  }
-
-为啥会报上面的错误？
-
-[更多>>>](https://github.com/smileyby/notes/issues/224)
 
 ---
 
@@ -627,8 +633,9 @@ interface type { a?: string, [propName: string]: string | number  }
 </details>
 
 <details>
-<summary>诗歌	<sup>7:newspaper:</sup></summary>
+<summary>诗歌	<sup>8:newspaper:</sup></summary>
 
+- [诗歌：题都城南庄](https://github.com/smileyby/notes/issues/230)  <sup>0 :speech_balloon:</sup>  	 
 - [白鹿洞二首其一·王贞白](https://github.com/smileyby/notes/issues/188)  <sup>0 :speech_balloon:</sup>  	 
 - [水龙吟·登建康赏心亭](https://github.com/smileyby/notes/issues/178)  <sup>0 :speech_balloon:</sup>  	 
 - [满江红·写怀](https://github.com/smileyby/notes/issues/172)  <sup>0 :speech_balloon:</sup>  	 
