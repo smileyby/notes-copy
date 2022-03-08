@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-07 09:05:18"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-08 07:09:36"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,20 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Typescript Error: setInterval - Type 'Timer' is not assignable to type 'number'](https://github.com/smileyby/notes/issues/231) <sup>0 :speech_balloon:</sup> 	 2022-03-08 07:09:08
+
+:label: : [TypeScript :rabbit:](https://github.com/smileyby/ghiblog/labels/TypeScript%20%3Arabbit%3A)
+
+前置内容 setInterval 返回的类型是 NodeJS.Timer
+window.setInterval 返回的类型才是 number 类型
+
+https://stackoverflow.com/questions/53189729/typescript-error-setinterva
+
+[更多>>>](https://github.com/smileyby/notes/issues/231)
+
+---
+
 
 #### [诗歌：题都城南庄](https://github.com/smileyby/notes/issues/230) <sup>0 :speech_balloon:</sup> 	 2022-03-07 09:04:49
 
@@ -92,17 +106,6 @@ https://danluu.com/monorepo/
 [免费正版高清图片素材库](https://pixabay.com/zh/)
 
 [更多>>>](https://github.com/smileyby/notes/issues/227)
-
----
-
-
-#### [小程序 ：showLoading 和 hideLoading 不匹配导致报错：hideLoading:failed toast cannot found ](https://github.com/smileyby/notes/issues/225) <sup>0 :speech_balloon:</sup> 	 2022-02-25 10:30:46
-
-:label: : [小程序 :cyclone:](https://github.com/smileyby/ghiblog/labels/%E5%B0%8F%E7%A8%8B%E5%BA%8F%20%3Acyclone%3A)
-
-解决办法：给hideLoading 绑定 fail 回调函数，劫持报错信息
-
-[更多>>>](https://github.com/smileyby/notes/issues/225)
 
 ---
 
@@ -335,8 +338,9 @@ https://danluu.com/monorepo/
 </details>
 
 <details>
-<summary>TypeScript :rabbit:	<sup>2:newspaper:</sup></summary>
+<summary>TypeScript :rabbit:	<sup>3:newspaper:</sup></summary>
 
+- [Typescript Error: setInterval - Type 'Timer' is not assignable to type 'number'](https://github.com/smileyby/notes/issues/231)  <sup>0 :speech_balloon:</sup>  	 
 - [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224)  <sup>0 :speech_balloon:</sup>  	 
 - [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 
