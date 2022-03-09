@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/48"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-08 07:09:36"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-09 05:45:14"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -314,10 +314,9 @@ https://danluu.com/monorepo/
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>17:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
-- [Todo：自动挖矿脚本实现+自动签到](https://github.com/smileyby/notes/issues/215)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
 - [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
