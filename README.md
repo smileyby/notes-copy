@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-16 09:47:08"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-16 09:49:07"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [todo：canvas](https://github.com/smileyby/notes/issues/234) <sup>0 :speech_balloon:</sup> 	 2022-03-16 09:48:40
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/234)
+
+---
+
 
 #### [英语：one-time exception](https://github.com/smileyby/notes/issues/233) <sup>0 :speech_balloon:</sup> 	 2022-03-16 06:55:10
 
@@ -93,22 +104,6 @@ https://stackoverflow.com/questions/53189729/typescript-error-setinterva
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/230)
-
----
-
-
-#### [EN: Life is a collection of moments. ](https://github.com/smileyby/notes/issues/229) <sup>0 :speech_balloon:</sup> 	 2022-03-04 06:49:22
-
-:label: : [英语](https://github.com/smileyby/ghiblog/labels/%E8%8B%B1%E8%AF%AD)
-
-生命是由一系列的瞬间组成的，
-Life is a collection of moments. 
-宗旨是尽可能地拥有快乐的瞬间。
-The idea is to have as many good ones as you can.
-
-| 《爱情限时恋未尽》 5 to 7
-
-[更多>>>](https://github.com/smileyby/notes/issues/229)
 
 ---
 
@@ -318,8 +313,9 @@ The idea is to have as many good ones as you can.
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>15:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
 
+- [todo：canvas](https://github.com/smileyby/notes/issues/234)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
 - [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
