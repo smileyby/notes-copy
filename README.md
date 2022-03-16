@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-16 06:55:37"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-16 09:47:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -245,9 +245,10 @@ The idea is to have as many good ones as you can.
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>33:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>34:newspaper:</sup></summary>
 
 - [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222)  <sup>0 :speech_balloon:</sup>  	 
+- [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [给日期补零简便方法](https://github.com/smileyby/notes/issues/206)  <sup>0 :speech_balloon:</sup>  	 
 - [浏览器端下载文件](https://github.com/smileyby/notes/issues/166)  <sup>0 :speech_balloon:</sup>  	 
 - [module.exports 与 export 区别 ](https://github.com/smileyby/notes/issues/148)  <sup>1 :speech_balloon:</sup>  	 
@@ -317,9 +318,8 @@ The idea is to have as many good ones as you can.
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>15:newspaper:</sup></summary>
 
-- [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
 - [纯JS将内容转为 二维码](https://github.com/smileyby/notes/issues/196)  <sup>0 :speech_balloon:</sup>  	 
