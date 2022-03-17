@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-17 03:16:36"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-17 06:47:12"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,20 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236) <sup>0 :speech_balloon:</sup> 	 2022-03-17 06:46:46
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+组件内 按钮 绑定 click 且 输入框 绑定了 blur；
+则 当 输入框聚焦是，点击按钮会优先触发 blur 事件（由于js单线程，一次仅执行一个事件，且 blur 优先级更高）
+
+所以 这里需要采用比 blur 优先级更高的 mousedown 或 mouseup 事件 替代 clic
+
+[更多>>>](https://github.com/smileyby/notes/issues/236)
+
+---
+
 
 #### [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235) <sup>0 :speech_balloon:</sup> 	 2022-03-17 03:16:08
 
@@ -82,20 +96,6 @@ Can we make an one-time exception for tonight？今晚不能破例一次吗？
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/232)
-
----
-
-
-#### [Typescript Error: setInterval - Type 'Timer' is not assignable to type 'number'](https://github.com/smileyby/notes/issues/231) <sup>0 :speech_balloon:</sup> 	 2022-03-08 07:09:08
-
-:label: : [TypeScript :rabbit:](https://github.com/smileyby/ghiblog/labels/TypeScript%20%3Arabbit%3A)
-
-前置内容 setInterval 返回的类型是 NodeJS.Timer
-window.setInterval 返回的类型才是 number 类型
-
-https://stackoverflow.com/questions/53189729/typescript-error-setinterva
-
-[更多>>>](https://github.com/smileyby/notes/issues/231)
 
 ---
 
@@ -232,8 +232,9 @@ https://stackoverflow.com/questions/53189729/typescript-error-setinterva
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>34:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>35:newspaper:</sup></summary>
 
+- [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236)  <sup>0 :speech_balloon:</sup>  	 
 - [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222)  <sup>0 :speech_balloon:</sup>  	 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
 - [给日期补零简便方法](https://github.com/smileyby/notes/issues/206)  <sup>0 :speech_balloon:</sup>  	 
