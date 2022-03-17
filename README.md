@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-16 09:49:07"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-17 03:16:36"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235) <sup>0 :speech_balloon:</sup> 	 2022-03-17 03:16:08
+
+:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+
+有点像 for循环结束后，非闭包情况下，值总是最后一个样，待解决和测试
+
+[更多>>>](https://github.com/smileyby/notes/issues/235)
+
+---
+
 
 #### [todo：canvas](https://github.com/smileyby/notes/issues/234) <sup>0 :speech_balloon:</sup> 	 2022-03-16 09:48:40
 
@@ -85,25 +96,6 @@ window.setInterval 返回的类型才是 number 类型
 https://stackoverflow.com/questions/53189729/typescript-error-setinterva
 
 [更多>>>](https://github.com/smileyby/notes/issues/231)
-
----
-
-
-#### [诗歌：题都城南庄](https://github.com/smileyby/notes/issues/230) <sup>0 :speech_balloon:</sup> 	 2022-03-07 09:04:49
-
-:label: : [诗歌](https://github.com/smileyby/ghiblog/labels/%E8%AF%97%E6%AD%8C)
-
-【作者】崔护 
-【朝代】唐
-
-去年今日此门中，人面桃花相映红。
-人面不知何处去，桃花依旧笑春风。
-
-听《少年歌行·风花雪月》道剑仙身死，意难平
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/230)
 
 ---
 
@@ -313,8 +305,9 @@ https://stackoverflow.com/questions/53189729/typescript-error-setinterva
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>17:newspaper:</sup></summary>
 
+- [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>0 :speech_balloon:</sup>  	 
 - [todo：canvas](https://github.com/smileyby/notes/issues/234)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
