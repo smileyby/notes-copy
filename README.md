@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/49"/>
+    <img src="https://badgen.net/badge/labels/50"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-18 09:15:41"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-18 09:17:51"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -180,6 +180,13 @@ Can we make an one-time exception for tonight？今晚不能破例一次吗？
 - [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes/issues/50)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>done	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
