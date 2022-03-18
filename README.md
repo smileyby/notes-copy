@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-18 02:43:32"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-18 06:49:11"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [IOS：唤起键盘导致页面上移，行为解析](https://github.com/smileyby/notes/issues/237) <sup>0 :speech_balloon:</sup> 	 2022-03-18 06:48:42
+
+:label: : [移动端 :custard:](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20%3Acustard%3A)
+
+此种情况会出现在，由用户行为而获取焦点的输入框位于页面下半区，系统检测发现 如果唤起键盘会遮挡输入区域，所以ios会自动将当前页面向上移动输入框高度距离，以达到不遮挡输入位置的目的
+
+[更多>>>](https://github.com/smileyby/notes/issues/237)
+
+---
+
 
 #### [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236) <sup>0 :speech_balloon:</sup> 	 2022-03-17 06:46:46
 
@@ -84,18 +95,6 @@ one-time exception: 破天荒/破例一次
 Can we make an one-time exception for tonight？今晚不能破例一次吗？
 
 [更多>>>](https://github.com/smileyby/notes/issues/233)
-
----
-
-
-#### [What does the time complexity O(log n) actually mean?](https://github.com/smileyby/notes/issues/232) <sup>0 :speech_balloon:</sup> 	 2022-03-09 08:33:08
-
-:label: : [算法](https://github.com/smileyby/ghiblog/labels/%E7%AE%97%E6%B3%95)
-
-![logn](https://user-images.githubusercontent.com/16968442/157403059-5bdfa73c-167a-458a-9a9a-9a1c1bf3dc8c.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/232)
 
 ---
 
@@ -551,8 +550,9 @@ Can we make an one-time exception for tonight？今晚不能破例一次吗？
 </details>
 
 <details>
-<summary>移动端 :custard:	<sup>2:newspaper:</sup></summary>
+<summary>移动端 :custard:	<sup>3:newspaper:</sup></summary>
 
+- [IOS：唤起键盘导致页面上移，行为解析](https://github.com/smileyby/notes/issues/237)  <sup>0 :speech_balloon:</sup>  	 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 - [移动端：安卓手机获取app缓存文件](https://github.com/smileyby/notes/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 
