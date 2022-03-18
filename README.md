@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/49"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-17 06:47:12"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-18 02:43:32"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -53,9 +53,9 @@
 ---
 
 
-#### [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235) <sup>0 :speech_balloon:</sup> 	 2022-03-17 03:16:08
+#### [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235) <sup>1 :speech_balloon:</sup> 	 2022-03-17 03:16:08
 
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
 
 有点像 for循环结束后，非闭包情况下，值总是最后一个样，待解决和测试
 
@@ -306,9 +306,8 @@ Can we make an one-time exception for tonight？今晚不能破例一次吗？
 </details>
 
 <details>
-<summary>Todo :bird:	<sup>17:newspaper:</sup></summary>
+<summary>Todo :bird:	<sup>16:newspaper:</sup></summary>
 
-- [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>0 :speech_balloon:</sup>  	 
 - [todo：canvas](https://github.com/smileyby/notes/issues/234)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：了解css module](https://github.com/smileyby/notes/issues/201)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：项目由vue2转vue3](https://github.com/smileyby/notes/issues/200)  <sup>4 :speech_balloon:</sup>  	 
@@ -348,8 +347,9 @@ Can we make an one-time exception for tonight？今晚不能破例一次吗？
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>5:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>6:newspaper:</sup></summary>
 
+- [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>1 :speech_balloon:</sup>  	 
 - [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes/issues/102)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes/issues/72)  <sup>0 :speech_balloon:</sup>  	 
