@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/50"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-03-21 05:54:48"/>
+    <img src="https://badgen.net/badge/last-commit/2022-03-23 10:46:26"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Math.trunc() 将数字的小数部分去掉，只保留整数部分](https://github.com/smileyby/notes/issues/239) <sup>0 :speech_balloon:</sup> 	 2022-03-23 10:45:51
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc
+
+[更多>>>](https://github.com/smileyby/notes/issues/239)
+
+---
+
 
 #### [有趣的CSS测试](https://github.com/smileyby/notes/issues/238) <sup>0 :speech_balloon:</sup> 	 2022-03-21 05:54:19
 
@@ -82,17 +93,6 @@ https://css-speedrun.netlify.app/
 有点像 for循环结束后，非闭包情况下，值总是最后一个样，待解决和测试
 
 [更多>>>](https://github.com/smileyby/notes/issues/235)
-
----
-
-
-#### [todo：canvas](https://github.com/smileyby/notes/issues/234) <sup>0 :speech_balloon:</sup> 	 2022-03-16 09:48:40
-
-:label: : [Todo :bird:](https://github.com/smileyby/ghiblog/labels/Todo%20%3Abird%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/234)
 
 ---
 
@@ -237,8 +237,9 @@ https://css-speedrun.netlify.app/
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>35:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>36:newspaper:</sup></summary>
 
+- [Math.trunc() 将数字的小数部分去掉，只保留整数部分](https://github.com/smileyby/notes/issues/239)  <sup>0 :speech_balloon:</sup>  	 
 - [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236)  <sup>0 :speech_balloon:</sup>  	 
 - [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222)  <sup>0 :speech_balloon:</sup>  	 
 - [js 实现视频转gif](https://github.com/smileyby/notes/issues/221)  <sup>0 :speech_balloon:</sup>  	 
