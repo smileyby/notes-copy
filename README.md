@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/50"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-04-30 10:36:28"/>
+    <img src="https://badgen.net/badge/last-commit/2022-05-08 06:16:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [搞笑：人为什么要上班？哲理性回答：我司雇我在](https://github.com/smileyby/notes/issues/241) <sup>0 :speech_balloon:</sup> 	 2022-05-08 06:15:41
+
+:label: : [每日趣闻 :curly_loop:](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E8%B6%A3%E9%97%BB%20%3Acurly_loop%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/241)
+
+---
+
 
 #### [转·《微服务是什么？》](https://github.com/smileyby/notes/issues/240) <sup>0 :speech_balloon:</sup> 	 2022-04-30 10:35:58
 
@@ -85,20 +96,6 @@ https://css-speedrun.netlify.app/
 此种情况会出现在，由用户行为而获取焦点的输入框位于页面下半区，系统检测发现 如果唤起键盘会遮挡输入区域，所以ios会自动将当前页面向上移动输入框高度距离，以达到不遮挡输入位置的目的
 
 [更多>>>](https://github.com/smileyby/notes/issues/237)
-
----
-
-
-#### [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236) <sup>0 :speech_balloon:</sup> 	 2022-03-17 06:46:46
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-组件内 按钮 绑定 click 且 输入框 绑定了 blur；
-则 当 输入框聚焦是，点击按钮会优先触发 blur 事件（由于js单线程，一次仅执行一个事件，且 blur 优先级更高）
-
-所以 这里需要采用比 blur 优先级更高的 mousedown 或 mouseup 事件 替代 clic
-
-[更多>>>](https://github.com/smileyby/notes/issues/236)
 
 ---
 
@@ -520,8 +517,9 @@ https://css-speedrun.netlify.app/
 </details>
 
 <details>
-<summary>每日趣闻 :curly_loop:	<sup>1:newspaper:</sup></summary>
+<summary>每日趣闻 :curly_loop:	<sup>2:newspaper:</sup></summary>
 
+- [搞笑：人为什么要上班？哲理性回答：我司雇我在](https://github.com/smileyby/notes/issues/241)  <sup>0 :speech_balloon:</sup>  	 
 - [程序员的酒后真言](https://github.com/smileyby/notes/issues/116)  <sup>0 :speech_balloon:</sup>  	 
 
 
