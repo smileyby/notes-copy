@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/50"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-05-08 06:16:08"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-13 00:49:53"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -520,7 +520,7 @@ https://css-speedrun.netlify.app/
 <summary>每日趣闻 :curly_loop:	<sup>2:newspaper:</sup></summary>
 
 - [搞笑：人为什么要上班？哲理性回答：我司雇我在](https://github.com/smileyby/notes/issues/241)  <sup>0 :speech_balloon:</sup>  	 
-- [程序员的酒后真言](https://github.com/smileyby/notes/issues/116)  <sup>0 :speech_balloon:</sup>  	 
+- [程序员的酒后真言](https://github.com/smileyby/notes/issues/116)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
