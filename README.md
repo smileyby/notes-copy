@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/50"/>
+    <img src="https://badgen.net/badge/labels/51"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-06-13 00:49:53"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-14 16:12:45"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242) <sup>0 :speech_balloon:</sup> 	 2022-06-14 16:12:14
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
+
+1. 在PowerShell中输入 `get-ExecutionPolicy`，查询到 现在的状态为 `Restricted`
+2. 用管理员模式打开 Windows 的 PowerShell 
+3. 在windows PowerShell输入 `set-ExecutionPolicy Remo
+
+[更多>>>](https://github.com/smileyby/notes/issues/242)
+
+---
+
 
 #### [搞笑：人为什么要上班？哲理性回答：我司雇我在](https://github.com/smileyby/notes/issues/241) <sup>0 :speech_balloon:</sup> 	 2022-05-08 06:15:41
 
@@ -85,17 +98,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects
 https://css-speedrun.netlify.app/
 
 [更多>>>](https://github.com/smileyby/notes/issues/238)
-
----
-
-
-#### [IOS：唤起键盘导致页面上移，行为解析](https://github.com/smileyby/notes/issues/237) <sup>0 :speech_balloon:</sup> 	 2022-03-18 06:48:42
-
-:label: : [移动端 :custard:](https://github.com/smileyby/ghiblog/labels/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20%3Acustard%3A)
-
-此种情况会出现在，由用户行为而获取焦点的输入框位于页面下半区，系统检测发现 如果唤起键盘会遮挡输入区域，所以ios会自动将当前页面向上移动输入框高度距离，以达到不遮挡输入位置的目的
-
-[更多>>>](https://github.com/smileyby/notes/issues/237)
 
 ---
 
@@ -354,14 +356,23 @@ https://css-speedrun.netlify.app/
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>6:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>7:newspaper:</sup></summary>
 
+- [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>1 :speech_balloon:</sup>  	 
 - [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes/issues/102)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Templates should only be responsible for mapping the state to the UI](https://github.com/smileyby/notes/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [[Vue warn]: Avoid mutating a prop directly since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value.](https://github.com/smileyby/notes/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：Warn : [vue-router] Duplicate named routes definition](https://github.com/smileyby/notes/issues/71)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：vue-cli · Failed to download repo vuejs-templates/webpack: getaddrinfo ENOTFOUND github.com github.com:443](https://github.com/smileyby/notes/issues/70)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>vue-cli	<sup>1:newspaper:</sup></summary>
+
+- [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
