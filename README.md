@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/51"/>
+    <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-06-14 16:12:45"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-25 15:28:42"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,22 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决跨域的方法以及原理](https://github.com/smileyby/notes/issues/243) <sup>0 :speech_balloon:</sup> 	 2022-06-25 15:28:16
+
+:label: : [跨域](https://github.com/smileyby/ghiblog/labels/%E8%B7%A8%E5%9F%9F)
+
+前端：JSONP、websocket、postmessage、proxy
+后端：CORS
+
+proxy代理原理：同源策略是浏览器端的限制，服务器之间是没有这个限制的。所以通过在客户端和服务器中间，额外创建一个服务来转发请求的方式是可以实现跨域的
+
+CORS：浏览器的策略，跨源资源共享 ([
+
+[更多>>>](https://github.com/smileyby/notes/issues/243)
+
+---
+
 
 #### [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242) <sup>0 :speech_balloon:</sup> 	 2022-06-14 16:12:14
 
@@ -87,17 +103,6 @@
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc
 
 [更多>>>](https://github.com/smileyby/notes/issues/239)
-
----
-
-
-#### [有趣的CSS测试](https://github.com/smileyby/notes/issues/238) <sup>0 :speech_balloon:</sup> 	 2022-03-21 05:54:19
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-https://css-speedrun.netlify.app/
-
-[更多>>>](https://github.com/smileyby/notes/issues/238)
 
 ---
 
@@ -675,6 +680,14 @@ https://css-speedrun.netlify.app/
 <summary>调试	<sup>1:newspaper:</sup></summary>
 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes/issues/129)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>跨域	<sup>1:newspaper:</sup></summary>
+
+- [解决跨域的方法以及原理](https://github.com/smileyby/notes/issues/243)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
