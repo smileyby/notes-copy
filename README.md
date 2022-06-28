@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-06-25 15:28:42"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-28 08:55:25"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244) <sup>0 :speech_balloon:</sup> 	 2022-06-28 08:54:52
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+`Uncaught DOMException: Failed to read the 'localStorage' property from 'Window'`
+
+需要提前判断 当前浏览器是否支持 localstorage
+
+[更多>>>](https://github.com/smileyby/notes/issues/244)
+
+---
+
 
 #### [解决跨域的方法以及原理](https://github.com/smileyby/notes/issues/243) <sup>0 :speech_balloon:</sup> 	 2022-06-25 15:28:16
 
@@ -92,17 +105,6 @@ CORS：浏览器的策略，跨源资源共享 ([
 1. 单体架构：整个软件就是一个整体，仿佛是一体化机器。但随着软件功能的增加，单体架构就会越复杂，很
 
 [更多>>>](https://github.com/smileyby/notes/issues/240)
-
----
-
-
-#### [Math.trunc() 将数字的小数部分去掉，只保留整数部分](https://github.com/smileyby/notes/issues/239) <sup>0 :speech_balloon:</sup> 	 2022-03-23 10:45:51
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc
-
-[更多>>>](https://github.com/smileyby/notes/issues/239)
 
 ---
 
@@ -247,8 +249,9 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>36:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>37:newspaper:</sup></summary>
 
+- [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244)  <sup>0 :speech_balloon:</sup>  	 
 - [Math.trunc() 将数字的小数部分去掉，只保留整数部分](https://github.com/smileyby/notes/issues/239)  <sup>0 :speech_balloon:</sup>  	 
 - [blur 与 click 冲突解决](https://github.com/smileyby/notes/issues/236)  <sup>0 :speech_balloon:</sup>  	 
 - [JS: Number.prototype.toLocaleString ](https://github.com/smileyby/notes/issues/222)  <sup>0 :speech_balloon:</sup>  	 
