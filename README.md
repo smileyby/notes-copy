@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-10-12 15:24:13"/>
+    <img src="https://badgen.net/badge/last-commit/2022-11-29 04:42:06"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,22 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246) <sup>0 :speech_balloon:</sup> 	 2022-11-29 04:41:39
+
+:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
+
+npm run serve 报错如下：
+```
+node:internal/crypto/hash:71
+  this[kHandle] = new _Hash(algorithm, xofLen);
+                  ^
+Error: error:0308010C:di
+
+[更多>>>](https://github.com/smileyby/notes/issues/246)
+
+---
+
 
 #### [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245) <sup>0 :speech_balloon:</sup> 	 2022-10-12 15:23:45
 
@@ -88,17 +104,6 @@ CORS：浏览器的策略，跨源资源共享 ([
 3. 在windows PowerShell输入 `set-ExecutionPolicy Remo
 
 [更多>>>](https://github.com/smileyby/notes/issues/242)
-
----
-
-
-#### [搞笑：人为什么要上班？哲理性回答：我司雇我在](https://github.com/smileyby/notes/issues/241) <sup>0 :speech_balloon:</sup> 	 2022-05-08 06:15:41
-
-:label: : [每日趣闻 :curly_loop:](https://github.com/smileyby/ghiblog/labels/%E6%AF%8F%E6%97%A5%E8%B6%A3%E9%97%BB%20%3Acurly_loop%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/241)
 
 ---
 
@@ -288,8 +293,9 @@ CORS：浏览器的策略，跨源资源共享 ([
 </details>
 
 <details>
-<summary>Node.js :turtle:	<sup>3:newspaper:</sup></summary>
+<summary>Node.js :turtle:	<sup>4:newspaper:</sup></summary>
 
+- [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246)  <sup>0 :speech_balloon:</sup>  	 
 - [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [Todo：node](https://github.com/smileyby/notes/issues/133)  <sup>0 :speech_balloon:</sup>  	 
@@ -298,8 +304,9 @@ CORS：浏览器的策略，跨源资源共享 ([
 </details>
 
 <details>
-<summary>npm :snake:	<sup>6:newspaper:</sup></summary>
+<summary>npm :snake:	<sup>7:newspaper:</sup></summary>
 
+- [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246)  <sup>0 :speech_balloon:</sup>  	 
 - [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
 - [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
 - [npm node 安装包依赖 他们三者时间到底是个什么关系？](https://github.com/smileyby/notes/issues/145)  <sup>0 :speech_balloon:</sup>  	 
