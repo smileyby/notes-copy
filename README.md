@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-11-29 04:42:06"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-02 01:30:00"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [制作npm依赖包](https://github.com/smileyby/notes/issues/247) <sup>0 :speech_balloon:</sup> 	 2022-12-02 01:29:33
+
+:label: : [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/247)
+
+---
+
 
 #### [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246) <sup>0 :speech_balloon:</sup> 	 2022-11-29 04:41:39
 
@@ -91,19 +102,6 @@ proxy代理原理：同源策略是浏览器端的限制，服务器之间是没
 CORS：浏览器的策略，跨源资源共享 ([
 
 [更多>>>](https://github.com/smileyby/notes/issues/243)
-
----
-
-
-#### [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242) <sup>0 :speech_balloon:</sup> 	 2022-06-14 16:12:14
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
-
-1. 在PowerShell中输入 `get-ExecutionPolicy`，查询到 现在的状态为 `Restricted`
-2. 用管理员模式打开 Windows 的 PowerShell 
-3. 在windows PowerShell输入 `set-ExecutionPolicy Remo
-
-[更多>>>](https://github.com/smileyby/notes/issues/242)
 
 ---
 
@@ -304,8 +302,9 @@ CORS：浏览器的策略，跨源资源共享 ([
 </details>
 
 <details>
-<summary>npm :snake:	<sup>7:newspaper:</sup></summary>
+<summary>npm :snake:	<sup>8:newspaper:</sup></summary>
 
+- [制作npm依赖包](https://github.com/smileyby/notes/issues/247)  <sup>0 :speech_balloon:</sup>  	 
 - [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246)  <sup>0 :speech_balloon:</sup>  	 
 - [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
 - [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
