@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-29 07:53:07"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-29 09:44:02"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -50,7 +50,7 @@
 ---
 
 
-#### [制作npm依赖包](https://github.com/smileyby/notes/issues/247) <sup>0 :speech_balloon:</sup> 	 2022-12-02 01:29:33
+#### [制作npm依赖包](https://github.com/smileyby/notes/issues/247) <sup>1 :speech_balloon:</sup> 	 2022-12-02 01:29:33
 
 :label: : [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
 
@@ -300,7 +300,7 @@ Error: error:0308010C:di
 <details>
 <summary>npm :snake:	<sup>8:newspaper:</sup></summary>
 
-- [制作npm依赖包](https://github.com/smileyby/notes/issues/247)  <sup>0 :speech_balloon:</sup>  	 
+- [制作npm依赖包](https://github.com/smileyby/notes/issues/247)  <sup>1 :speech_balloon:</sup>  	 
 - [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246)  <sup>0 :speech_balloon:</sup>  	 
 - [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
 - [Node Sass does not yet support your current environment: Windows 64-bit with](https://github.com/smileyby/notes/issues/173)  <sup>1 :speech_balloon:</sup>  	 
