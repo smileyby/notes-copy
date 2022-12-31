@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-29 09:44:02"/>
+    <img src="https://badgen.net/badge/last-commit/2022-12-31 04:15:10"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249) <sup>0 :speech_balloon:</sup> 	 2022-12-31 04:14:47
+
+:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
+
+> 出现这个错误是由于 本地git账号或密码错误导致
+**解决方案：**
+1. 打开电脑的控制面板–>用户账户–>管理Windows凭据
+2. 普通凭据下找到对应的网站，修改账号和密码
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/249)
+
+---
+
 
 #### [web component 内部获取不到外部dom节点](https://github.com/smileyby/notes/issues/248) <sup>0 :speech_balloon:</sup> 	 2022-12-29 07:52:40
 
@@ -84,19 +99,6 @@ Error: error:0308010C:di
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/245)
-
----
-
-
-#### [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244) <sup>0 :speech_balloon:</sup> 	 2022-06-28 08:54:52
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-`Uncaught DOMException: Failed to read the 'localStorage' property from 'Window'`
-
-需要提前判断 当前浏览器是否支持 localstorage
-
-[更多>>>](https://github.com/smileyby/notes/issues/244)
 
 ---
 
@@ -213,8 +215,9 @@ Error: error:0308010C:di
 </details>
 
 <details>
-<summary>git :monkey_face:	<sup>3:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>4:newspaper:</sup></summary>
 
+- [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：常用命令](https://github.com/smileyby/notes/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：常用命令汇总 ](https://github.com/smileyby/notes/issues/40)  <sup>0 :speech_balloon:</sup>  	 
