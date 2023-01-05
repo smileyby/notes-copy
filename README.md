@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-05 06:06:47"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-05 10:01:39"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251) <sup>0 :speech_balloon:</sup> 	 2023-01-05 10:01:09
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/251)
+
+---
+
 
 #### [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250) <sup>0 :speech_balloon:</sup> 	 2023-01-05 06:06:17
 
@@ -89,22 +100,6 @@ vue-cli3 打包告警
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/247)
-
----
-
-
-#### [Error: error:0308010C:digital envazelope routines::unsupported](https://github.com/smileyby/notes/issues/246) <sup>0 :speech_balloon:</sup> 	 2022-11-29 04:41:39
-
-:label: : [Node.js :turtle:](https://github.com/smileyby/ghiblog/labels/Node.js%20%3Aturtle%3A), [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
-
-npm run serve 报错如下：
-```
-node:internal/crypto/hash:71
-  this[kHandle] = new _Hash(algorithm, xofLen);
-                  ^
-Error: error:0308010C:di
-
-[更多>>>](https://github.com/smileyby/notes/issues/246)
 
 ---
 
@@ -370,8 +365,9 @@ Error: error:0308010C:di
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>8:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>9:newspaper:</sup></summary>
 
+- [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>1 :speech_balloon:</sup>  	 
