@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-31 04:15:10"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-05 06:06:47"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,23 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250) <sup>0 :speech_balloon:</sup> 	 2023-01-05 06:06:17
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
+
+vue-cli3 打包告警
+```javascript
+// vue.config.js
+ {    ...   
+   css: {       \
+     extract: {           
+       ignoreOrder: true    // 忽略css引入顺序 
+
+[更多>>>](https://github.com/smileyby/notes/issues/250)
+
+---
+
 
 #### [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249) <sup>0 :speech_balloon:</sup> 	 2022-12-31 04:14:47
 
@@ -88,17 +105,6 @@ node:internal/crypto/hash:71
 Error: error:0308010C:di
 
 [更多>>>](https://github.com/smileyby/notes/issues/246)
-
----
-
-
-#### [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245) <sup>0 :speech_balloon:</sup> 	 2022-10-12 15:23:45
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/245)
 
 ---
 
@@ -364,8 +370,9 @@ Error: error:0308010C:di
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>7:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>8:newspaper:</sup></summary>
 
+- [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 - [VUE：for循环双层嵌套或插槽嵌套，内部子组件打印数据时，总是显示最后一个](https://github.com/smileyby/notes/issues/235)  <sup>1 :speech_balloon:</sup>  	 
 - [VUE：export default{ } 和export default Vue.extend({}）区别](https://github.com/smileyby/notes/issues/102)  <sup>0 :speech_balloon:</sup>  	 
@@ -378,8 +385,9 @@ Error: error:0308010C:di
 </details>
 
 <details>
-<summary>vue-cli	<sup>1:newspaper:</sup></summary>
+<summary>vue-cli	<sup>2:newspaper:</sup></summary>
 
+- [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 
 
