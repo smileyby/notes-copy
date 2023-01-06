@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-05 10:01:39"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-06 08:10:03"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,23 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252) <sup>0 :speech_balloon:</sup> 	 2023-01-06 08:09:36
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+```javascript
+// l: number 补0后字符串长度
+// s: string 原字符串
+function addZero(l, s){
+  return Array(l+1 - s.length).join(0) + s;
+}
+addZero(2, '1') // '
+
+[更多>>>](https://github.com/smileyby/notes/issues/252)
+
+---
+
 
 #### [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251) <sup>0 :speech_balloon:</sup> 	 2023-01-05 10:01:09
 
@@ -89,17 +106,6 @@ vue-cli3 打包告警
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/248)
-
----
-
-
-#### [制作npm依赖包](https://github.com/smileyby/notes/issues/247) <sup>1 :speech_balloon:</sup> 	 2022-12-02 01:29:33
-
-:label: : [npm :snake:](https://github.com/smileyby/ghiblog/labels/npm%20%3Asnake%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/247)
 
 ---
 
@@ -246,8 +252,9 @@ vue-cli3 打包告警
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>38:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>39:newspaper:</sup></summary>
 
+- [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252)  <sup>0 :speech_balloon:</sup>  	 
 - [web component 内部获取不到外部dom节点](https://github.com/smileyby/notes/issues/248)  <sup>0 :speech_balloon:</sup>  	 
 - [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244)  <sup>0 :speech_balloon:</sup>  	 
 - [Math.trunc() 将数字的小数部分去掉，只保留整数部分](https://github.com/smileyby/notes/issues/239)  <sup>0 :speech_balloon:</sup>  	 
