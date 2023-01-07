@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/52"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-06 08:10:03"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-07 13:33:41"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -43,13 +43,8 @@
 
 :label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
 
-```javascript
-// l: number 补0后字符串长度
-// s: string 原字符串
-function addZero(l, s){
-  return Array(l+1 - s.length).join(0) + s;
-}
-addZero(2, '1') // '
+![image](https://user-images.githubusercontent.com/16968442/211153348-e8219862-aa2e-4fb2-a8e9-bad8a175ebaf.png)
+
 
 [更多>>>](https://github.com/smileyby/notes/issues/252)
 
