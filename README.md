@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/53"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-13 06:55:59"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-13 09:52:04"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -67,7 +67,7 @@
 
 :label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
 
-
+Vue.js v2.7.14 4955行
 
 [更多>>>](https://github.com/smileyby/notes/issues/251)
 
