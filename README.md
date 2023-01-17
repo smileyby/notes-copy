@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/53"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-13 09:52:04"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-17 02:13:07"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254) <sup>0 :speech_balloon:</sup> 	 2023-01-17 02:12:32
+
+:label: : [3D](https://github.com/smileyby/ghiblog/labels/3D), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
+
+将打包命令修改如下：vue-cli-service build --no-module，再次打包后就不会出现 script type="module" 
+
+[更多>>>](https://github.com/smileyby/notes/issues/254)
+
+---
+
 
 #### [百度地图：绘制不交叉的区域以及获取绘制区域的中心点](https://github.com/smileyby/notes/issues/253) <sup>1 :speech_balloon:</sup> 	 2023-01-11 07:24:01
 
@@ -87,21 +98,6 @@ vue-cli3 打包告警
 ---
 
 
-#### [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249) <sup>0 :speech_balloon:</sup> 	 2022-12-31 04:14:47
-
-:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
-
-> 出现这个错误是由于 本地git账号或密码错误导致
-**解决方案：**
-1. 打开电脑的控制面板–>用户账户–>管理Windows凭据
-2. 普通凭据下找到对应的网站，修改账号和密码
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/249)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -131,8 +127,9 @@ vue-cli3 打包告警
 </details>
 
 <details>
-<summary>3D	<sup>1:newspaper:</sup></summary>
+<summary>3D	<sup>2:newspaper:</sup></summary>
 
+- [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254)  <sup>0 :speech_balloon:</sup>  	 
 - [3D真好玩](https://github.com/smileyby/notes/issues/213)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -380,8 +377,9 @@ vue-cli3 打包告警
 </details>
 
 <details>
-<summary>vue-cli	<sup>2:newspaper:</sup></summary>
+<summary>vue-cli	<sup>3:newspaper:</sup></summary>
 
+- [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
 
