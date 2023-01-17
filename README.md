@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/53"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-17 03:04:40"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-17 07:16:18"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255) <sup>0 :speech_balloon:</sup> 	 2023-01-17 07:15:53
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/255)
+
+---
+
 
 #### [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254) <sup>0 :speech_balloon:</sup> 	 2023-01-17 02:12:32
 
@@ -82,19 +93,6 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 Vue.js v2.7.14 4955行
 
 [更多>>>](https://github.com/smileyby/notes/issues/251)
-
----
-
-
-#### [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250) <sup>0 :speech_balloon:</sup> 	 2023-01-05 06:06:17
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
-
-vue-cli3 打包告警
-![image](https://user-images.githubusercontent.com/16968442/211153372-91241bc3-0827-427f-b296-d4657c22986d.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/250)
 
 ---
 
@@ -362,8 +360,9 @@ vue-cli3 打包告警
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>9:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>10:newspaper:</sup></summary>
 
+- [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
 - [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
