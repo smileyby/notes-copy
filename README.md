@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/53"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-17 02:13:07"/>
+    <img src="https://badgen.net/badge/last-commit/2023-01-17 03:04:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -44,6 +44,7 @@
 :label: : [3D](https://github.com/smileyby/ghiblog/labels/3D), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
 
 将打包命令修改如下：vue-cli-service build --no-module，再次打包后就不会出现 script type="module" 
+vue-cli 5.x 版本默认采用 --modern 模式打包
 
 [更多>>>](https://github.com/smileyby/notes/issues/254)
 
