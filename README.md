@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/53"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-01-17 07:16:18"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-01 04:23:11"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [git cherry pick](https://github.com/smileyby/notes/issues/256) <sup>0 :speech_balloon:</sup> 	 2023-02-01 04:22:41
+
+:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
+
+https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
+
+[更多>>>](https://github.com/smileyby/notes/issues/256)
+
+---
+
 
 #### [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255) <sup>0 :speech_balloon:</sup> 	 2023-01-17 07:15:53
 
@@ -82,17 +93,6 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/252)
-
----
-
-
-#### [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251) <sup>0 :speech_balloon:</sup> 	 2023-01-05 10:01:09
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
-
-Vue.js v2.7.14 4955行
-
-[更多>>>](https://github.com/smileyby/notes/issues/251)
 
 ---
 
@@ -210,8 +210,9 @@ Vue.js v2.7.14 4955行
 </details>
 
 <details>
-<summary>git :monkey_face:	<sup>4:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>5:newspaper:</sup></summary>
 
+- [git cherry pick](https://github.com/smileyby/notes/issues/256)  <sup>0 :speech_balloon:</sup>  	 
 - [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：常用命令](https://github.com/smileyby/notes/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：git branch branchName和git checkout -b branchName区别](https://github.com/smileyby/notes/issues/41)  <sup>0 :speech_balloon:</sup>  	 
