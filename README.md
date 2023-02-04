@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/53"/>
+    <img src="https://badgen.net/badge/labels/54"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-01 04:23:11"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-04 08:38:20"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [项目优化 常用手段](https://github.com/smileyby/notes/issues/257) <sup>0 :speech_balloon:</sup> 	 2023-02-04 08:37:53
+
+:label: : [优化](https://github.com/smileyby/ghiblog/labels/%E4%BC%98%E5%8C%96)
+
+1. http请求权重配置
+2. 精简dom嵌套结构
+3. 大图 png 转 jpg 
+4. cdn
+。。。
+
+[更多>>>](https://github.com/smileyby/notes/issues/257)
+
+---
+
 
 #### [git cherry pick](https://github.com/smileyby/notes/issues/256) <sup>0 :speech_balloon:</sup> 	 2023-02-01 04:22:41
 
@@ -81,18 +96,6 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/253)
-
----
-
-
-#### [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252) <sup>0 :speech_balloon:</sup> 	 2023-01-06 08:09:36
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-![image](https://user-images.githubusercontent.com/16968442/211153348-e8219862-aa2e-4fb2-a8e9-bad8a175ebaf.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/252)
 
 ---
 
@@ -401,6 +404,14 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 <summary>今天学到了 :sunflower:	<sup>1:newspaper:</sup></summary>
 
 - [小程序内如何引导用户关注公众号](https://github.com/smileyby/notes/issues/135)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>优化	<sup>1:newspaper:</sup></summary>
+
+- [项目优化 常用手段](https://github.com/smileyby/notes/issues/257)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
