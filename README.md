@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/54"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-04 08:38:20"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-09 10:02:23"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258) <sup>0 :speech_balloon:</sup> 	 2023-02-09 10:01:57
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+.a >>> b { xxx } 不生效！！
+
+[更多>>>](https://github.com/smileyby/notes/issues/258)
+
+---
+
 
 #### [项目优化 常用手段](https://github.com/smileyby/notes/issues/257) <sup>0 :speech_balloon:</sup> 	 2023-02-04 08:37:53
 
@@ -84,18 +95,6 @@ https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 vue-cli 5.x 版本默认采用 --modern 模式打包
 
 [更多>>>](https://github.com/smileyby/notes/issues/254)
-
----
-
-
-#### [百度地图：绘制不交叉的区域以及获取绘制区域的中心点](https://github.com/smileyby/notes/issues/253) <sup>1 :speech_balloon:</sup> 	 2023-01-11 07:24:01
-
-:label: : [百度地图](https://github.com/smileyby/ghiblog/labels/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE)
-
-![image](https://user-images.githubusercontent.com/16968442/212230972-1d3476a6-1d05-41f0-8b19-f7a861e32bb8.png)
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/253)
 
 ---
 
@@ -162,8 +161,9 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>20:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>21:newspaper:</sup></summary>
 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245)  <sup>0 :speech_balloon:</sup>  	 
 - [有趣的CSS测试](https://github.com/smileyby/notes/issues/238)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216)  <sup>0 :speech_balloon:</sup>  	 
@@ -364,8 +364,9 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>10:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>11:newspaper:</sup></summary>
 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>0 :speech_balloon:</sup>  	 
 - [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
 - [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
