@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/54"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-09 10:02:23"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-09 14:56:50"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,7 +39,7 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258) <sup>0 :speech_balloon:</sup> 	 2023-02-09 10:01:57
+#### [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258) <sup>1 :speech_balloon:</sup> 	 2023-02-09 10:01:57
 
 :label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
 
@@ -163,7 +163,7 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 <details>
 <summary>CSS :new_moon_with_face:	<sup>21:newspaper:</sup></summary>
 
-- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>0 :speech_balloon:</sup>  	 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>1 :speech_balloon:</sup>  	 
 - [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245)  <sup>0 :speech_balloon:</sup>  	 
 - [有趣的CSS测试](https://github.com/smileyby/notes/issues/238)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216)  <sup>0 :speech_balloon:</sup>  	 
@@ -366,7 +366,7 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 <details>
 <summary>VUE :milky_way:	<sup>11:newspaper:</sup></summary>
 
-- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>0 :speech_balloon:</sup>  	 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>1 :speech_balloon:</sup>  	 
 - [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
 - [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
