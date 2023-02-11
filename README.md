@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/54"/>
+    <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-11 14:29:00"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-11 14:31:53"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [pnpm 升级失败](https://github.com/smileyby/notes/issues/259) <sup>0 :speech_balloon:</sup> 	 2023-02-11 14:31:29
+
+:label: : [pnpm](https://github.com/smileyby/ghiblog/labels/pnpm)
+
+ERR_PNPM_NO_GLOBAL_BIN_DIR  Unable to find the global bin directory
+
+Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
+
+[更多>>>](https://github.com/smileyby/notes/issues/259)
+
+---
+
 
 #### [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258) <sup>2 :speech_balloon:</sup> 	 2023-02-09 10:01:57
 
@@ -83,18 +96,6 @@ https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/255)
-
----
-
-
-#### [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254) <sup>0 :speech_balloon:</sup> 	 2023-01-17 02:12:32
-
-:label: : [3D](https://github.com/smileyby/ghiblog/labels/3D), [vue-cli](https://github.com/smileyby/ghiblog/labels/vue-cli)
-
-将打包命令修改如下：vue-cli-service build --no-module，再次打包后就不会出现 script type="module" 
-vue-cli 5.x 版本默认采用 --modern 模式打包
-
-[更多>>>](https://github.com/smileyby/notes/issues/254)
 
 ---
 
@@ -311,6 +312,14 @@ vue-cli 5.x 版本默认采用 --modern 模式打包
 - [package.json 和 package.lock.json 区别和作用](https://github.com/smileyby/notes/issues/141)  <sup>0 :speech_balloon:</sup>  	 
 - [命令行：VUE 不是内部命令](https://github.com/smileyby/notes/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [Install fail! Error: EPERM: operation not permitted, symlink](https://github.com/smileyby/notes/issues/94)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>pnpm	<sup>1:newspaper:</sup></summary>
+
+- [pnpm 升级失败](https://github.com/smileyby/notes/issues/259)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
