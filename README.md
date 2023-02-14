@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-11 14:31:53"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-14 14:40:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260) <sup>0 :speech_balloon:</sup> 	 2023-02-14 14:39:43
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/260)
+
+---
+
 
 #### [pnpm 升级失败](https://github.com/smileyby/notes/issues/259) <sup>0 :speech_balloon:</sup> 	 2023-02-11 14:31:29
 
@@ -85,17 +96,6 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 
 [更多>>>](https://github.com/smileyby/notes/issues/256)
-
----
-
-
-#### [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255) <sup>0 :speech_balloon:</sup> 	 2023-01-17 07:15:53
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/255)
 
 ---
 
@@ -373,8 +373,9 @@ https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>11:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>12:newspaper:</sup></summary>
 
+- [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260)  <sup>0 :speech_balloon:</sup>  	 
 - [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
 - [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
 - [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
