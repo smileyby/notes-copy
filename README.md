@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-14 14:40:09"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-20 16:07:56"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261) <sup>0 :speech_balloon:</sup> 	 2023-02-20 16:07:31
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/261)
+
+---
+
 
 #### [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260) <sup>0 :speech_balloon:</sup> 	 2023-02-14 14:39:43
 
@@ -85,17 +96,6 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 。。。
 
 [更多>>>](https://github.com/smileyby/notes/issues/257)
-
----
-
-
-#### [git cherry pick](https://github.com/smileyby/notes/issues/256) <sup>0 :speech_balloon:</sup> 	 2023-02-01 04:22:41
-
-:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
-
-https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
-
-[更多>>>](https://github.com/smileyby/notes/issues/256)
 
 ---
 
@@ -162,8 +162,9 @@ https://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>21:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>22:newspaper:</sup></summary>
 
+- [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261)  <sup>0 :speech_balloon:</sup>  	 
 - [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
 - [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245)  <sup>0 :speech_balloon:</sup>  	 
 - [有趣的CSS测试](https://github.com/smileyby/notes/issues/238)  <sup>0 :speech_balloon:</sup>  	 
