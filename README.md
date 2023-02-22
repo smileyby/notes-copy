@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-20 16:07:56"/>
+    <img src="https://badgen.net/badge/last-commit/2023-02-22 03:43:05"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [百度地图 卫星地图下 zoomIn zoomOut 失效](https://github.com/smileyby/notes/issues/262) <sup>0 :speech_balloon:</sup> 	 2023-02-22 03:42:39
+
+:label: : [百度地图](https://github.com/smileyby/ghiblog/labels/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE)
+
+直接调用 zoomIn 和 zoomOut 对卫星地图进行方法缩小 只能缩放或缩小一个级别
+
+解决办法：使用 map.setZoom(map.getZoom +/- 1) 来实现放大或缩小，替代 zoomIn 和 zoomOut
+
+[更多>>>](https://github.com/smileyby/notes/issues/262)
+
+---
+
 
 #### [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261) <sup>0 :speech_balloon:</sup> 	 2023-02-20 16:07:31
 
@@ -81,21 +94,6 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 .a >>> b { xxx } 不生效！！
 
 [更多>>>](https://github.com/smileyby/notes/issues/258)
-
----
-
-
-#### [项目优化 常用手段](https://github.com/smileyby/notes/issues/257) <sup>0 :speech_balloon:</sup> 	 2023-02-04 08:37:53
-
-:label: : [优化](https://github.com/smileyby/ghiblog/labels/%E4%BC%98%E5%8C%96)
-
-1. http请求权重配置
-2. 精简dom嵌套结构
-3. 大图 png 转 jpg 
-4. cdn
-。。。
-
-[更多>>>](https://github.com/smileyby/notes/issues/257)
 
 ---
 
@@ -602,8 +600,9 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 </details>
 
 <details>
-<summary>百度地图	<sup>1:newspaper:</sup></summary>
+<summary>百度地图	<sup>2:newspaper:</sup></summary>
 
+- [百度地图 卫星地图下 zoomIn zoomOut 失效](https://github.com/smileyby/notes/issues/262)  <sup>0 :speech_balloon:</sup>  	 
 - [百度地图：绘制不交叉的区域以及获取绘制区域的中心点](https://github.com/smileyby/notes/issues/253)  <sup>1 :speech_balloon:</sup>  	 
 
 
