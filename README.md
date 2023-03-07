@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-02-22 03:43:05"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-07 02:36:24"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263) <sup>0 :speech_balloon:</sup> 	 2023-03-07 02:35:59
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/263)
+
+---
+
 
 #### [百度地图 卫星地图下 zoomIn zoomOut 失效](https://github.com/smileyby/notes/issues/262) <sup>0 :speech_balloon:</sup> 	 2023-02-22 03:42:39
 
@@ -83,17 +94,6 @@ ERR_PNPM_NO_GLOBAL_BIN_DIR  Unable to find the global bin directory
 Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 
 [更多>>>](https://github.com/smileyby/notes/issues/259)
-
----
-
-
-#### [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258) <sup>2 :speech_balloon:</sup> 	 2023-02-09 10:01:57
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-.a >>> b { xxx } 不生效！！
-
-[更多>>>](https://github.com/smileyby/notes/issues/258)
 
 ---
 
@@ -244,8 +244,9 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>39:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>40:newspaper:</sup></summary>
 
+- [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252)  <sup>0 :speech_balloon:</sup>  	 
 - [web component 内部获取不到外部dom节点](https://github.com/smileyby/notes/issues/248)  <sup>0 :speech_balloon:</sup>  	 
 - [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244)  <sup>0 :speech_balloon:</sup>  	 
