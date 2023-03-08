@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/55"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-07 02:36:24"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-08 09:32:54"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [BD09II坐标系 转 CGCS2000坐标](https://github.com/smileyby/notes/issues/264) <sup>0 :speech_balloon:</sup> 	 2023-03-08 09:32:30
+
+:label: : [百度地图](https://github.com/smileyby/ghiblog/labels/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE)
+
+import proj4 from 'proj4';
+
+function bd09ToCGCS2000(lng, lat) {
+  // 定义BD09II坐标系和CGCS2000坐标系的Proj对象
+  const bd09Proj = proj4('EPSG:4326', '+proj=l
+
+[更多>>>](https://github.com/smileyby/notes/issues/264)
+
+---
+
 
 #### [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263) <sup>0 :speech_balloon:</sup> 	 2023-03-07 02:35:59
 
@@ -81,19 +96,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/260)
-
----
-
-
-#### [pnpm 升级失败](https://github.com/smileyby/notes/issues/259) <sup>0 :speech_balloon:</sup> 	 2023-02-11 14:31:29
-
-:label: : [pnpm](https://github.com/smileyby/ghiblog/labels/pnpm)
-
-ERR_PNPM_NO_GLOBAL_BIN_DIR  Unable to find the global bin directory
-
-Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
-
-[更多>>>](https://github.com/smileyby/notes/issues/259)
 
 ---
 
@@ -601,8 +603,9 @@ Run "pnpm setup" to create it automatically, or set the global-bin-dir setting,
 </details>
 
 <details>
-<summary>百度地图	<sup>2:newspaper:</sup></summary>
+<summary>百度地图	<sup>3:newspaper:</sup></summary>
 
+- [BD09II坐标系 转 CGCS2000坐标](https://github.com/smileyby/notes/issues/264)  <sup>0 :speech_balloon:</sup>  	 
 - [百度地图 卫星地图下 zoomIn zoomOut 失效](https://github.com/smileyby/notes/issues/262)  <sup>0 :speech_balloon:</sup>  	 
 - [百度地图：绘制不交叉的区域以及获取绘制区域的中心点](https://github.com/smileyby/notes/issues/253)  <sup>1 :speech_balloon:</sup>  	 
 
