@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/55"/>
+    <img src="https://badgen.net/badge/labels/56"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-08 09:32:54"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-08 10:05:59"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,23 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [天地图api试用](https://github.com/smileyby/notes/issues/265) <sup>0 :speech_balloon:</sup> 	 2023-03-08 10:05:35
+
+:label: : [天地图](https://github.com/smileyby/ghiblog/labels/%E5%A4%A9%E5%9C%B0%E5%9B%BE)
+
+> 天地图 类参考：http://lbs.tianditu.gov.cn/api/js4.0/class.html
+
+1. 天地图初始化
+
+   ```javascript
+   const map = new T.Map('map')
+   map.enableScrollWheelZ
+
+[更多>>>](https://github.com/smileyby/notes/issues/265)
+
+---
+
 
 #### [BD09II坐标系 转 CGCS2000坐标](https://github.com/smileyby/notes/issues/264) <sup>0 :speech_balloon:</sup> 	 2023-03-08 09:32:30
 
@@ -85,17 +102,6 @@ function bd09ToCGCS2000(lng, lat) {
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/261)
-
----
-
-
-#### [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260) <sup>0 :speech_balloon:</sup> 	 2023-02-14 14:39:43
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/260)
 
 ---
 
@@ -458,6 +464,14 @@ function bd09ToCGCS2000(lng, lat) {
 <summary>名次解释 :palm_tree:	<sup>1:newspaper:</sup></summary>
 
 - [统计指标：汇总](https://github.com/smileyby/notes/issues/99)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>天地图	<sup>1:newspaper:</sup></summary>
+
+- [天地图api试用](https://github.com/smileyby/notes/issues/265)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
