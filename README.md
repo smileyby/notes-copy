@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/56"/>
+    <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-08 10:05:59"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-17 01:54:17"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,19 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [最新版本useragent字符串](https://github.com/smileyby/notes/issues/266) <sup>0 :speech_balloon:</sup> 	 2023-03-17 01:53:46
+
+:label: : [userAgent](https://github.com/smileyby/ghiblog/labels/userAgent)
+
+![useragent](https://user-images.githubusercontent.com/16968442/225792097-8dbf40ad-a225-413f-89ed-a487d8829894.png)
+https://www.useragents.me/
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/266)
+
+---
+
 
 #### [天地图api试用](https://github.com/smileyby/notes/issues/265) <sup>0 :speech_balloon:</sup> 	 2023-03-08 10:05:35
 
@@ -91,17 +104,6 @@ function bd09ToCGCS2000(lng, lat) {
 解决办法：使用 map.setZoom(map.getZoom +/- 1) 来实现放大或缩小，替代 zoomIn 和 zoomOut
 
 [更多>>>](https://github.com/smileyby/notes/issues/262)
-
----
-
-
-#### [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261) <sup>0 :speech_balloon:</sup> 	 2023-02-20 16:07:31
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/261)
 
 ---
 
@@ -368,6 +370,14 @@ function bd09ToCGCS2000(lng, lat) {
 - [Typescript Error: setInterval - Type 'Timer' is not assignable to type 'number'](https://github.com/smileyby/notes/issues/231)  <sup>0 :speech_balloon:</sup>  	 
 - [TS：Property 'a' of type 'string | undefined' is not assignable to 'string' index type 'string | number'.](https://github.com/smileyby/notes/issues/224)  <sup>0 :speech_balloon:</sup>  	 
 - [TS：vscode安装完typescript执行tsc报错](https://github.com/smileyby/notes/issues/75)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>userAgent	<sup>1:newspaper:</sup></summary>
+
+- [最新版本useragent字符串](https://github.com/smileyby/notes/issues/266)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
