@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-17 01:54:17"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-20 02:07:48"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267) <sup>0 :speech_balloon:</sup> 	 2023-03-20 02:07:22
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/267)
+
+---
+
 
 #### [最新版本useragent字符串](https://github.com/smileyby/notes/issues/266) <sup>0 :speech_balloon:</sup> 	 2023-03-17 01:53:46
 
@@ -91,19 +102,6 @@ function bd09ToCGCS2000(lng, lat) {
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/263)
-
----
-
-
-#### [百度地图 卫星地图下 zoomIn zoomOut 失效](https://github.com/smileyby/notes/issues/262) <sup>0 :speech_balloon:</sup> 	 2023-02-22 03:42:39
-
-:label: : [百度地图](https://github.com/smileyby/ghiblog/labels/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE)
-
-直接调用 zoomIn 和 zoomOut 对卫星地图进行方法缩小 只能缩放或缩小一个级别
-
-解决办法：使用 map.setZoom(map.getZoom +/- 1) 来实现放大或缩小，替代 zoomIn 和 zoomOut
-
-[更多>>>](https://github.com/smileyby/notes/issues/262)
 
 ---
 
@@ -254,8 +252,9 @@ function bd09ToCGCS2000(lng, lat) {
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>40:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>41:newspaper:</sup></summary>
 
+- [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267)  <sup>0 :speech_balloon:</sup>  	 
 - [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252)  <sup>0 :speech_balloon:</sup>  	 
 - [web component 内部获取不到外部dom节点](https://github.com/smileyby/notes/issues/248)  <sup>0 :speech_balloon:</sup>  	 
