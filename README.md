@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-20 02:07:48"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-26 08:39:02"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -95,11 +95,17 @@ function bd09ToCGCS2000(lng, lat) {
 ---
 
 
-#### [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263) <sup>0 :speech_balloon:</sup> 	 2023-03-07 02:35:59
+#### [async 函数返回的是什么？](https://github.com/smileyby/notes/issues/263) <sup>0 :speech_balloon:</sup> 	 2023-03-07 02:35:59
 
 :label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
 
+## async 函数
 
+async 函数是使用 async 关键字声明的函数
+
+async 函数是 AsyncFunction构造函数的实例，并且其中允许使用 await关键字。
+
+async 和 await 关键字让我们可以用一种更简洁的方式写出基于Promise的异步行为，而无需可
 
 [更多>>>](https://github.com/smileyby/notes/issues/263)
 
@@ -255,7 +261,7 @@ function bd09ToCGCS2000(lng, lat) {
 <summary>JavaScript :sunny:	<sup>41:newspaper:</sup></summary>
 
 - [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267)  <sup>0 :speech_balloon:</sup>  	 
-- [async 函数返回的是什么？为什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
+- [async 函数返回的是什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252)  <sup>0 :speech_balloon:</sup>  	 
 - [web component 内部获取不到外部dom节点](https://github.com/smileyby/notes/issues/248)  <sup>0 :speech_balloon:</sup>  	 
 - [localstorage 在浏览器设置阻止所有cookies模式下，会报错](https://github.com/smileyby/notes/issues/244)  <sup>0 :speech_balloon:</sup>  	 
