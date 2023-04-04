@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-26 08:39:02"/>
+    <img src="https://badgen.net/badge/last-commit/2023-04-04 01:57:04"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [实现border渐变的方式？](https://github.com/smileyby/notes/issues/268) <sup>0 :speech_balloon:</sup> 	 2023-04-04 01:56:38
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/268)
+
+---
+
 
 #### [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267) <sup>0 :speech_balloon:</sup> 	 2023-03-20 02:07:22
 
@@ -91,23 +102,6 @@ function bd09ToCGCS2000(lng, lat) {
   const bd09Proj = proj4('EPSG:4326', '+proj=l
 
 [更多>>>](https://github.com/smileyby/notes/issues/264)
-
----
-
-
-#### [async 函数返回的是什么？](https://github.com/smileyby/notes/issues/263) <sup>0 :speech_balloon:</sup> 	 2023-03-07 02:35:59
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-## async 函数
-
-async 函数是使用 async 关键字声明的函数
-
-async 函数是 AsyncFunction构造函数的实例，并且其中允许使用 await关键字。
-
-async 和 await 关键字让我们可以用一种更简洁的方式写出基于Promise的异步行为，而无需可
-
-[更多>>>](https://github.com/smileyby/notes/issues/263)
 
 ---
 
@@ -174,8 +168,9 @@ async 和 await 关键字让我们可以用一种更简洁的方式写出基于P
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>22:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>23:newspaper:</sup></summary>
 
+- [实现border渐变的方式？](https://github.com/smileyby/notes/issues/268)  <sup>0 :speech_balloon:</sup>  	 
 - [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261)  <sup>0 :speech_balloon:</sup>  	 
 - [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
 - [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245)  <sup>0 :speech_balloon:</sup>  	 
