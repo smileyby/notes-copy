@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-04-04 01:57:04"/>
+    <img src="https://badgen.net/badge/last-commit/2023-04-05 09:13:46"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -54,7 +54,12 @@
 
 :label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
 
+toFxied() 方法，将数字保留指定位数后，返回保留位数的**字符串**
+2.45.toFixed(1) => '2.5'
+2.44.toFixed(1) => '2.4'
 
+使用 parseInt 解决保留小数部分时四舍五入的情况
+1. 将原数值 num 扩大 10^n 倍 （num
 
 [更多>>>](https://github.com/smileyby/notes/issues/267)
 
