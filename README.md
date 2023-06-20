@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-06-12 06:15:04"/>
+    <img src="https://badgen.net/badge/last-commit/2023-06-20 01:15:30"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,17 +39,17 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271) <sup>0 :speech_balloon:</sup> 	 2023-06-12 06:14:36
+#### [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271) <sup>1 :speech_balloon:</sup> 	 2023-06-12 06:14:36
 
 :label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
 
 场景：存在通过 addRoute添加的 异步鉴权路由，当在鉴权路由页面刷新时，会出现以上告警
 原因：由于路由匹配先与 addRoute 导致
 解决：在路由表中添加 404 路由
-```
-{ 
-    path: "/:pathMatch(.*)",
-    component: () =
+代码如下图1
+
+另外一个问题：在刷新时处在动态添加的路由时，路由还未添加的问题
+解决办法：在beforeEac
 
 [更多>>>](https://github.com/smileyby/notes/issues/271)
 
@@ -402,7 +402,7 @@ toFxied() 方法，将数字保留指定位数后，返回保留位数的**字�
 <details>
 <summary>VUE :milky_way:	<sup>13:newspaper:</sup></summary>
 
-- [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271)  <sup>0 :speech_balloon:</sup>  	 
+- [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271)  <sup>1 :speech_balloon:</sup>  	 
 - [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260)  <sup>0 :speech_balloon:</sup>  	 
 - [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
 - [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
