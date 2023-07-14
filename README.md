@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-06-20 01:15:30"/>
+    <img src="https://badgen.net/badge/last-commit/2023-07-14 08:45:10"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,24 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [vue-cli转vite](https://github.com/smileyby/notes/issues/272) <sup>0 :speech_balloon:</sup> 	 2023-07-14 08:44:39
+
+:label: : [vite](https://github.com/smileyby/ghiblog/labels/vite)
+
+1. 使用vite创建空项目 npm init vite
+
+   1. framework：选择 Vue 
+   2. variant: 选择 javascript
+
+2. 创建完成后，将src目录下的文件全部删除，将使用vue-cli创建的项目src文件夹下文件复制过来
+
+3. 创建
+
+[更多>>>](https://github.com/smileyby/notes/issues/272)
+
+---
+
 
 #### [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271) <sup>1 :speech_balloon:</sup> 	 2023-06-12 06:14:36
 
@@ -93,22 +111,6 @@
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/268)
-
----
-
-
-#### [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267) <sup>0 :speech_balloon:</sup> 	 2023-03-20 02:07:22
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-toFxied() 方法，将数字保留指定位数后，返回保留位数的**字符串**
-2.45.toFixed(1) => '2.5'
-2.44.toFixed(1) => '2.4'
-
-使用 parseInt 解决保留小数部分时四舍五入的情况
-1. 将原数值 num 扩大 10^n 倍 （num
-
-[更多>>>](https://github.com/smileyby/notes/issues/267)
 
 ---
 
@@ -392,8 +394,9 @@ toFxied() 方法，将数字保留指定位数后，返回保留位数的**字�
 </details>
 
 <details>
-<summary>vite	<sup>1:newspaper:</sup></summary>
+<summary>vite	<sup>2:newspaper:</sup></summary>
 
+- [vue-cli转vite](https://github.com/smileyby/notes/issues/272)  <sup>0 :speech_balloon:</sup>  	 
 - [vite原理](https://github.com/smileyby/notes/issues/174)  <sup>0 :speech_balloon:</sup>  	 
 
 
