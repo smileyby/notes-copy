@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-07-17 03:23:48"/>
+    <img src="https://badgen.net/badge/last-commit/2023-07-17 03:25:04"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,7 +39,7 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [vue-cli转vite](https://github.com/smileyby/notes/issues/272) <sup>1 :speech_balloon:</sup> 	 2023-07-14 08:44:39
+#### [vue-cli转vite](https://github.com/smileyby/notes/issues/272) <sup>2 :speech_balloon:</sup> 	 2023-07-14 08:44:39
 
 :label: : [vite](https://github.com/smileyby/ghiblog/labels/vite)
 
@@ -396,7 +396,7 @@
 <details>
 <summary>vite	<sup>2:newspaper:</sup></summary>
 
-- [vue-cli转vite](https://github.com/smileyby/notes/issues/272)  <sup>1 :speech_balloon:</sup>  	 
+- [vue-cli转vite](https://github.com/smileyby/notes/issues/272)  <sup>2 :speech_balloon:</sup>  	 
 - [vite原理](https://github.com/smileyby/notes/issues/174)  <sup>0 :speech_balloon:</sup>  	 
 
 
