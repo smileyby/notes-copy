@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-07-17 03:25:04"/>
+    <img src="https://badgen.net/badge/last-commit/2023-07-21 02:39:27"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [css media query](https://github.com/smileyby/notes/issues/273) <sup>0 :speech_balloon:</sup> 	 2023-07-21 02:39:03
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
+
+https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
+
+[更多>>>](https://github.com/smileyby/notes/issues/273)
+
+---
+
 
 #### [vue-cli转vite](https://github.com/smileyby/notes/issues/272) <sup>2 :speech_balloon:</sup> 	 2023-07-14 08:44:39
 
@@ -104,17 +115,6 @@
 ---
 
 
-#### [实现border渐变的方式？](https://github.com/smileyby/notes/issues/268) <sup>0 :speech_balloon:</sup> 	 2023-04-04 01:56:38
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/268)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -177,8 +177,9 @@
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>25:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>26:newspaper:</sup></summary>
 
+- [css media query](https://github.com/smileyby/notes/issues/273)  <sup>0 :speech_balloon:</sup>  	 
 - [屏幕分辨率对页面缩放元素位置的影响？？](https://github.com/smileyby/notes/issues/270)  <sup>0 :speech_balloon:</sup>  	 
 - [css animation + step 实现帧动画](https://github.com/smileyby/notes/issues/269)  <sup>0 :speech_balloon:</sup>  	 
 - [实现border渐变的方式？](https://github.com/smileyby/notes/issues/268)  <sup>0 :speech_balloon:</sup>  	 
