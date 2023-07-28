@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-07-21 02:39:27"/>
+    <img src="https://badgen.net/badge/last-commit/2023-07-28 01:25:39"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274) <sup>0 :speech_balloon:</sup> 	 2023-07-28 01:25:18
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+https://www.macarthur.me/posts/maps-for-dom-nodes
+
+[更多>>>](https://github.com/smileyby/notes/issues/274)
+
+---
+
 
 #### [css media query](https://github.com/smileyby/notes/issues/273) <sup>0 :speech_balloon:</sup> 	 2023-07-21 02:39:03
 
@@ -92,25 +103,6 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/270)
-
----
-
-
-#### [css animation + step 实现帧动画](https://github.com/smileyby/notes/issues/269) <sup>0 :speech_balloon:</sup> 	 2023-04-06 03:01:07
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-```css
-.bg {
-      width: 220px;
-      height: 220px;
-      background-image: url('bg.png');
-    }
-
-    /* 定义一个动画，每秒切换一帧图片，循环播放 */
-    @keyfra
-
-[更多>>>](https://github.com/smileyby/notes/issues/269)
 
 ---
 
@@ -265,8 +257,9 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>41:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>42:newspaper:</sup></summary>
 
+- [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274)  <sup>0 :speech_balloon:</sup>  	 
 - [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267)  <sup>0 :speech_balloon:</sup>  	 
 - [async 函数返回的是什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
 - [JavaScript：补0函数](https://github.com/smileyby/notes/issues/252)  <sup>0 :speech_balloon:</sup>  	 
