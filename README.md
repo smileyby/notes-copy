@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-03 03:41:44"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-03 03:42:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,11 +39,12 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [div](https://github.com/smileyby/notes/issues/275) <sup>0 :speech_balloon:</sup> 	 2023-08-03 03:40:01
+#### [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275) <sup>0 :speech_balloon:</sup> 	 2023-08-03 03:40:01
 
 :label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A), [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
 
-
+`<div tabindex="-1"></div>`
+tabindex 指示其元素是否可以聚焦，以及它是否/在何处参与顺序键盘导航
 
 [更多>>>](https://github.com/smileyby/notes/issues/275)
 
@@ -171,7 +172,7 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 <details>
 <summary>CSS :new_moon_with_face:	<sup>27:newspaper:</sup></summary>
 
-- [div](https://github.com/smileyby/notes/issues/275)  <sup>0 :speech_balloon:</sup>  	 
+- [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275)  <sup>0 :speech_balloon:</sup>  	 
 - [css media query](https://github.com/smileyby/notes/issues/273)  <sup>0 :speech_balloon:</sup>  	 
 - [屏幕分辨率对页面缩放元素位置的影响？？](https://github.com/smileyby/notes/issues/270)  <sup>0 :speech_balloon:</sup>  	 
 - [css animation + step 实现帧动画](https://github.com/smileyby/notes/issues/269)  <sup>0 :speech_balloon:</sup>  	 
@@ -241,7 +242,7 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 <details>
 <summary>HTML :palm_tree:	<sup>5:newspaper:</sup></summary>
 
-- [div](https://github.com/smileyby/notes/issues/275)  <sup>0 :speech_balloon:</sup>  	 
+- [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275)  <sup>0 :speech_balloon:</sup>  	 
 - [HTML draggable 属性实现拖拽](https://github.com/smileyby/notes/issues/144)  <sup>1 :speech_balloon:</sup>  	 
 - [input 修改光标颜色 caret-color](https://github.com/smileyby/notes/issues/109)  <sup>0 :speech_balloon:</sup>  	 
 - [HTML：Unicode 编码的用途](https://github.com/smileyby/notes/issues/77)  <sup>0 :speech_balloon:</sup>  	 
