@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-03 03:42:40"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-04 03:30:55"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276) <sup>0 :speech_balloon:</sup> 	 2023-08-04 03:30:30
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/276)
+
+---
+
 
 #### [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275) <sup>0 :speech_balloon:</sup> 	 2023-08-03 03:40:01
 
@@ -87,23 +98,6 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 3. 创建
 
 [更多>>>](https://github.com/smileyby/notes/issues/272)
-
----
-
-
-#### [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271) <sup>1 :speech_balloon:</sup> 	 2023-06-12 06:14:36
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
-
-场景：存在通过 addRoute添加的 异步鉴权路由，当在鉴权路由页面刷新时，会出现以上告警
-原因：由于路由匹配先与 addRoute 导致
-解决：在路由表中添加 404 路由
-代码如下图1
-
-另外一个问题：在刷新时处在动态添加的路由时，路由还未添加的问题
-解决办法：在beforeEac
-
-[更多>>>](https://github.com/smileyby/notes/issues/271)
 
 ---
 
@@ -260,8 +254,9 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>42:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>43:newspaper:</sup></summary>
 
+- [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276)  <sup>0 :speech_balloon:</sup>  	 
 - [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274)  <sup>0 :speech_balloon:</sup>  	 
 - [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267)  <sup>0 :speech_balloon:</sup>  	 
 - [async 函数返回的是什么？](https://github.com/smileyby/notes/issues/263)  <sup>0 :speech_balloon:</sup>  	 
