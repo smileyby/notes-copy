@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/57"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-04 03:30:55"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-10 03:42:46"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Vue-Router报错：Uncaught (in promise)Error: Navigation cancelled from “/“ to “/1“ with a new navigation](https://github.com/smileyby/notes/issues/277) <sup>0 :speech_balloon:</sup> 	 2023-08-10 03:42:23
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A)
+
+https://www.jb51.net/article/192781.htm
+
+[更多>>>](https://github.com/smileyby/notes/issues/277)
+
+---
+
 
 #### [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276) <sup>0 :speech_balloon:</sup> 	 2023-08-04 03:30:30
 
@@ -80,24 +91,6 @@ https://www.macarthur.me/posts/maps-for-dom-nodes
 https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
 
 [更多>>>](https://github.com/smileyby/notes/issues/273)
-
----
-
-
-#### [vue-cli转vite](https://github.com/smileyby/notes/issues/272) <sup>2 :speech_balloon:</sup> 	 2023-07-14 08:44:39
-
-:label: : [vite](https://github.com/smileyby/ghiblog/labels/vite)
-
-1. 使用vite创建空项目 npm init vite
-
-   1. framework：选择 Vue 
-   2. variant: 选择 javascript
-
-2. 创建完成后，将src目录下的文件全部删除，将使用vue-cli创建的项目src文件夹下文件复制过来
-
-3. 创建
-
-[更多>>>](https://github.com/smileyby/notes/issues/272)
 
 ---
 
@@ -395,8 +388,9 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>13:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>14:newspaper:</sup></summary>
 
+- [Vue-Router报错：Uncaught (in promise)Error: Navigation cancelled from “/“ to “/1“ with a new navigation](https://github.com/smileyby/notes/issues/277)  <sup>0 :speech_balloon:</sup>  	 
 - [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271)  <sup>1 :speech_balloon:</sup>  	 
 - [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260)  <sup>0 :speech_balloon:</sup>  	 
 - [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
