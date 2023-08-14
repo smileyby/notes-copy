@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/57"/>
+    <img src="https://badgen.net/badge/labels/59"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-10 03:42:46"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-14 10:01:09"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278) <sup>0 :speech_balloon:</sup> 	 2023-08-14 10:00:45
+
+:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-router](https://github.com/smileyby/ghiblog/labels/vue-router), [qiankun](https://github.com/smileyby/ghiblog/labels/qiankun)
+
+为啥？？
+
+[更多>>>](https://github.com/smileyby/notes/issues/278)
+
+---
+
 
 #### [Vue-Router报错：Uncaught (in promise)Error: Navigation cancelled from “/“ to “/1“ with a new navigation](https://github.com/smileyby/notes/issues/277) <sup>0 :speech_balloon:</sup> 	 2023-08-10 03:42:23
 
@@ -80,17 +91,6 @@ tabindex 指示其元素是否可以聚焦，以及它是否/在何处参与顺�
 https://www.macarthur.me/posts/maps-for-dom-nodes
 
 [更多>>>](https://github.com/smileyby/notes/issues/274)
-
----
-
-
-#### [css media query](https://github.com/smileyby/notes/issues/273) <sup>0 :speech_balloon:</sup> 	 2023-07-21 02:39:03
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A)
-
-https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
-
-[更多>>>](https://github.com/smileyby/notes/issues/273)
 
 ---
 
@@ -331,6 +331,14 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 </details>
 
 <details>
+<summary>qiankun	<sup>1:newspaper:</sup></summary>
+
+- [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>React :globe_with_meridians:	<sup>3:newspaper:</sup></summary>
 
 - [npm报错](https://github.com/smileyby/notes/issues/182)  <sup>1 :speech_balloon:</sup>  	 
@@ -388,8 +396,9 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 </details>
 
 <details>
-<summary>VUE :milky_way:	<sup>14:newspaper:</sup></summary>
+<summary>VUE :milky_way:	<sup>15:newspaper:</sup></summary>
 
+- [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278)  <sup>0 :speech_balloon:</sup>  	 
 - [Vue-Router报错：Uncaught (in promise)Error: Navigation cancelled from “/“ to “/1“ with a new navigation](https://github.com/smileyby/notes/issues/277)  <sup>0 :speech_balloon:</sup>  	 
 - [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271)  <sup>1 :speech_balloon:</sup>  	 
 - [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260)  <sup>0 :speech_balloon:</sup>  	 
@@ -414,6 +423,14 @@ https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-desig
 - [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
 - [window下 重新安装vuecli vscode powershell 不识别解决](https://github.com/smileyby/notes/issues/242)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>vue-router	<sup>1:newspaper:</sup></summary>
+
+- [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
