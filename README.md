@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/59"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-14 10:01:09"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-17 10:01:48"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,22 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [chrome性能面板指标解释](https://github.com/smileyby/notes/issues/279) <sup>0 :speech_balloon:</sup> 	 2023-08-17 10:01:22
+
+:label: : [chrome :ocean:](https://github.com/smileyby/ghiblog/labels/chrome%20%3Aocean%3A)
+
+chrome => performance => summary
+Loading（加载）: 
+这是指从发起网络请求到接收到第一个字节的时间。它反映了网络请求的延迟时间。
+
+Scripting（脚本处理）:
+这是指解析和执行JavaScript代码的时间。它包括将JavaScript代码编译
+
+[更多>>>](https://github.com/smileyby/notes/issues/279)
+
+---
+
 
 #### [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278) <sup>0 :speech_balloon:</sup> 	 2023-08-14 10:00:45
 
@@ -80,17 +96,6 @@ https://www.jb51.net/article/192781.htm
 tabindex 指示其元素是否可以聚焦，以及它是否/在何处参与顺序键盘导航
 
 [更多>>>](https://github.com/smileyby/notes/issues/275)
-
----
-
-
-#### [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274) <sup>0 :speech_balloon:</sup> 	 2023-07-28 01:25:18
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-https://www.macarthur.me/posts/maps-for-dom-nodes
-
-[更多>>>](https://github.com/smileyby/notes/issues/274)
 
 ---
 
@@ -141,8 +146,9 @@ https://www.macarthur.me/posts/maps-for-dom-nodes
 </details>
 
 <details>
-<summary>chrome :ocean:	<sup>1:newspaper:</sup></summary>
+<summary>chrome :ocean:	<sup>2:newspaper:</sup></summary>
 
+- [chrome性能面板指标解释](https://github.com/smileyby/notes/issues/279)  <sup>0 :speech_balloon:</sup>  	 
 - [Chrome 调试移动端H5页面](https://github.com/smileyby/notes/issues/129)  <sup>0 :speech_balloon:</sup>  	 
 
 
