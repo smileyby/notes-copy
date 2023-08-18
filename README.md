@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/59"/>
+    <img src="https://badgen.net/badge/labels/60"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-17 10:01:48"/>
+    <img src="https://badgen.net/badge/last-commit/2023-08-18 02:48:57"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [element() 获取指定元素的图像信息-实时的](https://github.com/smileyby/notes/issues/280) <sup>0 :speech_balloon:</sup> 	 2023-08-18 02:48:27
+
+:label: : [css新特性](https://github.com/smileyby/ghiblog/labels/css%E6%96%B0%E7%89%B9%E6%80%A7)
+
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/element
+仅支持firefox
+
+[更多>>>](https://github.com/smileyby/notes/issues/280)
+
+---
+
 
 #### [chrome性能面板指标解释](https://github.com/smileyby/notes/issues/279) <sup>0 :speech_balloon:</sup> 	 2023-08-17 10:01:22
 
@@ -84,18 +96,6 @@ https://www.jb51.net/article/192781.htm
 
 
 [更多>>>](https://github.com/smileyby/notes/issues/276)
-
----
-
-
-#### [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275) <sup>0 :speech_balloon:</sup> 	 2023-08-03 03:40:01
-
-:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A), [HTML :palm_tree:](https://github.com/smileyby/ghiblog/labels/HTML%20%3Apalm_tree%3A)
-
-`<div tabindex="-1"></div>`
-tabindex 指示其元素是否可以聚焦，以及它是否/在何处参与顺序键盘导航
-
-[更多>>>](https://github.com/smileyby/notes/issues/275)
 
 ---
 
@@ -192,6 +192,14 @@ tabindex 指示其元素是否可以聚焦，以及它是否/在何处参与顺�
 - [CSS：font-weight 设置数值在不同浏览器中解析效果不一致](https://github.com/smileyby/notes/issues/52)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：图片加载失败兜底方案实现--转自张鑫旭博客](https://github.com/smileyby/notes/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：inline-block元素并排排列，如果元素高度不一致会产生元素之间上下偏移问题 ](https://github.com/smileyby/notes/issues/50)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>css新特性	<sup>1:newspaper:</sup></summary>
+
+- [element() 获取指定元素的图像信息-实时的](https://github.com/smileyby/notes/issues/280)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
