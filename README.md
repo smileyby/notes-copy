@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/60"/>
+    <img src="https://badgen.net/badge/labels/61"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-08-18 02:48:57"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-04 14:47:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,17 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [【悬疑网剧】胆小鬼](https://github.com/smileyby/notes/issues/281) <sup>0 :speech_balloon:</sup> 	 2023-09-04 14:46:40
+
+:label: : [电视剧](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E8%A7%86%E5%89%A7)
+
+《胆小鬼》改编自[郑执](https://baike.baidu.com/item/%E9%83%91%E6%89%A7/4853855?fromModule=lemma_inlink)原著长篇小说《[生吞](https://baike.baidu.com/item/%E7%94%9F%E5%90%
+
+[更多>>>](https://github.com/smileyby/notes/issues/281)
+
+---
+
 
 #### [element() 获取指定元素的图像信息-实时的](https://github.com/smileyby/notes/issues/280) <sup>0 :speech_balloon:</sup> 	 2023-08-18 02:48:27
 
@@ -85,17 +96,6 @@ Scripting（脚本处理）:
 https://www.jb51.net/article/192781.htm
 
 [更多>>>](https://github.com/smileyby/notes/issues/277)
-
----
-
-
-#### [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276) <sup>0 :speech_balloon:</sup> 	 2023-08-04 03:30:30
-
-:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
-
-
-
-[更多>>>](https://github.com/smileyby/notes/issues/276)
 
 ---
 
@@ -652,6 +652,14 @@ https://www.jb51.net/article/192781.htm
 - [电影：藏草青青](https://github.com/smileyby/notes/issues/183)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：最后的城堡](https://github.com/smileyby/notes/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [推荐电影：《给我翅膀》](https://github.com/smileyby/notes/issues/125)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>电视剧	<sup>1:newspaper:</sup></summary>
+
+- [【悬疑网剧】胆小鬼](https://github.com/smileyby/notes/issues/281)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
