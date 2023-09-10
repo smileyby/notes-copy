@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/61"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-09-08 03:41:15"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-10 09:22:08"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -172,7 +172,7 @@ Scripting（脚本处理）:
 - [css animation + step 实现帧动画](https://github.com/smileyby/notes/issues/269)  <sup>0 :speech_balloon:</sup>  	 
 - [实现border渐变的方式？](https://github.com/smileyby/notes/issues/268)  <sup>0 :speech_balloon:</sup>  	 
 - [flex 布局下为什么文字超出宽度不换行？](https://github.com/smileyby/notes/issues/261)  <sup>0 :speech_balloon:</sup>  	 
-- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>3 :speech_balloon:</sup>  	 
 - [CSS：conic-gradient 绘制饼形图](https://github.com/smileyby/notes/issues/245)  <sup>0 :speech_balloon:</sup>  	 
 - [有趣的CSS测试](https://github.com/smileyby/notes/issues/238)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS：display：inline-block 元素错位问题的原因？](https://github.com/smileyby/notes/issues/216)  <sup>0 :speech_balloon:</sup>  	 
@@ -418,7 +418,7 @@ Scripting（脚本处理）:
 - [Vue-Router报错：Uncaught (in promise)Error: Navigation cancelled from “/“ to “/1“ with a new navigation](https://github.com/smileyby/notes/issues/277)  <sup>0 :speech_balloon:</sup>  	 
 - [vue-router 4.x 告警：[Vue Router warn]: No match found for location with path](https://github.com/smileyby/notes/issues/271)  <sup>1 :speech_balloon:</sup>  	 
 - [Vue.use Vue.component 都做了什么？](https://github.com/smileyby/notes/issues/260)  <sup>0 :speech_balloon:</sup>  	 
-- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>2 :speech_balloon:</sup>  	 
+- [::v-deep >>> /deep/ 原理以及不生效的原因](https://github.com/smileyby/notes/issues/258)  <sup>3 :speech_balloon:</sup>  	 
 - [弹窗关闭了，为啥还在缓存里没销毁？](https://github.com/smileyby/notes/issues/255)  <sup>0 :speech_balloon:</sup>  	 
 - [vue：component 动态渲染组件原理](https://github.com/smileyby/notes/issues/251)  <sup>0 :speech_balloon:</sup>  	 
 - [npm run build：chunk fail [mini-css-extract-plugin] Conflicting order. Following module has been added:](https://github.com/smileyby/notes/issues/250)  <sup>0 :speech_balloon:</sup>  	 
