@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/61"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-09-11 02:39:24"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-11 09:06:40"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,18 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [css 实现圆环进度条的方式？](https://github.com/smileyby/notes/issues/284) <sup>0 :speech_balloon:</sup> 	 2023-09-11 09:06:15
+
+:label: : [CSS :new_moon_with_face:](https://github.com/smileyby/ghiblog/labels/CSS%20%3Anew_moon_with_face%3A), [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A)
+
+1. 渐变实现
+2. 左右半区实现
+
+[更多>>>](https://github.com/smileyby/notes/issues/284)
+
+---
+
 
 #### [git 查看历史记录命令【gitk】](https://github.com/smileyby/notes/issues/283) <sup>0 :speech_balloon:</sup> 	 2023-09-11 02:38:49
 
@@ -83,22 +95,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/CSS/element
 仅支持firefox
 
 [更多>>>](https://github.com/smileyby/notes/issues/280)
-
----
-
-
-#### [chrome性能面板指标解释](https://github.com/smileyby/notes/issues/279) <sup>0 :speech_balloon:</sup> 	 2023-08-17 10:01:22
-
-:label: : [chrome :ocean:](https://github.com/smileyby/ghiblog/labels/chrome%20%3Aocean%3A)
-
-chrome => performance => summary
-Loading（加载）: 
-这是指从发起网络请求到接收到第一个字节的时间。它反映了网络请求的延迟时间。
-
-Scripting（脚本处理）:
-这是指解析和执行JavaScript代码的时间。它包括将JavaScript代码编译
-
-[更多>>>](https://github.com/smileyby/notes/issues/279)
 
 ---
 
@@ -166,8 +162,9 @@ Scripting（脚本处理）:
 </details>
 
 <details>
-<summary>CSS :new_moon_with_face:	<sup>28:newspaper:</sup></summary>
+<summary>CSS :new_moon_with_face:	<sup>29:newspaper:</sup></summary>
 
+- [css 实现圆环进度条的方式？](https://github.com/smileyby/notes/issues/284)  <sup>0 :speech_balloon:</sup>  	 
 - [【css】backdrop-filter 与 filter 区别以及作用](https://github.com/smileyby/notes/issues/282)  <sup>0 :speech_balloon:</sup>  	 
 - [div有tabindex属性时，被选中会显示outline默认淡黄色](https://github.com/smileyby/notes/issues/275)  <sup>0 :speech_balloon:</sup>  	 
 - [css media query](https://github.com/smileyby/notes/issues/273)  <sup>0 :speech_balloon:</sup>  	 
@@ -267,8 +264,9 @@ Scripting（脚本处理）:
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>43:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>44:newspaper:</sup></summary>
 
+- [css 实现圆环进度条的方式？](https://github.com/smileyby/notes/issues/284)  <sup>0 :speech_balloon:</sup>  	 
 - [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276)  <sup>0 :speech_balloon:</sup>  	 
 - [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274)  <sup>0 :speech_balloon:</sup>  	 
 - [解决 toFixed 保留小数会 四舍五入问题](https://github.com/smileyby/notes/issues/267)  <sup>0 :speech_balloon:</sup>  	 
