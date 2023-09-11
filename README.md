@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/61"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-09-10 09:22:08"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-11 02:39:24"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,20 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [git 查看历史记录命令【gitk】](https://github.com/smileyby/notes/issues/283) <sup>0 :speech_balloon:</sup> 	 2023-09-11 02:38:49
+
+:label: : [git :monkey_face:](https://github.com/smileyby/ghiblog/labels/git%20%3Amonkey_face%3A)
+
+```
+gitk
+```
+在项目目录下，打开gitbash，输入gitk即可查看历史记录
+
+[更多>>>](https://github.com/smileyby/notes/issues/283)
+
+---
+
 
 #### [【css】backdrop-filter 与 filter 区别以及作用](https://github.com/smileyby/notes/issues/282) <sup>0 :speech_balloon:</sup> 	 2023-09-08 03:40:50
 
@@ -85,17 +99,6 @@ Scripting（脚本处理）:
 这是指解析和执行JavaScript代码的时间。它包括将JavaScript代码编译
 
 [更多>>>](https://github.com/smileyby/notes/issues/279)
-
----
-
-
-#### [router-view 设置key后导致乾坤匹配的子路由不渲染](https://github.com/smileyby/notes/issues/278) <sup>0 :speech_balloon:</sup> 	 2023-08-14 10:00:45
-
-:label: : [VUE :milky_way:](https://github.com/smileyby/ghiblog/labels/VUE%20%3Amilky_way%3A), [vue-router](https://github.com/smileyby/ghiblog/labels/vue-router), [qiankun](https://github.com/smileyby/ghiblog/labels/qiankun)
-
-为啥？？
-
-[更多>>>](https://github.com/smileyby/notes/issues/278)
 
 ---
 
@@ -231,8 +234,9 @@ Scripting（脚本处理）:
 </details>
 
 <details>
-<summary>git :monkey_face:	<sup>5:newspaper:</sup></summary>
+<summary>git :monkey_face:	<sup>6:newspaper:</sup></summary>
 
+- [git 查看历史记录命令【gitk】](https://github.com/smileyby/notes/issues/283)  <sup>0 :speech_balloon:</sup>  	 
 - [git cherry pick](https://github.com/smileyby/notes/issues/256)  <sup>0 :speech_balloon:</sup>  	 
 - [git：remote Incorrect username or password ( access token )](https://github.com/smileyby/notes/issues/249)  <sup>0 :speech_balloon:</sup>  	 
 - [Git：常用命令](https://github.com/smileyby/notes/issues/90)  <sup>0 :speech_balloon:</sup>  	 
