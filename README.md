@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/62"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-09-14 08:53:57"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-14 08:58:48"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -39,7 +39,7 @@
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286) <sup>0 :speech_balloon:</sup> 	 2023-09-14 08:53:32
+#### [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286) <sup>1 :speech_balloon:</sup> 	 2023-09-14 08:53:32
 
 :label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A), [axios](https://github.com/smileyby/ghiblog/labels/axios)
 
@@ -142,7 +142,7 @@ gitk
 <details>
 <summary>axios	<sup>1:newspaper:</sup></summary>
 
-- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>0 :speech_balloon:</sup>  	 
+- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -279,7 +279,7 @@ gitk
 <details>
 <summary>JavaScript :sunny:	<sup>45:newspaper:</sup></summary>
 
-- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>0 :speech_balloon:</sup>  	 
+- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>1 :speech_balloon:</sup>  	 
 - [css 实现圆环进度条的方式？](https://github.com/smileyby/notes/issues/284)  <sup>0 :speech_balloon:</sup>  	 
 - [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276)  <sup>0 :speech_balloon:</sup>  	 
 - [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274)  <sup>0 :speech_balloon:</sup>  	 
