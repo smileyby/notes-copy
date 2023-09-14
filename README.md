@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/61"/>
+    <img src="https://badgen.net/badge/labels/62"/>
     <img src="https://badgen.net/github/issues/smileyby/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2023-09-13 10:02:07"/>
+    <img src="https://badgen.net/badge/last-commit/2023-09-14 08:53:57"/>
     <img src="https://badgen.net/github/forks/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/stars/smileyby/ghiblog"/>
     <img src="https://badgen.net/github/watchers/smileyby/ghiblog"/>
@@ -38,6 +38,21 @@
 - [你想住在中国哪里？（转自阮一峰周刊第180期）](https://github.com/smileyby/notes/issues/167)  <sup>0 :speech_balloon:</sup>  	 
 - [掘金小册：小程序底层框架实现原理-笔记](https://github.com/smileyby/notes/issues/165)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286) <sup>0 :speech_balloon:</sup> 	 2023-09-14 08:53:32
+
+:label: : [JavaScript :sunny:](https://github.com/smileyby/ghiblog/labels/JavaScript%20%3Asunny%3A), [axios](https://github.com/smileyby/ghiblog/labels/axios)
+
+
+axios 检测 config.data 是undefined会自动清除content-type
+
+再拦截器中设置的时候可以 将config.data 设置一个空对象
+
+
+[更多>>>](https://github.com/smileyby/notes/issues/286)
+
+---
+
 
 #### [【css】mask 用法](https://github.com/smileyby/notes/issues/285) <sup>0 :speech_balloon:</sup> 	 2023-09-13 10:01:43
 
@@ -87,17 +102,6 @@ gitk
 ---
 
 
-#### [【悬疑网剧】胆小鬼](https://github.com/smileyby/notes/issues/281) <sup>0 :speech_balloon:</sup> 	 2023-09-04 14:46:40
-
-:label: : [电视剧](https://github.com/smileyby/ghiblog/labels/%E7%94%B5%E8%A7%86%E5%89%A7)
-
-《胆小鬼》改编自[郑执](https://baike.baidu.com/item/%E9%83%91%E6%89%A7/4853855?fromModule=lemma_inlink)原著长篇小说《[生吞](https://baike.baidu.com/item/%E7%94%9F%E5%90%
-
-[更多>>>](https://github.com/smileyby/notes/issues/281)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -131,6 +135,14 @@ gitk
 
 - [关闭 vue-cli 关闭现代模式打包](https://github.com/smileyby/notes/issues/254)  <sup>0 :speech_balloon:</sup>  	 
 - [3D真好玩](https://github.com/smileyby/notes/issues/213)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>axios	<sup>1:newspaper:</sup></summary>
+
+- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -265,8 +277,9 @@ gitk
 </details>
 
 <details>
-<summary>JavaScript :sunny:	<sup>44:newspaper:</sup></summary>
+<summary>JavaScript :sunny:	<sup>45:newspaper:</sup></summary>
 
+- [【axios】设置content-type无效的原因](https://github.com/smileyby/notes/issues/286)  <sup>0 :speech_balloon:</sup>  	 
 - [css 实现圆环进度条的方式？](https://github.com/smileyby/notes/issues/284)  <sup>0 :speech_balloon:</sup>  	 
 - [canvas绘制m3u8视频流？](https://github.com/smileyby/notes/issues/276)  <sup>0 :speech_balloon:</sup>  	 
 - [weakmap 存储dom节点，垃圾回收后会自动删除？](https://github.com/smileyby/notes/issues/274)  <sup>0 :speech_balloon:</sup>  	 
