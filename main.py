@@ -48,6 +48,7 @@ def login():
 def get_ghiblog():
     global ghiblog
     ghiblog = user.get_repo(os.environ.get('GITHUB_REPOSITORY'))
+    print('ghiblog：', ghiblog)
 
 
 def bundle_summary_section():
