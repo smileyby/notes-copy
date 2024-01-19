@@ -88,7 +88,7 @@ def bundle_summary_section():
 
 def bundle_pinned_issues_section():
     global ghiblog
-
+    print(ghiblog.get_label(':+1:置顶'))
     pinned_label = ghiblog.get_label(':+1:置顶')
     pinned_issues = ghiblog.get_issues(labels=(pinned_label,))
 
