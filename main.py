@@ -280,12 +280,14 @@ def execute():
     print(list_by_labels_section)
 
     # 7. cover image section
-    cover_image_section = bundle_cover_image_section()
-    print(cover_image_section)
-
+    # to do fix
+    # cover_image_section = bundle_cover_image_section()
+    # print(cover_image_section)
+f
     # 8. projects section
-    projects_section = bundle_projects_section()
-    print(projects_section)
+    # to do fix
+    # projects_section = bundle_projects_section()
+    # print(projects_section)
 
     # 9. about me section
     # about_me_section = bundle_about_me_section()
