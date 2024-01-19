@@ -48,7 +48,6 @@ def login():
 def get_ghiblog():
     global ghiblog
     ghiblog = user.get_repo(os.environ.get('GITHUB_REPOSITORY'))
-    print('ghiblog：', ghiblog)
 
 
 def bundle_summary_section():
@@ -267,9 +266,10 @@ def execute():
     summary_section = bundle_summary_section()
     print(summary_section)
 
-    # 4. pinned issues section
-    pinned_issues_section = bundle_pinned_issues_section()
-    print(pinned_issues_section)
+    # 4. pinned issues section 
+    # this function failed to do fix
+    # pinned_issues_section = bundle_pinned_issues_section()
+    # print(pinned_issues_section)
 
     # 5. new created section
     new_created_section = bundle_new_created_section()
